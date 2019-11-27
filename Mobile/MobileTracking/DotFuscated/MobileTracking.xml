@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE dotfuscator SYSTEM "http://www.preemptive.com/dotfuscator/dtd/dotfuscator_v2.1.dtd">
+<dotfuscator version="2.1">
+  <!--This is application generated code. Do not edit manually.-->
+  <global />
+  <input>
+    <asmlist>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="D:\C#\Mobile\Tapi\TapiLib\bin\Debug" name="TapiLib.dll" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="D:\C#\Mobile\SmartDeviceFramework14src\OpenNETCF\bin\Debug" name="OpenNETCF.dll" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="D:\C#\Mobile\SmartDeviceFramework14src\OpenNETCF.Drawing\bin\Debug" name="OpenNETCF.Drawing.dll" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="D:\C#\Mobile\SmartDeviceFramework14src\OpenNETCF.Net\bin\Debug" name="OpenNETCF.Net.dll" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="D:\C#\Mobile\SmartDeviceFramework14src\OpenNETCF.Phone\bin\Debug" name="OpenNETCF.Phone.dll" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="D:\C#\Mobile\SmartDeviceFramework14src\OpenNETCF.Windows.Forms\bin\Debug" name="OpenNETCF.Windows.Forms.dll" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="D:\C#\Mobile\JVGPS\JVGPS\bin\Debug" name="JVGPS.dll" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="D:\C#\Mobile\JVUtils\JVUtils\bin\Debug" name="JVUtils.dll" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="D:\C#\Mobile\MobileTracking\MobileTracking\bin\Debug" name="MobileTracking.exe" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="D:\C#\Mobile\MobileTracking\MobileTrackingTouch\bin\Debug" name="MobileTrackingTouch.exe" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="D:\C#\Mobile\MobileTracking\CoreDLL\bin\Debug" name="CoreDLL.dll" />
+      </inputassembly>
+    </asmlist>
+  </input>
+  <output>
+    <file dir="${configdir}\Dotfuscated" />
+  </output>
+  <renaming>
+    <mapping>
+      <mapoutput overwrite="false">
+        <file dir="${configdir}\Dotfuscated" name="Map.xml" />
+      </mapoutput>
+    </mapping>
+  </renaming>
+</dotfuscator>

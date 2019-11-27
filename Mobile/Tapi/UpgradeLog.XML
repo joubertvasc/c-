@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TapiApp">
+</Property><Property Name="Solution File" Value="F:\Temp\tapi1.1\Tapi\TapiApp.sln">
+</Property><Property Name="Date" Value="terça-feira, 20 de maio de 2008">
+</Property><Property Name="Time" Value="09:15">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TapiApp.sln" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\TapiApp.sln">
+</Event><Event ErrorLevel="0" Project="TapiApp" Source="TapiApp.csdproj" Description="Project file successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\TapiApp.csdproj">
+</Event><Event ErrorLevel="0" Project="TapiApp" Source="TapiApp.csdproj.user" Description="Project user file successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\TapiApp.csdproj.user">
+</Event><Event ErrorLevel="0" Project="TapiApp" Source="AssemblyInfo.cs" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TapiApp" Source="Form1.cs" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="TapiApp" Source="Form1.resx" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="TapiApp" Source="TapiApp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TapiApp" Source="TapiApp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TapiLib" Source="TapiLib\TapiLib.csdproj" Description="Project file successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\TapiLib\TapiLib.csdproj">
+</Event><Event ErrorLevel="0" Project="TapiLib" Source="TapiLib\TapiLib.csdproj.user" Description="Project user file successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\TapiLib\TapiLib.csdproj.user">
+</Event><Event ErrorLevel="0" Project="TapiLib" Source="TapiLib\AssemblyInfo.cs" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\TapiLib\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TapiLib" Source="TapiLib\ByteCopy.cs" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\TapiLib\ByteCopy.cs">
+</Event><Event ErrorLevel="0" Project="TapiLib" Source="TapiLib\CellTSP.cs" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\TapiLib\CellTSP.cs">
+</Event><Event ErrorLevel="0" Project="TapiLib" Source="TapiLib\Tapi.cs" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\TapiLib\Tapi.cs">
+</Event><Event ErrorLevel="0" Project="TapiLib" Source="TapiLib\TapiEnums.cs" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\TapiLib\TapiEnums.cs">
+</Event><Event ErrorLevel="0" Project="TapiLib" Source="TapiLib\TapiLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TapiLib" Source="TapiLib\TapiLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MakeCall" Source="SampleCode\MakeCall\MakeCall.csdproj" Description="Project file successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\SampleCode\MakeCall\MakeCall.csdproj">
+</Event><Event ErrorLevel="0" Project="MakeCall" Source="SampleCode\MakeCall\MakeCall.csdproj.user" Description="Project user file successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\SampleCode\MakeCall\MakeCall.csdproj.user">
+</Event><Event ErrorLevel="0" Project="MakeCall" Source="SampleCode\MakeCall\AssemblyInfo.cs" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\SampleCode\MakeCall\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MakeCall" Source="SampleCode\MakeCall\MakeCallForm.cs" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\SampleCode\MakeCall\MakeCallForm.cs">
+</Event><Event ErrorLevel="0" Project="MakeCall" Source="SampleCode\MakeCall\MakeCallForm.resx" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\SampleCode\MakeCall\MakeCallForm.resx">
+</Event><Event ErrorLevel="0" Project="MakeCall" Source="SampleCode\MakeCall\MakeCall.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MakeCall" Source="SampleCode\MakeCall\MakeCall.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MakeCallSP" Source="SampleCode\SmartPhone\MakeCallSP\MakeCallSP.csdproj" Description="Project file successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\SampleCode\SmartPhone\MakeCallSP\MakeCallSP.csdproj">
+</Event><Event ErrorLevel="0" Project="MakeCallSP" Source="SampleCode\SmartPhone\MakeCallSP\MakeCallSP.csdproj.user" Description="Project user file successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\SampleCode\SmartPhone\MakeCallSP\MakeCallSP.csdproj.user">
+</Event><Event ErrorLevel="0" Project="MakeCallSP" Source="SampleCode\SmartPhone\MakeCallSP\AssemblyInfo.cs" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\SampleCode\SmartPhone\MakeCallSP\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MakeCallSP" Source="SampleCode\SmartPhone\MakeCallSP\Form1.cs" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\SampleCode\SmartPhone\MakeCallSP\Form1.cs">
+</Event><Event ErrorLevel="0" Project="MakeCallSP" Source="SampleCode\SmartPhone\MakeCallSP\Form1.resx" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\SampleCode\SmartPhone\MakeCallSP\Form1.resx">
+</Event><Event ErrorLevel="0" Project="MakeCallSP" Source="SampleCode\SmartPhone\MakeCallSP\MakeCallSP.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MakeCallSP" Source="SampleCode\SmartPhone\MakeCallSP\MakeCallSP.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LinePropsSP" Source="SampleCode\SmartPhone\LinePropsSP\LinePropsSP.csdproj" Description="Project file successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\SampleCode\SmartPhone\LinePropsSP\LinePropsSP.csdproj">
+</Event><Event ErrorLevel="0" Project="LinePropsSP" Source="SampleCode\SmartPhone\LinePropsSP\LinePropsSP.csdproj.user" Description="Project user file successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\SampleCode\SmartPhone\LinePropsSP\LinePropsSP.csdproj.user">
+</Event><Event ErrorLevel="0" Project="LinePropsSP" Source="SampleCode\SmartPhone\LinePropsSP\AssemblyInfo.cs" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\SampleCode\SmartPhone\LinePropsSP\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LinePropsSP" Source="SampleCode\SmartPhone\LinePropsSP\Form1.cs" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\SampleCode\SmartPhone\LinePropsSP\Form1.cs">
+</Event><Event ErrorLevel="0" Project="LinePropsSP" Source="SampleCode\SmartPhone\LinePropsSP\Form1.resx" Description="File successfully backed up as F:\Temp\tapi1.1\Tapi\Backup\SampleCode\SmartPhone\LinePropsSP\Form1.resx">
+</Event><Event ErrorLevel="0" Project="LinePropsSP" Source="SampleCode\SmartPhone\LinePropsSP\LinePropsSP.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LinePropsSP" Source="SampleCode\SmartPhone\LinePropsSP\LinePropsSP.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TapiApp.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TapiApp.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TapiApp" Source="Form1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="TapiApp" Source="Form1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TapiApp" Source="TapiApp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="TapiLib" Source="TapiLib\TapiLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MakeCall" Source="SampleCode\MakeCall\MakeCallForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MakeCall" Source="SampleCode\MakeCall\MakeCallForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MakeCall" Source="SampleCode\MakeCall\MakeCall.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MakeCallSP" Source="SampleCode\SmartPhone\MakeCallSP\Form1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MakeCallSP" Source="SampleCode\SmartPhone\MakeCallSP\Form1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MakeCallSP" Source="SampleCode\SmartPhone\MakeCallSP\MakeCallSP.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LinePropsSP" Source="SampleCode\SmartPhone\LinePropsSP\Form1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="LinePropsSP" Source="SampleCode\SmartPhone\LinePropsSP\Form1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LinePropsSP" Source="SampleCode\SmartPhone\LinePropsSP\LinePropsSP.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

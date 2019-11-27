@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="windows-1252" ?> 
+<config>
+  <cabs>
+    <cab>NETCFv35.wm.armv4i.cab</cab>
+    <cab>apptodate.cab</cab>
+    <cab>ATMSistemas.cab</cab>
+  </cabs>
+</config>

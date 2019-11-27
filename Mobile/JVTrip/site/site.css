@@ -1,0 +1,400 @@
+.dummy {
+	FONT-SIZE: 16pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 9pt; PADDING-BOTTOM: 0px; MARGIN-LEFT: 2%; COLOR: #000000; MARGIN-RIGHT: 2%; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+TD.title {
+	FONT-WEIGHT: normal; FONT-SIZE: 16pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+FONT.title {
+	FONT-WEIGHT: normal; FONT-SIZE: 16pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+.title {
+	FONT-WEIGHT: normal; FONT-SIZE: 16pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.title:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 16pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.title:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 16pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.title:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 16pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+TD.text {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+FONT.text {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+.text {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.text:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.text:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.text:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+TD.textbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+FONT.textbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+.textbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.textbold:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.textbold:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.textbold:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+TD.textboldlink {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+FONT.textboldlink {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+.textboldlink {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.textboldlink:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.textboldlink:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.textboldlink:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+TD.smtext {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+FONT.smtext {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+.smtext {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.smtext:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.smtext:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.smtext:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+TD.smtextbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+FONT.smtextbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+.smtextbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.smtextbold:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.smtextbold:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.smtextbold:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+TD.subtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+FONT.subtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+.subtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.subtitle:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.subtitle:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.subtitle:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+TD.legal {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+FONT.legal {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+.legal {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.legal:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.legal:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.legal:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+TD.legallink {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+FONT.legallink {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+.legallink {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.legallink:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.legallink:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.legallink:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+TD.textred {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+FONT.textred {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+.textred {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.textred:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.textred:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.textred:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+TD.textredbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+FONT.textredbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+.textredbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.textredbold:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.textredbold:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+A.textredbold:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #cc3300; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; TEXT-DECORATION: none
+}
+TD.link {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #3366cc; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+FONT.link {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #3366cc; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+.link {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #3366cc; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.link:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #3366cc; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.link:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #3366cc; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.link:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #3366cc; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+TD.tabletitlelink {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #e9e9d3
+}
+FONT.tabletitlelink {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #e9e9d3
+}
+.tabletitlelink {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #e9e9d3
+}
+A.tabletitlelink:link {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #e9e9d3
+}
+A.tabletitlelink:visited {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #e9e9d3
+}
+A.tabletitlelink:active {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #e9e9d3
+}
+TH {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #e9e9d3
+}
+TD.tabletitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #e9e9d3
+}
+FONT.tabletitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #e9e9d3
+}
+.tabletitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #e9e9d3
+}
+A.tabletitle:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #e9e9d3
+}
+A.tabletitle:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #e9e9d3
+}
+A.tabletitle:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: #e9e9d3
+}
+TD.cell {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: whitesmoke
+}
+TR.cell {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: whitesmoke
+}
+FONT.cell {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: whitesmoke
+}
+.cell {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: whitesmoke
+}
+A.cell:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: whitesmoke
+}
+A.cell:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: whitesmoke
+}
+A.cell:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: whitesmoke
+}
+TD.shaded {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: whitesmoke
+}
+TR.shaded {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: whitesmoke
+}
+FONT.shaded {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: whitesmoke
+}
+.shaded {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: whitesmoke
+}
+A.shaded:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: whitesmoke
+}
+A.shaded:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: whitesmoke
+}
+A.shaded:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: whitesmoke
+}
+TD.term {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+FONT.term {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+.term {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.term:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.term:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.term:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+UL {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+LI {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A.h1:link {
+	FONT-SIZE: 12pt; COLOR: #0066cc; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.h1:visited {
+	FONT-SIZE: 12pt; COLOR: #0066cc; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+.h1 {
+	FONT-SIZE: 12pt; COLOR: #0066cc; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.h1:active {
+	FONT-SIZE: 12pt; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+H1 {
+	FONT-SIZE: 12pt; COLOR: #0066cc; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+.h2 {
+	FONT-SIZE: 11pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+H2 {
+	FONT-SIZE: 11pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.h3:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.h3:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+.h3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+A.h3:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+DT {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+.code {
+	FONT-FAMILY: "Courier New", Courier, monospace
+}
+A.code:active {
+	FONT-FAMILY: "Courier New", Courier, monospace
+}
+A.code:link {
+	FONT-FAMILY: "Courier New", Courier, monospace
+}
+A.code:visited {
+	FONT-FAMILY: "Courier New", Courier, monospace
+}
+.abstract {
+	FONT-STYLE: italic
+}
+P {
+	FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+TD {
+	FONT-SIZE: 10pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+/*A:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #3366cc; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; 
+/**/}
+A:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #3366cc; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}
+/*A:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #333366; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif
+}/**/
+.white     { color:#ffffff; text-decoration: none; font-weight: normal; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif  }

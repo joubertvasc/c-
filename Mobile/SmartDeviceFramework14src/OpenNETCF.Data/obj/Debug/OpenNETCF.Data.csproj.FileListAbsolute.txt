@@ -1,0 +1,16 @@
+D:\Temp\SmartDeviceFramework14src\OpenNETCF.Data\bin\Debug\ChangeLog.txt
+D:\Temp\SmartDeviceFramework14src\OpenNETCF.Data\bin\Debug\EULA.txt
+D:\Temp\SmartDeviceFramework14src\OpenNETCF.Data\bin\Debug\OpenNETCF.Data.dll
+D:\Temp\SmartDeviceFramework14src\OpenNETCF.Data\bin\Debug\OpenNETCF.Data.pdb
+D:\Temp\SmartDeviceFramework14src\OpenNETCF.Data\bin\Debug\OpenNETCF.Data.xml
+D:\Temp\SmartDeviceFramework14src\OpenNETCF.Data\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\SmartDeviceFramework14src\OpenNETCF.Data\obj\Debug\OpenNETCF.Data.dll
+D:\Temp\SmartDeviceFramework14src\OpenNETCF.Data\obj\Debug\OpenNETCF.Data.pdb
+D:\C#\Mobile\SmartDeviceFramework14src\OpenNETCF.Data\bin\Debug\ChangeLog.txt
+D:\C#\Mobile\SmartDeviceFramework14src\OpenNETCF.Data\bin\Debug\EULA.txt
+D:\C#\Mobile\SmartDeviceFramework14src\OpenNETCF.Data\bin\Debug\OpenNETCF.Data.dll
+D:\C#\Mobile\SmartDeviceFramework14src\OpenNETCF.Data\bin\Debug\OpenNETCF.Data.pdb
+D:\C#\Mobile\SmartDeviceFramework14src\OpenNETCF.Data\bin\Debug\OpenNETCF.Data.xml
+D:\C#\Mobile\SmartDeviceFramework14src\OpenNETCF.Data\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\Mobile\SmartDeviceFramework14src\OpenNETCF.Data\obj\Debug\OpenNETCF.Data.dll
+D:\C#\Mobile\SmartDeviceFramework14src\OpenNETCF.Data\obj\Debug\OpenNETCF.Data.pdb

@@ -1,0 +1,271 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{74D41DD0-CE28-49E3-B97F-AF519EFA5D4F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JVUtils</RootNamespace>
+    <AssemblyName>JVUtils</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <PlatformID>b2c48bd2-963d-4549-9169-1fa021dce484</PlatformID>
+    <OSVersion>5.2</OSVersion>
+    <DeployDirSuffix>JVUtils</DeployDirSuffix>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <NativePlatformName>Windows Mobile 6 Professional SDK</NativePlatformName>
+    <FormFactorID>
+    </FormFactorID>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;PocketPC;NETCF_2_0</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MAPIdotnet, Version=1.0.3645.16626, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\MAPIdotnet\mapidotnet\MAPIdotnet\bin\Debug\MAPIdotnet.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.Windowsce.Forms" />
+    <Reference Include="Microsoft.WindowsMobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="Microsoft.WindowsMobile.Configuration, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="Microsoft.WindowsMobile.Forms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="Microsoft.WindowsMobile.PocketOutlook, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="Microsoft.WindowsMobile.Status, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="Microsoft.WindowsMobile.Telephony, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="mscorlib" />
+    <Reference Include="OpenNETCF, Version=1.3.50123.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SmartDeviceFramework14src\OpenNETCF\bin\Debug\OpenNETCF.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenNETCF.Net, Version=1.3.50124.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SmartDeviceFramework14src\OpenNETCF.Net\bin\Debug\OpenNETCF.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenNETCF.Phone, Version=1.3.50123.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SmartDeviceFramework14src\OpenNETCF.Phone\bin\Debug\OpenNETCF.Phone.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenNETCF.Windows.Forms, Version=1.3.50123.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SmartDeviceFramework14src\OpenNETCF.Windows.Forms\bin\Debug\OpenNETCF.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TapiLib, Version=1.0.3267.21295, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Tapi\TapiLib\bin\Debug\TapiLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Wrappers, Version=1.0.3706.42037, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Wrappers\Wrappers\bin\Debug\Wrappers.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppToDate.cs" />
+    <Compile Include="AudioNotes.cs" />
+    <Compile Include="Base64Decoder.cs" />
+    <Compile Include="Base64Encoder.cs" />
+    <Compile Include="BatteryMetter.cs" />
+    <Compile Include="CallHistory.cs" />
+    <Compile Include="CellDB.cs" />
+    <Compile Include="Compress\BZip2\BZip2.cs" />
+    <Compile Include="Compress\BZip2\BZip2Constants.cs" />
+    <Compile Include="Compress\BZip2\BZip2Exception.cs" />
+    <Compile Include="Compress\BZip2\BZip2InputStream.cs" />
+    <Compile Include="Compress\BZip2\BZip2OutputStream.cs" />
+    <Compile Include="Compress\Checksums\Adler32.cs" />
+    <Compile Include="Compress\Checksums\CRC32.cs" />
+    <Compile Include="Compress\Checksums\IChecksum.cs" />
+    <Compile Include="Compress\Checksums\StrangeCRC.cs" />
+    <Compile Include="Compress\Core\FileSystemScanner.cs" />
+    <Compile Include="Compress\Core\INameTransform.cs" />
+    <Compile Include="Compress\Core\IScanFilter.cs" />
+    <Compile Include="Compress\Core\NameFilter.cs" />
+    <Compile Include="Compress\Core\PathFilter.cs" />
+    <Compile Include="Compress\Core\StreamUtils.cs" />
+    <Compile Include="Compress\Core\WindowsPathUtils.cs" />
+    <Compile Include="Compress\Encryption\PkzipClassic.cs" />
+    <Compile Include="Compress\GZip\GZIPConstants.cs" />
+    <Compile Include="Compress\GZip\GZipException.cs" />
+    <Compile Include="Compress\GZip\GzipInputStream.cs" />
+    <Compile Include="Compress\GZip\GzipOutputStream.cs" />
+    <Compile Include="Compress\SharpZipBaseException.cs" />
+    <Compile Include="Compress\Tar\InvalidHeaderException.cs" />
+    <Compile Include="Compress\Tar\TarArchive.cs" />
+    <Compile Include="Compress\Tar\TarBuffer.cs" />
+    <Compile Include="Compress\Tar\TarEntry.cs" />
+    <Compile Include="Compress\Tar\TarException.cs" />
+    <Compile Include="Compress\Tar\TarHeader.cs" />
+    <Compile Include="Compress\Tar\TarInputStream.cs" />
+    <Compile Include="Compress\Tar\TarOutputStream.cs" />
+    <Compile Include="Compress\Zip\Compression\Deflater.cs" />
+    <Compile Include="Compress\Zip\Compression\DeflaterConstants.cs" />
+    <Compile Include="Compress\Zip\Compression\DeflaterEngine.cs" />
+    <Compile Include="Compress\Zip\Compression\DeflaterHuffman.cs" />
+    <Compile Include="Compress\Zip\Compression\DeflaterPending.cs" />
+    <Compile Include="Compress\Zip\Compression\Inflater.cs" />
+    <Compile Include="Compress\Zip\Compression\InflaterDynHeader.cs" />
+    <Compile Include="Compress\Zip\Compression\InflaterHuffmanTree.cs" />
+    <Compile Include="Compress\Zip\Compression\PendingBuffer.cs" />
+    <Compile Include="Compress\Zip\Compression\Streams\DeflaterOutputStream.cs" />
+    <Compile Include="Compress\Zip\Compression\Streams\InflaterInputStream.cs" />
+    <Compile Include="Compress\Zip\Compression\Streams\OutputWindow.cs" />
+    <Compile Include="Compress\Zip\Compression\Streams\StreamManipulator.cs" />
+    <Compile Include="Compress\Zip\FastZip.cs" />
+    <Compile Include="Compress\Zip\IEntryFactory.cs" />
+    <Compile Include="Compress\Zip\SimpleZip.cs" />
+    <Compile Include="Compress\Zip\WindowsNameTransform.cs" />
+    <Compile Include="Compress\Zip\ZipConstants.cs" />
+    <Compile Include="Compress\Zip\ZipEntry.cs" />
+    <Compile Include="Compress\Zip\ZipEntryFactory.cs" />
+    <Compile Include="Compress\Zip\ZipException.cs" />
+    <Compile Include="Compress\Zip\ZipExtraData.cs" />
+    <Compile Include="Compress\Zip\ZipFile.cs" />
+    <Compile Include="Compress\Zip\ZipHelperStream.cs" />
+    <Compile Include="Compress\Zip\ZipInputStream.cs" />
+    <Compile Include="Compress\Zip\ZipNameTransform.cs" />
+    <Compile Include="Compress\Zip\ZipOutputStream.cs" />
+    <Compile Include="Debug.cs" />
+    <Compile Include="DevicePhoneInfo.cs" />
+    <Compile Include="Forms\Browser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Browser.Designer.cs">
+      <DependentUpon>Browser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ConfigPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ConfigPassword.designer.cs">
+      <DependentUpon>ConfigPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Contract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Contract.Designer.cs">
+      <DependentUpon>Contract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\NewOpenDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\NewOpenDialog.designer.cs">
+      <DependentUpon>NewOpenDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Password.designer.cs">
+      <DependentUpon>Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ftplib.cs" />
+    <Compile Include="Google.cs" />
+    <Compile Include="GoogleCellID.cs" />
+    <Compile Include="GPRSConnection.cs" />
+    <Compile Include="ICCID.cs" />
+    <Compile Include="IExplorer.cs" />
+    <Compile Include="JVUtils.cs" />
+    <Compile Include="Kernel.cs" />
+    <Compile Include="LineNumberStore.cs" />
+    <Compile Include="Measurement.cs" />
+    <Compile Include="Meedios.cs" />
+    <Compile Include="MeediosResult.cs" />
+    <Compile Include="MobileCountryCodes.cs" />
+    <Compile Include="MobileNetworkCodes.cs" />
+    <Compile Include="OpenCellID.cs" />
+    <Compile Include="Outlook.cs" />
+    <Compile Include="OwnerInfo.cs" />
+    <Compile Include="OwnerRecord.cs" />
+    <Compile Include="PhoneVolume.cs" />
+    <Compile Include="Power.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Radio.cs" />
+    <Compile Include="Registry.cs" />
+    <Compile Include="RIL.cs" />
+    <Compile Include="RIL_EVENTS.cs" />
+    <Compile Include="SendKeys.cs" />
+    <Compile Include="ShellFolders.cs" />
+    <Compile Include="SIGNALQUALITY.cs" />
+    <Compile Include="SIMCard.cs" />
+    <Compile Include="SIMContacts.cs" />
+    <Compile Include="SimpleCryptography.cs" />
+    <Compile Include="SMSWrapper.cs" />
+    <Compile Include="SpeakerPhone.cs" />
+    <Compile Include="SystemTime.cs" />
+    <Compile Include="SYSTEM_POWER_STATUS_EX.cs" />
+    <Compile Include="SYSTEM_POWER_STATUS_EX2.cs" />
+    <Compile Include="TouchScreenTest.cs" />
+    <Compile Include="Tweak.cs" />
+    <Compile Include="UninstallApp.cs" />
+    <Compile Include="Utils.cs" />
+    <Compile Include="NetworkISP.cs" />
+    <Compile Include="Web.cs" />
+    <Compile Include="ZipStorer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\Browser.resx">
+      <DependentUpon>Browser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ConfigPassword.resx">
+      <DependentUpon>ConfigPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Contract.resx">
+      <DependentUpon>Contract.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\NewOpenDialog.resx">
+      <DependentUpon>NewOpenDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Password.resx">
+      <DependentUpon>Password.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

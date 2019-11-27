@@ -1,0 +1,53 @@
+<wap-provisioningdoc>
+<characteristic type="Install">
+<parm name="InstallPhase" value="install" />
+<parm name="SetupDLL" value="1" />
+<parm name="OSVersionMin" value="4.0" />
+<parm name="OSVersionMax" value="4.99" />
+<parm name="AppName" value="My Company LinePropsSP" />
+<parm name="InstallDir" value="%CE1%\LinePropsSP" translation="install" />
+<parm name="NumDirs" value="3" />
+<parm name="NumFiles" value="4" />
+<parm name="NumRegKeys" value="0" />
+<parm name="NumRegVals" value="0" />
+<parm name="NumShortcuts" value="1" />
+</characteristic>
+<characteristic type="FileOperation">
+<characteristic type="%CE2%\Start Menu" translation="install">
+<characteristic type="MakeDir" />
+</characteristic>
+<characteristic type="%InstallDir%" translation="install">
+<characteristic type="MakeDir" />
+<characteristic type="LinePropsSP.exe" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="LINEPR~1.001" />
+</characteristic>
+</characteristic>
+<characteristic type="TapiLib.dll" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="0TapiLib.002" />
+</characteristic>
+</characteristic>
+<characteristic type="vsd_config.txt" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="VSD_CO~1.003" />
+</characteristic>
+</characteristic>
+<characteristic type="vsd_setup.dll" translation="install">
+<characteristic type="Extract">
+<parm name="Source" value="VSD_SE~1.004" />
+</characteristic>
+</characteristic>
+</characteristic>
+<characteristic type="%CE11%" translation="install">
+<characteristic type="MakeDir" />
+<characteristic type="LinePropsSP.lnk" translation="install">
+<characteristic type="Shortcut">
+<parm name="Source" value="%InstallDir%\LinePropsSP.exe" translation="install" />
+</characteristic>
+</characteristic>
+</characteristic>
+</characteristic>
+<characteristic type="Registry">
+</characteristic>
+</wap-provisioningdoc>

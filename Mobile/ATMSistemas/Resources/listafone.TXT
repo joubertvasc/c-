@@ -1,0 +1,4 @@
+NACIONAL|zap.vivo.com.br||ped.drogacenter.com.br|ped.drogacenter.com.br|vivo|vivo|f1601|s1601|f1601@palm.drogacenter.com.br|s1601|fabio.colombo@drogacenter.com.br|ped.drogacenter.com.br|ped.drogacenter.com.br|ped.drogacenter.com.br|4369|
+NACIONAL|claro.com.br||ped.drogacenter.com.br|ped.drogacenter.com.br|claro|claro|f1601|s1601|f1601@palm.drogacenter.com.br|s1601|fabio.colombo@drogacenter.com.br|ped.drogacenter.com.br|ped.drogacenter.com.br|ped.drogacenter.com.br|4369|
+NACIONAL|tim.br||ped.drogacenter.com.br|ped.drogacenter.com.br|tim|tim|f1601|s1601|f1601@palm.drogacenter.com.br|s1601|fabio.colombo@drogacenter.com.br|ped.drogacenter.com.br|ped.drogacenter.com.br|ped.drogacenter.com.br|4369|
+NACIONAL|gprs.oi.com.br||ped.drogacenter.com.br|ped.drogacenter.com.br|oi|oi|f1601|s1601|f1601@palm.drogacenter.com.br|s1601|fabio.colombo@drogacenter.com.br|ped.drogacenter.com.br|ped.drogacenter.com.br|ped.drogacenter.com.br|4369|

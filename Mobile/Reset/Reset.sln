@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reset", "Reset\Reset.vcproj", "{9801EFC5-4842-42C4-B624-066D9421678D}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "ResetCAB", "ResetCAB\ResetCAB.vddproj", "{F82BE1FF-AF96-4452-8023-B4DE4CF947F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Mobile 6 Professional SDK (ARMV4I) = Debug|Windows Mobile 6 Professional SDK (ARMV4I)
+		Release|Windows Mobile 6 Professional SDK (ARMV4I) = Release|Windows Mobile 6 Professional SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9801EFC5-4842-42C4-B624-066D9421678D}.Debug|Windows Mobile 6 Professional SDK (ARMV4I).ActiveCfg = Debug|Windows Mobile 6 Professional SDK (ARMV4I)
+		{9801EFC5-4842-42C4-B624-066D9421678D}.Debug|Windows Mobile 6 Professional SDK (ARMV4I).Build.0 = Debug|Windows Mobile 6 Professional SDK (ARMV4I)
+		{9801EFC5-4842-42C4-B624-066D9421678D}.Debug|Windows Mobile 6 Professional SDK (ARMV4I).Deploy.0 = Debug|Windows Mobile 6 Professional SDK (ARMV4I)
+		{9801EFC5-4842-42C4-B624-066D9421678D}.Release|Windows Mobile 6 Professional SDK (ARMV4I).ActiveCfg = Release|Windows Mobile 6 Professional SDK (ARMV4I)
+		{9801EFC5-4842-42C4-B624-066D9421678D}.Release|Windows Mobile 6 Professional SDK (ARMV4I).Build.0 = Release|Windows Mobile 6 Professional SDK (ARMV4I)
+		{9801EFC5-4842-42C4-B624-066D9421678D}.Release|Windows Mobile 6 Professional SDK (ARMV4I).Deploy.0 = Release|Windows Mobile 6 Professional SDK (ARMV4I)
+		{F82BE1FF-AF96-4452-8023-B4DE4CF947F4}.Debug|Windows Mobile 6 Professional SDK (ARMV4I).ActiveCfg = Debug
+		{F82BE1FF-AF96-4452-8023-B4DE4CF947F4}.Release|Windows Mobile 6 Professional SDK (ARMV4I).ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

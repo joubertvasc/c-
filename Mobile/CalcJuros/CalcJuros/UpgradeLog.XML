@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CalcJuros">
+</Property><Property Name="Solution File" Value="D:\C#\Mobile\CalcJuros\CalcJuros\CalcJuros.sln">
+</Property><Property Name="User Options File" Value="D:\C#\Mobile\CalcJuros\CalcJuros\CalcJuros.suo">
+</Property><Property Name="Date" Value="domingo, 6 de abril de 2008">
+</Property><Property Name="Time" Value="10:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CalcJuros.sln" Description="File successfully backed up as D:\C#\Mobile\CalcJuros\CalcJuros\Backup\CalcJuros.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CalcJuros.suo" Description="File successfully backed up as D:\C#\Mobile\CalcJuros\CalcJuros\Backup\CalcJuros.suo">
+</Event><Event ErrorLevel="0" Project="CalcJuros" Source="CalcJuros\CalcJuros.csproj" Description="Project file successfully backed up as D:\C#\Mobile\CalcJuros\CalcJuros\Backup\CalcJuros\CalcJuros.csproj">
+</Event><Event ErrorLevel="0" Project="CalcJuros" Source="CalcJuros\CalcJuros.csproj.user" Description="Project user file successfully backed up as D:\C#\Mobile\CalcJuros\CalcJuros\Backup\CalcJuros\CalcJuros.csproj.user">
+</Event><Event ErrorLevel="0" Project="CalcJuros" Source="CalcJuros\CalculoJuros.cs" Description="File successfully backed up as D:\C#\Mobile\CalcJuros\CalcJuros\Backup\CalcJuros\CalculoJuros.cs">
+</Event><Event ErrorLevel="0" Project="CalcJuros" Source="CalcJuros\CalculoJuros.designer.cs" Description="File successfully backed up as D:\C#\Mobile\CalcJuros\CalcJuros\Backup\CalcJuros\CalculoJuros.designer.cs">
+</Event><Event ErrorLevel="0" Project="CalcJuros" Source="CalcJuros\Program.cs" Description="File successfully backed up as D:\C#\Mobile\CalcJuros\CalcJuros\Backup\CalcJuros\Program.cs">
+</Event><Event ErrorLevel="0" Project="CalcJuros" Source="CalcJuros\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\C#\Mobile\CalcJuros\CalcJuros\Backup\CalcJuros\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CalcJuros" Source="CalcJuros\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\C#\Mobile\CalcJuros\CalcJuros\Backup\CalcJuros\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CalcJuros" Source="CalcJuros\converter.ico" Description="File successfully backed up as D:\C#\Mobile\CalcJuros\CalcJuros\Backup\CalcJuros\converter.ico">
+</Event><Event ErrorLevel="0" Project="CalcJuros" Source="CalcJuros\Icon1.ico" Description="File successfully backed up as D:\C#\Mobile\CalcJuros\CalcJuros\Backup\CalcJuros\Icon1.ico">
+</Event><Event ErrorLevel="0" Project="CalcJuros" Source="CalcJuros\CalculoJuros.resx" Description="File successfully backed up as D:\C#\Mobile\CalcJuros\CalcJuros\Backup\CalcJuros\CalculoJuros.resx">
+</Event><Event ErrorLevel="0" Project="CalcJuros" Source="CalcJuros\Properties\Resources.resx" Description="File successfully backed up as D:\C#\Mobile\CalcJuros\CalcJuros\Backup\CalcJuros\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CalcJuros" Source="CalcJuros\CalcJuros.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CalcJuros" Source="CalcJuros\CalcJuros.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CalcJuros.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CalcJuros.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CalcJuros" Source="CalcJuros\CalculoJuros.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="CalcJuros" Source="CalcJuros\CalculoJuros.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CalcJuros" Source="CalcJuros\Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="CalcJuros" Source="CalcJuros\Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CalcJuros" Source="CalcJuros\CalcJuros.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

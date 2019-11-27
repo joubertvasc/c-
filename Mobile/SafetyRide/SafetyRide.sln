@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafetyRide", "SafetyRide\SafetyRide.csproj", "{DE79BB0A-4059-4E3E-86E5-AA2A30CB5026}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "SafetyRideCAB", "SafetyRideCAB\SafetyRideCAB.vddproj", "{B8B03F4E-B14F-43DA-B764-8DF062409616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE79BB0A-4059-4E3E-86E5-AA2A30CB5026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE79BB0A-4059-4E3E-86E5-AA2A30CB5026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE79BB0A-4059-4E3E-86E5-AA2A30CB5026}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DE79BB0A-4059-4E3E-86E5-AA2A30CB5026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE79BB0A-4059-4E3E-86E5-AA2A30CB5026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE79BB0A-4059-4E3E-86E5-AA2A30CB5026}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B8B03F4E-B14F-43DA-B764-8DF062409616}.Debug|Any CPU.ActiveCfg = Debug
+		{B8B03F4E-B14F-43DA-B764-8DF062409616}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

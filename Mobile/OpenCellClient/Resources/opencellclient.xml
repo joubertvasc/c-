@@ -1,0 +1,7 @@
+<application>
+  <name>OpenCellClient</name>
+  <version>0.3.1-4</version>
+  <description></description>
+  <versionurl>http://opencellclient.sourceforge.net/opencellclient.xml</versionurl>
+  <caburl>http://downloads.sourceforge.net/opencellclient/OpenCellClient.CAB</caburl>
+</application>

@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenNETCF", "OpenNETCF.csproj", "{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		NDoc|Any CPU = NDoc|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.NDoc|Any CPU.ActiveCfg = NDoc|Any CPU
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.NDoc|Any CPU.Build.0 = NDoc|Any CPU
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.NDoc|Any CPU.Deploy.0 = NDoc|Any CPU
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

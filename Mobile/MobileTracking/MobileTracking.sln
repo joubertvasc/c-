@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTracking", "MobileTracking\MobileTracking.csproj", "{8B15CE43-C989-4C06-B8A9-7FDCDC69D868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreDLL", "CoreDLL\CoreDLL.csproj", "{451E460A-A46D-476B-B0D1-F0EE4AF863E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTrackingTouch", "MobileTrackingTouch\MobileTrackingTouch.csproj", "{7ECFD155-57C1-4440-A8E9-35EBA9253151}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "MobileTrackingCAB", "MobileTrackingCAB\MobileTrackingCAB.vddproj", "{3A256727-6122-4216-AB24-4E1C74A132ED}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "MobileTrackingTouchCAB", "MobileTrackingTouchCAB\MobileTrackingTouchCAB.vddproj", "{B2769417-8E65-405D-B8E7-3FFF565763A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B15CE43-C989-4C06-B8A9-7FDCDC69D868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B15CE43-C989-4C06-B8A9-7FDCDC69D868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B15CE43-C989-4C06-B8A9-7FDCDC69D868}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8B15CE43-C989-4C06-B8A9-7FDCDC69D868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B15CE43-C989-4C06-B8A9-7FDCDC69D868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B15CE43-C989-4C06-B8A9-7FDCDC69D868}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{451E460A-A46D-476B-B0D1-F0EE4AF863E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451E460A-A46D-476B-B0D1-F0EE4AF863E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451E460A-A46D-476B-B0D1-F0EE4AF863E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451E460A-A46D-476B-B0D1-F0EE4AF863E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ECFD155-57C1-4440-A8E9-35EBA9253151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ECFD155-57C1-4440-A8E9-35EBA9253151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ECFD155-57C1-4440-A8E9-35EBA9253151}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7ECFD155-57C1-4440-A8E9-35EBA9253151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ECFD155-57C1-4440-A8E9-35EBA9253151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ECFD155-57C1-4440-A8E9-35EBA9253151}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3A256727-6122-4216-AB24-4E1C74A132ED}.Debug|Any CPU.ActiveCfg = Debug
+		{3A256727-6122-4216-AB24-4E1C74A132ED}.Release|Any CPU.ActiveCfg = Release
+		{B2769417-8E65-405D-B8E7-3FFF565763A2}.Debug|Any CPU.ActiveCfg = Debug
+		{B2769417-8E65-405D-B8E7-3FFF565763A2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

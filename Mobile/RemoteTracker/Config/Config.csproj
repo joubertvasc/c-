@@ -1,0 +1,192 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{129DAF59-A754-49EB-8DC2-15E26EF6729B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Config</RootNamespace>
+    <AssemblyName>Config</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <PlatformID>b2c48bd2-963d-4549-9169-1fa021dce484</PlatformID>
+    <OSVersion>5.02</OSVersion>
+    <DeployDirSuffix>Configurations</DeployDirSuffix>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <NativePlatformName>Windows Mobile 6 Professional SDK</NativePlatformName>
+    <FormFactorID>
+    </FormFactorID>
+    <ApplicationIcon>RemoteTracker.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CommonDLL, Version=1.0.3338.29513, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CommonDLL\bin\Debug\CommonDLL.dll</HintPath>
+    </Reference>
+    <Reference Include="JVGPS, Version=1.0.3336.21259, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\JVGPS\JVGPS\bin\Debug\JVGPS.dll</HintPath>
+    </Reference>
+    <Reference Include="JVUtils, Version=1.0.3336.37178, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\JVUtils\JVUtils\bin\Debug\JVUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Config.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config.Designer.cs">
+      <DependentUpon>Config.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigEMail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigEMail.Designer.cs">
+      <DependentUpon>ConfigEMail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigEmergency.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigEmergency.Designer.cs">
+      <DependentUpon>ConfigEmergency.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigIMSI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigIMSI.Designer.cs">
+      <DependentUpon>ConfigIMSI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigNumber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigNumber.Designer.cs">
+      <DependentUpon>ConfigNumber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigFTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigFTP.Designer.cs">
+      <DependentUpon>ConfigFTP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigEmergencyMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigEmergencyMessage.Designer.cs">
+      <DependentUpon>ConfigEmergencyMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigWEB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigWEB.designer.cs">
+      <DependentUpon>ConfigWEB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config.resx">
+      <DependentUpon>Config.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigEMail.resx">
+      <DependentUpon>ConfigEMail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigEmergency.resx">
+      <DependentUpon>ConfigEmergency.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigIMSI.resx">
+      <DependentUpon>ConfigIMSI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigNumber.resx">
+      <DependentUpon>ConfigNumber.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigFTP.resx">
+      <DependentUpon>ConfigFTP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigEmergencyMessage.resx">
+      <DependentUpon>ConfigEmergencyMessage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfigWEB.resx">
+      <DependentUpon>ConfigWEB.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="RemoteTracker.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

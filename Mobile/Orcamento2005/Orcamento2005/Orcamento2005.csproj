@@ -1,0 +1,220 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0BD90A54-2E66-4807-B41A-3C445724B16A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Orcamento2005</RootNamespace>
+    <AssemblyName>Orcamento2005</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <PlatformID>b2c48bd2-963d-4549-9169-1fa021dce484</PlatformID>
+    <OSVersion>5.02</OSVersion>
+    <DeployDirSuffix>Orcamento2005</DeployDirSuffix>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <ApplicationIcon>SalesGraphs.ICO</ApplicationIcon>
+    <StartupObject>Orcamento2005.Program</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <NativePlatformName>Windows Mobile 6 Professional SDK</NativePlatformName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.WindowsCE.Forms" />
+    <Reference Include="mscorlib" />
+    <Reference Include="NumericTextBox, Version=1.0.2248.2712, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\NumericTextBox\NumericTextBox\NumericTextBox\bin\Debug\NumericTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3, processorArchitecture=MSIL" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataGrid" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CalculoJuros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalculoJuros.Designer.cs">
+      <DependentUpon>CalculoJuros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CentroCusto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CentroCusto.Designer.cs">
+      <DependentUpon>CentroCusto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CentroCustoDataSet.cs" />
+    <Compile Include="Consulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta.Designer.cs">
+      <DependentUpon>Consulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContaDataSet.cs" />
+    <Compile Include="ContaFixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContaFixa.Designer.cs">
+      <DependentUpon>ContaFixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContaFixaDataSet.cs" />
+    <Compile Include="Contas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contas.Designer.cs">
+      <DependentUpon>Contas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControleMensalDataSet.cs" />
+    <Compile Include="CreditoFixo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreditoFixo.Designer.cs">
+      <DependentUpon>CreditoFixo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreditoFixoDataSet.cs" />
+    <Compile Include="Lancamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lancamento.Designer.cs">
+      <DependentUpon>Lancamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LancamentoDataSet.cs" />
+    <Compile Include="LancamentoItem.cs" />
+    <Compile Include="LancamentoItens.cs" />
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrcamentoDataBase.cs" />
+    <Compile Include="Prestacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prestacao.Designer.cs">
+      <DependentUpon>Prestacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrestacaoCollection.cs" />
+    <Compile Include="PrestacaoDataSet.cs" />
+    <Compile Include="PrestacoesCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CalculoJuros.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CalculoJuros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CentroCusto.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CentroCusto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Consulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContaFixa.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ContaFixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Contas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreditoFixo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CreditoFixo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lancamento.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Lancamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prestacao.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Prestacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TipoMovim.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TipoMovim.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="SQLCEGeraCodigo.cs" />
+    <Compile Include="SQLServerCEDataBase.cs" />
+    <Compile Include="TipoMovim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TipoMovim.Designer.cs">
+      <DependentUpon>TipoMovim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TipoMovimDataSet.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SalesGraphs.ICO" />
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v3.5'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+</Project>

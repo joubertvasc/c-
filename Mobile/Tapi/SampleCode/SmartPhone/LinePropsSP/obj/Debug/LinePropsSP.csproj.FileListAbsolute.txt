@@ -1,0 +1,9 @@
+D:\C#\Mobile\Tapi\SampleCode\SmartPhone\LinePropsSP\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\Mobile\Tapi\SampleCode\SmartPhone\LinePropsSP\obj\Debug\LinePropsSP.Form1.resources
+D:\C#\Mobile\Tapi\SampleCode\SmartPhone\LinePropsSP\obj\Debug\LinePropsSP.csproj.GenerateResource.Cache
+D:\C#\Mobile\Tapi\SampleCode\SmartPhone\LinePropsSP\obj\Debug\LinePropsSP.exe
+D:\C#\Mobile\Tapi\SampleCode\SmartPhone\LinePropsSP\bin\Debug\LinePropsSP.exe
+D:\C#\Mobile\Tapi\SampleCode\SmartPhone\LinePropsSP\bin\Debug\LinePropsSP.pdb
+D:\C#\Mobile\Tapi\SampleCode\SmartPhone\LinePropsSP\bin\Debug\TapiLib.dll
+D:\C#\Mobile\Tapi\SampleCode\SmartPhone\LinePropsSP\bin\Debug\TapiLib.pdb
+D:\C#\Mobile\Tapi\SampleCode\SmartPhone\LinePropsSP\obj\Debug\LinePropsSP.pdb

@@ -1,0 +1,225 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML>
+  <HEAD>
+    <TITLE>OpenCellClient SourceForge</TITLE>
+    <META content="MSHTML 6.00.6000.16640" name=GENERATOR>
+    <META http-equiv=Content-Type content="text/html; charset=windows-1252"><LINK href="site.css" type=text/css rel=stylesheet>
+    <STYLE type=text/css>
+      TABLE.info {	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none }
+      DIV.content {	VERTICAL-ALIGN: text-top; WIDTH: 67%; TOP: 0px; TEXT-ALIGN: left }
+      DIV.links {	LEFT: 70%; VERTICAL-ALIGN: text-top; WIDTH: 30%; POSITION: absolute; TOP: 0px }
+      CODE {	FONT-WEIGHT: bold }
+      .shadedlib {FONT-WEIGHT: normal; FONT-SIZE: 12pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, "Trebuchet MS", sans-serif; BACKGROUND-COLOR: gold }
+    </STYLE>
+  </HEAD>
+  <BODY>
+    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+try {
+_uacct = "UA-6443467-2";
+urchinTracker();
+} catch(err) {}</script>
+
+    <img src="logo2.jpg" border=0><BR>
+    <table border = 0>
+    <tr>
+      <td width = 670 vAlign="top">
+        <table bgcolor = blue width = 100%>
+        <tr>
+          <td><font color =#FFFFFF>&nbsp;
+            <A class="white" href="index.html">Home</A>&nbsp;|&nbsp;
+            <A class="white" href="news.html">News</A>&nbsp;|&nbsp;
+            <A class="white" href="doc.html">Documentation</A>&nbsp;|&nbsp;
+            <A class="white" href="support.html">Support</A>&nbsp;|&nbsp;
+            <A class="white" href="download.html">Downloads</A>&nbsp;|&nbsp;
+            <A class="white" href="license.html">License</A>&nbsp;|&nbsp;
+            <A class="white" href="source.html">Code</A>&nbsp;|&nbsp;
+            <A class="white" href="changelog.html">Change log</A>&nbsp;|&nbsp;
+            <A class="white" href="todolist.html">TODO</A>&nbsp;|&nbsp;
+            <A class="white" href="donation.html">Donations</A></Font>
+          </td>
+        </tr>
+        </table><BR>
+        <A href="index.html"><IMG width=35 height=21 alt=English src="en.jpg" border=0></A>
+        <A href="ptbr.html"><IMG width=35 height=21 alt='Português Brasil' src="ptbr.jpg" border=0></A>&nbsp;&nbsp;&nbsp;&nbsp;
+         <BR><BR>
+         <table border =0 width = 100%>
+         <tr>
+           <td>
+         After OpenCellClient starts you can use immediately. There are no big configurations. Just click the <b>Actions/Start</b> option.<BR><BR>
+         
+         The application will turn your GPS receiver on and will start to search for tower codes. The application will search after regular intervals. 
+         You can modify this option using <i>Action/Set interval</I> option. Please choose one of the following options: 1, 5, 10, 30 ou 60 seconds. 
+         5 seconds is default.<BR><BR>
+         
+         The OpenCellID.org service ask for a <i>key</i> for each user. This key is used by the users to send informations. OpenCellClient has an internal key,
+         but you can register another one for you clicking <a href=http://www.opencellid.org/users/signup>here</a>. Take a note and don't lose the key.
+         You must type (or paste) this key using the option <i>Actions/Set OpenCellId Key/Use Your Own Key</i>.
+         Using your own key you will be able to list and delete the towers you sent to the service.<BR><BR>
+         
+         What information OpenCellClient receive from cell towers?<BR><BR>
+         
+         - <b>CellID</b>: Cell Tower Code (identification);<BR>
+         - <b>LAC</b>: Local Area Code;<BR>
+         - <b>MNC</b>: Mobile Network Code;<BR>
+         - <b>MCC</b>: Mobile Coutry Code.
+           </td>
+           <td valign=top>
+             <img src="img/OCC09.jpg">
+           </td>
+         </tr>
+         </table>         
+
+         <BR>
+         After get these data you can turn the application off without lose information, because they are stored in file system.<BR>
+         Using your preferred internet connection you can send the collected data to OpenCellId.org using the <b>Actions/Send to OpenCellID</b> option.<BR><BR>
+
+         <b>Actions</b><BR><BR>         
+         
+         <table border =0 width = 100%>
+         <tr>
+           <td valign = top>
+             There are a few options in main menu:<BR><BR>
+             - <b>Start/Stop</b>: This is the main option of the software. 
+               Use it to (surprise!) start or stop the search for cell towers and their coordinates. The device will turn on the GPS receiver
+               and will scan from time to time the cell tower it is connected. If this tower does not exists in database it will be added with or
+               without coordinates. But why without coordinates? Just to let you know the software found a tower but the GPS is not valid yet. When 
+               your device returns to this tower and the GPS is ok, the coordinates will be stored.<BR><BR>
+            - <b>Send to OpenCellID</b>: This action will connect to <a href="www.opencellid.org">OpenCellID</a> and send all informations your device
+              collected. Please note only towers with coordinates and marked with "Y" in "new" column will be send. This "new" column show towers 
+              you didn't send yet. You will see a progress bar and the indicative of how many towers you sent to the service.<BR>            
+           </td>
+           <td valign = top>
+             <img src="img/OCC02.jpg">
+           </td>
+         </tr>
+         <tr><td colspan=2 height=15></td></tr>
+         <tr>
+           <td valign = top>
+             <img src="img/OCC03.jpg">
+           </td>
+           <td valign = top>
+             - <b>View/Coordinates not sent</b>: This action let you see all towers you didn't send to <a href="www.opencellid.org">OpenCellID</a> yet.<br><br>
+             - <b>View/All coordinates</b>: This action let you see the entire history of towers your device collected.<br><br>
+             - <b>Main screen</b>: This action show the startup screen.   
+           </td>           
+         </tr>
+         <tr><td colspan=2 height=15></td></tr>
+           <td valign = top>
+             - <b>Database/Backup</b>: Export all informations from database to a local file. This is useful when you need to hard reset your device
+               or if you decide to buy a new one.<br><br>
+             - <b>Database/Restore</b>: Import informations from an external backup. If informations conflicts, the information stored in database 
+               will not be changed.<br><br>
+             - <b>Database/Clear entire history</b>: Use this option carefully. When you active this action all the database will be destroyed.    
+           </td>
+           <td valign = top>
+             <img src="img/OCC04.jpg">
+           </td>
+         </tr>
+         <tr><td colspan=2 height=15></td></tr>
+         <tr>
+           <td valign = top>
+             <img src="img/OCC05.jpg">
+           </td>
+           <td valign = top>
+             - <b>Option/Debug mode</b>: When you check this option, the software will start to write a file named <b>opencellclient.txt</b> with a lot of
+               information useful to fix bugs. If you find some unusual behavior, please check this option, repeat your steps and send the file to support.<br><br>
+             - <b>Option/Auto send data to OpenCellId</b>: if this option is checked, when a new tower is found the information will be send immediately to OpenCellID.
+               Be sure you have a good data plan before use this feature.<br><br>
+             - <b>Option/Prevent sleep mode</b>: Check this option if you don't want your device uses the sleep setting and never go to sleep while it's scanning.<BR><BR>
+             - <b>Option/Reset GSM before start</b>: If this option is checked, when you click Actions/Start, your GSM radio will be turned off and then turned on again.
+               Some devices need this option to collect informations correctly.<br><br>               
+             - <b>Option/Reset device before start</b>: If this option is checked, when you click Actions/Start, your device will soft reset. After reboot
+               this application will start automatically. Some devices need this reset to collect informations correctly.
+           </td>           
+         </tr>
+         <tr><td colspan=2 height=15></td></tr>
+         <tr>
+           <td valign = top>
+             - <b>Options/Set Interval</b>: You can select the interval in seconds before each scanning.
+           </td>
+           <td valign = top>
+             <img src="img/OCC06.jpg">
+           </td>
+         </tr>
+         <tr><td colspan=2 height=15></td></tr>
+         <tr>
+           <td valign = top>
+             <img src="img/OCC07.jpg">
+           </td>
+           <td valign = top>
+             - <b>Option/Set OpenCellID Key</b>: This option let you choose between two options: use of internal key or use your own key. The internal key
+               is used by default, but you can create your own key and type the code here.<BR>
+               To create your own key go to <a href="http://www.opencellid.org/users/signup">OpenCellID SignUp page</a> and make your registration.
+               You will receive your key in your e-mail account.<BR>
+               When you use your own key the action <b>View/List from OpenCellID</b> will be available for you. But, you must be sure you typed the 
+               key correcly.<br><br>
+               <img src="img/OCC08.jpg">               
+           </td>           
+         </tr>
+         </table>
+         
+         <BR><BR>
+         <table border = 0 align = center>
+         <tr>
+           <td valign=top>
+             <Font size=-2 color=#000000 FACE=verdana,arial>             
+               <A href="http://sourceforge.net/"><IMG height=62 alt=SourceForge src="sourceforge.bmp" width=210 border=0></A>
+             </Font>
+           </td>
+           <td>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+           </td>
+           <td>
+             <Center><Font size=-2 color=#000000 FACE=verdana,arial>Author: Joubert Vasconcelos<BR>Mail: <a  class=links href=mailto:joubertvasc@gmail.com>joubertvasc@gmail.com</a></Font></Center>
+           </td>
+         </tr>
+         </table>  
+        </td>    
+      <td vAlign="top">
+<script type="text/javascript"><!--
+google_ad_client = "pub-5330264604828413";
+/* 120x600, criado 24/07/08 */
+google_ad_slot = "0552499332";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" 
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>    
+
+      <BR><BR>
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-5330264604828413";
+/* 120x240, criado 24/07/08 */
+google_ad_slot = "0473701598";
+google_ad_width = 120;
+google_ad_height = 240;
+//-->
+</script>
+<script type="text/javascript" 
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+      <BR><BR>      
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-5330264604828413";
+/* 120x600, criado 02/12/08 */
+google_ad_slot = "4443915617";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" 
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>      
+
+      </td>
+    </tr>
+    </table>   
+      </BODY>
+</HTML>

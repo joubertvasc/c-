@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1252" ?> 
+<CONFIG>
+  <EMailEmergencia>controle@atmsistema.com.br,chamados@atmsistema.com.br</EMailEmergencia>
+  <EMailChamado>chamados@atmsistema.com.br</EMailChamado>
+  <EMailCopia>controle@atmsistema.com.br</EMailCopia>
+  <Senha></Senha>
+  <NumeroChamado>01697336056</NumeroChamado>
+  <ContaSMTP>pocket</ContaSMTP>
+  <FTPServer>ftp.3gloja.com.br</FTPServer>
+  <FTPUser>w3gloja</FTPUser>
+  <FTPPassword>AtmSis10</FTPPassword>
+  <FTPRemoteDir>/pocketlogs</FTPRemoteDir>
+  <FTPPort>21</FTPPort>
+  <DebugMode>1</DebugMode>
+  <FTPFolder>\\temp</FTPFolder>
+  <BFTPFolder1>\\difarma\\dados</BFTPFolder1>
+  <BFTPFolder2>\\dicon\\dados</BFTPFolder2>
+  <TempoEntreEnviosBateria>30</TempoEntreEnviosBateria>
+  <NumeroBateria1>01797449572</NumeroBateria1>
+  <NumeroBateria2>01796297203</NumeroBateria2>  
+</CONFIG>  

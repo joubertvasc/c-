@@ -1,0 +1,10 @@
+D:\C#\Mobile\MAPIdotnet\mapidotnet\MAPIdotnet\bin\Debug\MAPIdotnet.dll
+D:\C#\Mobile\MAPIdotnet\mapidotnet\MAPIdotnet\bin\Debug\MAPIdotnet.pdb
+D:\C#\Mobile\MAPIdotnet\mapidotnet\MAPIdotnet\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+D:\C#\Mobile\MAPIdotnet\mapidotnet\MAPIdotnet\bin\Debug\OpenNETCF.dll
+D:\C#\Mobile\MAPIdotnet\mapidotnet\MAPIdotnet\bin\Debug\Microsoft.WindowsMobile.dll
+D:\C#\Mobile\MAPIdotnet\mapidotnet\MAPIdotnet\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+D:\C#\Mobile\MAPIdotnet\mapidotnet\MAPIdotnet\bin\Debug\Microsoft.WindowsMobile.xml
+D:\C#\Mobile\MAPIdotnet\mapidotnet\MAPIdotnet\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\Mobile\MAPIdotnet\mapidotnet\MAPIdotnet\obj\Debug\MAPIdotnet.dll
+D:\C#\Mobile\MAPIdotnet\mapidotnet\MAPIdotnet\obj\Debug\MAPIdotnet.pdb

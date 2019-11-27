@@ -1,0 +1,2074 @@
+[edit] Afghanistan - AF
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+412 01 AWCC Afghan Wireless Communication Company Operational GSM 900 / GSM 1800 [1] 
+412 20 Roshan Telecom Development Company Afghanistan Ltd. Operational GSM 900 
+412 40 Areeba MTN Group Afghanistan Operational GSM 900 / GSM 1800 
+412 50 Etisalat Etisalat Afghanistan Operational GSM 900 / GSM 1800 
+
+[edit] Albania - AL
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+276 01 AMC Albanian Mobile Communications Operational GSM 900 / GSM 1800 [2] 
+276 02 Vodafone Vodafone Albania Operational GSM 900 / GSM 1800 
+276 03 Eagle Mobile Eagle Mobile Operational GSM 900 / GSM 1800 
+
+[edit] Algeria - DZ
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+603 01 Mobilis ATM Mobilis Operational GSM 900 [3] 
+603 02 Djezzy Orascom Telecom Algerie Spa Operational GSM 900 / GSM 1800 
+603 03 Nedjma Wataniya Telecom Algerie Operational GSM 900 / GSM 1800 
+
+[edit] American Samoa (United States of America) - AS
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+       
+
+[edit] Andorra - AD
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+213 03 Mobiland Servei De Tele. DAndorra Operational GSM 900 [4] 
+
+[edit] Angola - AO
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+631 02 UNITEL UNITEL S.a.r.l. Operational GSM 900 / GSM 1800 [5] 
+
+[edit] Anguilla (United Kingdom) - AI
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+365 010  Weblinks Limited Operational Unknown 
+365 840  Cable & Wireless Operational Unknown 
+
+[edit] Antigua and Barbuda - AG
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+344 030 APUA Antigua Public Utilities Authority Operational GSM 1900 [6] 
+344 920 Lime Cable & Wireless Caribbean Cellular (Antigua) Limited Operational GSM 850 islandwide and 1800/1900 some areas 
+338 050 Digicel Antigua Wireless Ventures Limited Operational GSM 900 islandwide and 1900 in Saint Johns only 
+
+[edit] Argentina - AR
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+722 010 Movistar Telefonica Móviles Argentina SA Operational GSM 850 / GSM 1900 
+722 020 Nextel NII Holdings Operational iDEN 800 
+722 070 Movistar Telefonica Móviles Argentina SA Operational GSM 1900 [7] 
+722 310 Claro AMX Argentina S.A Operational GSM 1900 
+722 320 Claro AMX Argentina S.A Operational GSM 850 / GSM 1900 
+722 330 Claro AMX Argentina S.A Operational GSM 850 / GSM 1900 
+722 340 Personal Telecom Personal SA Operational GSM 850 / GSM 1900 
+722 350  Hutchinson (PORT HABLE) Unknown GSM 900 
+
+[edit] Armenia - AM
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+283 01 Beeline ArmenTel Operational GSM 900 / GSM 1800 UMTS 2100 is planned [8] 
+283 05 VivaCell-MTS K Telecom CJSC Operational GSM 900 / GSM 1800 / UMTS 2100  
+
+[edit] Aruba (Kingdom of the Netherlands) - AW
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+363 01 SETAR Servicio di Telecomunicacion di Aruba Operational GSM 900 / GSM 1900 / TDMA 800 
+363 02 Digicel  Operational GSM 900 / GSM 1800 
+
+[edit] Australia - AU
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+505 01 Telstra Telstra Corporation Limited Operational GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 
+505 02 Optus Singtel Optus Proprietary Limited Operational GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 
+505 03 Vodafone Vodafone Hutchison Australia Proprietary Limited Operational GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 
+505 04  Department of Defence Operational Unknown Private network, utilizing secure frequencies. 
+505 05 Ozitel  Not operational  Brand was taken over by Telstra. 
+505 06 Vodafone Vodafone Hutchison Australia Proprietary Limited Operational UMTS 2100 
+505 08 One.Tel One.Tel Limited Not operational GSM 900 Brand was dissolved. 
+505 09 Airnet  Not operational  No longer provide mobile services. 
+505 12 3 Vodafone Hutchison Australia Proprietary Limited Operational UMTS 2100 
+505 13 Railcorp Rail Corporation New South Wales Operational Unknown For internal use by Railcorp and its subsidiaries (such as CityRail and CountryLink). 
+505 14 AAPT Telecom New Zealand Operational GSM 1800 / UMTS 2100 Wholesale from Vodafone Hutchison Australia 
+505 15 3GIS  Not operational  Taken over by Vodafone. 
+505 16 Unknown  Partially operational  Starting to be seen. 
+505 21 SOUL TPG Telecom Limited MVNO  Also known as Total Peripherals Group. 
+505 24 Advanced Communications Technologies Pty. Ltd.  Unknown Unknown  
+505 38 Crazy John's Vodafone Hutchison Australia Proprietary Limited Operational GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 Some existing customers - wholesale from Telstra/all new and some existing from Vodafone Hutchison Australia. 
+505 71 Telstra Telstra Corporation Limited Operational Unknown  
+505 72 Telstra Telstra Corporation Limited Operational Unknown  
+505 88 Localstar Holding Pty. Ltd.  Not operational  Globalstar Satellite (no longer in service, locally). 
+505 90 Optus Singtel Optus Proprietary Limited Operational Unknown  
+505 99 One.Tel One.Tel Not operational GSM 1800 Brand was dissolved. 
+
+[edit] Austria - AT
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+232 01 A1 Mobilkom Austria Operational GSM 900 / GSM 1800 / UMTS 2100 
+232 03 T-Mobile T-Mobile Austria Operational GSM 900 / GSM 1800 / UMTS 2100 
+232 05 Orange Orange Austria Operational GSM 900 / GSM 1800 / UMTS 2100 former One 
+232 07 tele.ring T-Mobile Austria Operational GSM 1800 separate brand operated by T-Mobile 
+232 10 3 Hutchison 3G Operational UMTS 2100 
+232 11 bob Mobilkom Austria MVNO  uses the A1 network 
+232 12 yesss yesss MVNO  uses the Orange network 
+232 15 Barablu Barablu Mobile Ltd. MVNO  
+
+[edit] Azerbaijan - AZ
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+400 01 Azercell  Operational GSM 900 / GSM 1800 [9] 
+400 02 Bakcell  Operational GSM 900 / GSM 1800 
+400 03 FONEX CATEL Operational CDMA 
+400 04 Nar Mobile Azerfon Operational GSM 900 / GSM 1800 
+
+[edit] B
+[edit] Bahamas - BS
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+364 390 BaTelCo The Bahamas Telecommunications Company Ltd Operational GSM 1900 [10] 
+
+[edit] Bahrain - BH
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+426 01 Batelco Bahrain Telecommunications Company Operational GSM 900 / GSM 1800 
+426 02 zain BH Zain Bahrain Operational GSM 900 / GSM 1800 
+426 04 Viva Saudi Telecom Company Operational GSM 900 / GSM 1800 
+
+[edit] Bangladesh - BD
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+470 01 Grameenphone GrameenPhone Ltd Operational GSM 900  
+470 02 Aktel  Operational GSM 900 
+470 03 banglalink Orascom Telecom Holding Operational GSM 900 
+470 04 TeleTalk  Operational GSM 900 / GSM 1800 
+470 05 Citycell  Operational CDMA 800 
+470 06 Warid Warid Telecom Operational GSM 900 / GSM 1800 
+470 07 WTBL WorldTel Bangladesh Ltd. Operational GSM 1800 
+
+[edit] Barbados - BB
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+342 600 bmobile Cable & Wireless Barbados Ltd. Operational GSM 900 [11] 
+342 750 Digicel Digicel (Jamaica) Limited Operational GSM 900 / GSM 1800 
+342 820  Sunbeach Communications Reserved Unknown 
+
+[edit] Belarus - BY
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+257 01 velcom  Operational GSM 900 / GSM 1800 
+257 02 MTS Mobile TeleSystems Operational GSM 900 / GSM 1800 
+257 04 life:) Belarussian Telecommunications Network Operational GSM 900 / GSM 1800 / UMTS 2100 Former BeST 
+257  ? DIALLOG BelCel Operational CDMA 450 
+
+[edit] Belgium - BE
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+206 01 Proximus Belgacom Mobile Operational GSM 900 / GSM 1800 / UMTS 2100 / UMTS 900 
+206 10 Mobistar France Telecom Operational GSM 900 / GSM 1800 / UMTS 2100 
+206 20 BASE KPN Operational GSM 900 / GSM 1800 UMTS planned for Q1 2010 
+
+[edit] Belize - BZ
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+702 67  Belize Telemedia Operational GSM 1900 
+702 68  International Telecommunications Ltd. Operational Unknown 
+702  ?? Smart  Operational CDMA 
+
+[edit] Benin - BJ
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+616 01 Libercom Benin Telecoms Mobile Operational GSM 900 / GSM 1800  
+616 02 Moov Telecel Benin Operational GSM 900 
+616 03 MTN Spacetel Benin Operational GSM 900 Former BeninCell, Areeba 
+616 04 BBCOM Bell Benin Communications Operational GSM 900 [12] 
+616 05 Glo Glo Communication Benin Operational GSM 900 / GSM 1800 
+
+[edit] Bermuda - BM
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+350 01 Digicel Bermuda Telecommunications (Bermuda & West Indies) Ltd Reserved GSM 1900 
+350 02 Mobility M3 Wireless Operational GSM 1900 
+338 050 Digicel Bermuda  Operational GSM 1900 
+310  ?? Cellular One  Operational CDMA 
+
+[edit] Bhutan - BT
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+402 11 B-Mobile B-Mobile Operational GSM 900 
+402 77 TashiCell Tashi InfoComm Limited Operational GSM 900 / GSM 1800 
+
+[edit] Bolivia - BO
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+736 01 Nuevatel Nuevatel PCS De Bolivia SA Operational GSM 1900 [13] 
+736 02 Entel Entel SA Operational GSM 1900 
+736 03 Tigo Telefonica Celular De Bolivia S.A Operational GSM 850 Aka. Telecel Bolivia 
+
+[edit] Bosnia and Herzegovina - BA
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+218 03 HT-ERONET Public Enterprise Croatian Telecom Ltd. Operational GSM 900 [14] 
+218 05 m:tel RS Telecommunications JSC Banja Luka Operational GSM 900 / GSM 1800 / UMTS 2100 
+218 90 BH Mobile BH Telecom Operational GSM 900 / GSM 1800 
+
+[edit] Botswana - BW
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+652 01 Mascom Mascom Wireless (Pty) Limited Operational GSM 900 [15] 
+652 02 Orange Orange (Botswana) Pty Limited Operational GSM 900 
+652 04 BTC Mobile Botswana Telecommunications Corporation Operational GSM 900 / GSM 1800 [16] 
+
+[edit] Brazil - BR
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+724 02 TIM Telecom Italia Mobile Operational GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 [17] 
+724 03 TIM Telecom Italia Mobile Operational GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 
+724 04 TIM Telecom Italia Mobile Operational GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 
+724 05 Claro Claro Operational GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 
+724 06 Vivo Vivo S.A. Operational GSM 850 / UMTS 850 / UMTS 2100 
+724 07 CTBC Celular CTBC Telecom Operational GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 
+724 08 TIM Telecom Italia Mobile Operational GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 
+724 10 Vivo Vivo S.A. Operational GSM 850 / GSM 1900 / UMTS 850 / UMTS 2100 
+724 11 Vivo Vivo S.A. Operational GSM 850 / UMTS 850 / UMTS 2100 
+724 15 Sercomtel Sercomtel Celular Operational GSM 900 / GSM 1800 
+724 16 Oi / Brasil Telecom Brasil Telecom Celular SA Operational GSM 1800 / UMTS 2100 
+724 23 Vivo Vivo S.A. Operational GSM 850 / UMTS 850 / UMTS 2100 
+724 24 Oi / Amazonia Celular Amazônia Celular S.A. Operational GSM 900 / GSM 1800 Amazônia Celular 
+724 31 Oi TNL PCS Operational GSM 1800 / UMTS 2100  
+724 32 CTBC Celular CTBC Celular S.A. Operational Unknown 
+724 33 CTBC Celular CTBC Celular S.A. Operational Unknown 
+724 34 CTBC Celular CTBC Celular S.A. Operational Unknown 
+724 37 aeiou Unicel do Brasil Operational GSM 900 / GSM 1800 former Unicel Telecomunicações 
+724 00 Nextel NII Holdings, Inc. Operational iDEN 850  
+
+[edit] British Indian Ocean Territory (United Kingdom) - VG
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+      
+
+[edit] British Virgin Islands (United Kingdom) - VG
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+348 170 Cable & Wireless Cable & Wireless (West Indies) Operational GSM 850 
+348 570 CCT Boatphone Caribbean Cellular Telephone Operational GSM 900 / GSM 1900 
+
+[edit] Brunei - BN
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+528 01  Jabatan Telekom Unknown Unknown 
+528 02 B-Mobile B-Mobile Communications Sdn Bhd Operational UMTS 2100 [18] 
+528 11 DSTCom DataStream Technology Operational GSM 900  
+
+[edit] Bulgaria - BG
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+284 01 M-Tel Mobiltel Operational GSM 900 / GSM 1800 / UMTS 2100 
+284 03 Vivacom BTC Operational GSM 900 / GSM 1800 / UMTS 2100 Former Vivatel 
+284 05 GLOBUL Cosmo Bulgaria Mobile Operational GSM 900 / GSM 1800 / UMTS 2100 
+
+[edit] Burkina Faso - BF
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+613 01 Onatel  Operational GSM 900 [19] 
+613 02 Zain Celtel Burkina Faso Operational GSM 900 [20] 
+613 03 Telecel Faso Telecel Faso SA Operational GSM 900 
+
+[edit] Burundi - BI
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+642 01 Spacetel Econet Wireless Burundi PLC Operational GSM 900 [21] 
+642 02 Africell Africell PLC Operational GSM 900 Was Safaris 
+642 03 Telecel Telecel Burundi Company Operational GSM 900 
+642 82 Onatel  Reserved GSM 900 
+642  ? LACELL SU  Reserved GSM 1800 
+
+[edit] C
+[edit] Cambodia - KH
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+456 01 Mobitel CamGSM Operational GSM 900 / UMTS 2100 
+456 02 hello Telekom Malaysia International (Cambodia) Co. Ltd Operational GSM 900 
+456 03  S Telecom Reserved CDMA 
+456 04 qb Cambodia Advance Communications Co. Ltd Operational GSM 1800 / UMTS 2100 
+456 05 Star-Cell APPLIFONE CO. LTD. Operational GSM 1800 
+456 06 Smart Latelz Co., Ltd Operational GSM 1800 
+456 18 Mfone Camshin / Shinawatra Operational GSM 1800 
+456  ? Excell  Operational CDMA 
+456 09 Beeline Sotelco Ltd. Operational GSM 900 / GSM 1800 
+456 08 Metfone Viettel Operational GSM 900 / GSM 1800 
+
+[edit] Cameroon - CM
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+624 01 MTN Cameroon Mobile Telephone Network Cameroon Ltd Operational GSM 900 [22] 
+624 02 Orange Orange Cameroun S.A. Operational GSM 900 
+
+[edit] Canada - CA
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+302 220 Telus Telus Mobility Not operational  Used in IMSI to identify Telus subscribers on shared network 302-880 
+302 221 Telus Telus Mobility Unknown Unknown 
+302 290  Airtel Wireless Operational iDEN 900 
+302 350 FIRST FIRST Networks Operations Operational GSM 850 March 2008 
+302 360 MiKe Telus Mobility Operational iDEN 800 
+302 361 Telus Telus Mobility Operational CDMA 800 / CDMA 1900 
+302 370 Fido Fido Solutions (Rogers Wireless) Operational GSM 1900 former Microcell Telecommunications 
+302 380 DMTS Dryden Mobility Operational GSM 850 
+302 490 WIND Mobile Globalive Communications Operational UMTS 1700 
+302 610 Bell Bell Mobility Not operational  Used in IMSI to identify Bell subscribers on shared network 302-880 
+302 620 ICE Wireless ICE Wireless Operational GSM 1900 
+302 640 Bell Bell Mobility Reserved UMTS 850 / UMTS 1900 
+302 651 Bell Bell Mobility Operational CDMA 800 / CDMA 1900 
+302 652  BC Tel Mobility (Telus) Operational CDMA 
+302 653 Telus Telus Mobility Operational CDMA 800 / CDMA 1900 
+302 655 MTS MTS Mobility Operational CDMA 800 / CDMA 1900 former Manitoba Telephone System 
+302 656 TBay Thunder Bay Telephone Mobility Operational CDMA 
+302 657 Telus Telus Mobility Operational CDMA 800 / CDMA 1900 
+302 680 SaskTel SaskTel Mobility Operational CDMA 800 / CDMA 1900 
+302 701  MB Tel Mobility Operational CDMA 
+302 702  MT&T Mobility (Aliant) Operational CDMA 
+302 703  New Tel Mobility (Aliant) Operational CDMA 
+302 710 Globalstar  Operational Unknown 
+302 720 Rogers Wireless Rogers Communications Operational GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 former Rogers AT&T Wireless 
+302 780 SaskTel SaskTel Mobility Operational Unknown 
+302 880 Bell / Telus Shared Telus and Bell Operational UMTS 850 / UMTS 1900 
+
+[edit] Cape Verde - CV
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+625 01 CVMOVEL CVMovel, S.A. Operational GSM 900 / GSM 1800 
+625 02 T+ T+ Operational GSM 900 
+
+[edit] Cayman Islands (United Kingdom) - KY
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+346 140 Cable & Wireless Cable & Wireless (Cayman Islands) Limited Operational GSM 850 / GSM 1900 [23] 
+338 050 Digicel Digicel Cayman Ltd. Operational GSM 900 / GSM 1800 
+
+[edit] Central African Republic - CF
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+623 01 CTP Centrafrique Telecom Plus Operational GSM 900 [24] 
+623 02 TC Telecel Centrafrique Operational GSM 900 
+623 03 Orange Orange RCA Reserved GSM 1800 
+623 04 Nationlink Nationlink Telecom RCA Operational GSM 900 
+
+[edit] Chad - TD
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+622 01 Zain CelTel Tchad SA Operational GSM 900 [25] 
+622 02  Tchad Mobile Operational Unknown 
+622 03  TIGO - Millicom Operational GSM 900 
+622 02 TAWALI  Operational CDMA 
+
+[edit] Chile - CL
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+730 01 Entel Entel Pcs Operational GSM 1900 / HSDPA 1900 [26] 
+730 02 movistar Movistar Chile Operational GSM 850 / GSM 1900 / CDMA 800 / TDMA 800 / HSDPA 850 
+730 03 Claro Claro Chile Operational GSM 1900 / CDMA 1900 / UMTS 1900 
+730 10 Entel Entel Telefonica Movil Operational GSM 1900 / HSDPA 1900 
+
+[edit] China - CN
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+460 00  China Mobile Operational GSM 900 / GSM 1800 UMTS (TD-SCDMA) 1880 / 2010 
+460 01  China Unicom Operational GSM 900 / GSM 1800 / UMTS 2100 CDMA network sold to China Telecom, WCDMA commercial trial started in May 2009 and in full commercial operation as of October 2009. 
+460 02  China Mobile Operational GSM 900 / GSM 1800 / UMTS (TD-SCDMA) 1880 / 2010  
+460 03  China Telecom Operational CDMA 800  
+460 05  China Telecom Operational   
+460 06  China Unicom Operational GSM 900 / GSM 1800 / UMTS 2100  
+
+[edit] Christmas Island (Australia) - CX
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+      
+
+[edit] Cocos Islands (Australia) - CC
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+      
+
+[edit] Colombia - CO
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+732 001  Colombia Telecomunicaciones S.A. - Telecom Operational Unknown 
+732 002 Edatel Edatel S.A. Operational Unknown 
+732 101 Comcel Comcel Colombia Operational GSM 850 / GSM 1900 
+732 102 movistar Bellsouth Colombia Operational GSM 850 / GSM 1900 / CDMA 850 
+732 103 Tigo Colombia Móvil Operational GSM 1900 
+732 111 Tigo Colombia Móvil Operational GSM 1900 
+732 123 movistar Telefónica Móviles Colombia Operational GSM 850 / GSM 1900 / CDMA 850 
+
+[edit] Comoros - KM
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+654 01  HURI - SNPT Operational Unknown 
+
+[edit] Republic of the Congo - CG
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+629 01 Zain Celtel Congo Operational Unknown Former Celtel brand [27] 
+629 10 Libertis Telecom MTN CONGO S.A Operational GSM 900 
+629  ?  African Telecoms Operational Unknown 
+629  ?  Congolaise Wireless Operational Unknown 
+
+[edit] Cook Islands (New Zealand) - CK
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+548 01  Telecom Cook Operational GSM 900 
+
+[edit] Costa Rica - CR
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+712 01 ICE Instituto Costarricense de Electricidad Operational GSM 1800 Network Name: ICEcelular 
+712 02 ICE Instituto Costarricense de Electricidad Operational GSM 1800 Network Name: ICECelular 
+712 03 ICE Grupo ICE Operational UMTS 850 Network Name: Kolbi3g 
+
+[edit] Croatia - HR
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+219 01 T-Mobile T-Mobile Croatia Operational GSM 900 / UMTS 2100 
+219 02 Tele2  Operational GSM 1800 
+219 10 VIPnet  Operational GSM 900 / UMTS 2100 
+
+[edit] Cuba - CU
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+368 01 ETECSA Empresa de Telecomunicaciones de Cuba, SA Operational GSM 900 [28] 
+
+[edit] Cyprus - CY
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+280 01 Cytamobile-Vodafone Cyprus Telecommunications Auth Operational GSM 900 / GSM 1800 
+280 10 MTN Areeba Ltd Operational GSM 900 / GSM 1800 
+
+[edit] Czech Republic - CZ
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+230 01 T-Mobile T-Mobile Czech Republic Operational GSM 900 / GSM 1800 / UMTS 2100 former Paegas 
+230 02 O2 Telefónica O2 Czech Republic Operational CDMA 450 / GSM 900 / GSM 1800 / UMTS 2100 former Eurotel 
+230 03 Vodafone Vodafone Czech Republic Operational GSM 900 / GSM 1800 / UMTS 2100 former Oskar 
+230 04 U:fon MobilKom, a. s. Operational CDMA 410 - 430 
+230 98  SŽDC s.o. Operational GSM-R 900 railways communication 
+230 99 Vodafone Vodafone Czech Republic Operational Unknown R&D Centre at FEE, CTU 
+
+[edit] D
+[edit] Democratic Republic of the Congo - CD
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+630 01 Vodacom Vodacom Congo RDC sprl Operational GSM 900 / GSM 1800 [29] 
+630 02 Zain Celtel Congo Operational GSM 900 [30] 
+630 04  Cellco Unknown Unknown 
+630 05 Supercell Supercell SPRL Operational GSM 900 / GSM 1800 
+630 86 CCT Congo-Chine Telecom s.a.r.l. Operational GSM 900 / GSM 1800 
+630 89 SAIT Telecom OASIS SPRL Operational GSM 1800 
+630  ? Africell Africell RDC sprl Reserved GSM 900 
+
+[edit] Denmark - DK
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+238 01 TDC TDC A/S Operational GSM 900 / GSM 1800 / UMTS 2100 [31] 
+238 02 Telenor Telenor Denmark Operational GSM 900 / GSM 1800 / UMTS 2100 Former Sonofon 
+238 03  MIGway A/S Reserved Unknown 
+238 05  ApS KBUS Reserved Unknown 
+238 06 3 Hi3G Denmark ApS Operational UMTS 2100 
+238 07  Barablu Mobile Ltd. Reserved Unknown 
+238 09  Dansk Beredskabskommunikation A/S Unknown - 
+238 10 TDC TDC A/S Operational Unknown For experimental use 
+238 11  Dansk Beredskabskommunikation A/S Unknown Unknown 
+238 12  Lycamobile Denmark Ltd Unknown Unknown 
+238 20 Telia  Operational GSM 900 / GSM 1800 
+238 30 Telia Telia Nättjänster Norden AB Operational GSM 900 / GSM 1800 
+238 40  Ericsson Danmark A/S Unknown Unknown For experimental use. 
+238 77 Telenor Telenor Denmark Operational GSM 900 / GSM 1800 Former Tele2 
+
+[edit] Djibouti - DJ
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+638 01 Evatis Djibouti Telecom SA Operational GSM 900 [32] 
+
+[edit] Dominica - DM
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+366 020 Digicel  Unknown GSM 900 / GSM 1800 /GSM 1900 
+366 110  Cable & Wireless Unknown GSM 850 
+
+[edit] Dominican Republic - DO
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+370 01 Orange Orange Dominicana Operational GSM 900 / GSM 1800 / GSM 1900 
+370 02 Claro Compañía Dominicana de Teléfonos, C por Operational CDMA 1900 / GSM 850 / GSM 1900 / UMTS 850 
+370 03 Tricom Tricom S.A. Operational AMPS / CDMA 850 
+370 04 Viva Trilogy Dominicana, S.A. Operational CDMA 1900 / GSM 1900 Former Centennial Dominicana 
+
+[edit] E
+[edit] East Timor - TL
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+514 02  Timor Telecom Operational GSM 900 [33] [34] 
+
+[edit] Ecuador - EC
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+740 00 Movistar Otecel S.A. Operational GSM 850 / UMTS 900 / UMTS 1900 Former BellSouth 
+740 01 Porta América Móvil Operational GSM 850 / UMTS 900 / UMTS 1900 
+740 02 Alegro Telecsa S.A. Operational GSM 850 / CDMA 1900 
+
+[edit] Egypt - EG
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+602 01 Mobinil ECMS-Mobinil Operational GSM 900 / GSM 1800 / UMTS 2100 
+602 02 Vodafone Vodafone Egypt Operational GSM 900 / GSM 1800 / UMTS 2100 
+602 03 Etisalat Etisalat Egypt Operational GSM 900 / GSM 1800 / UMTS 2100 
+
+[edit] El Salvador - SV
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+706 01 CTE Telecom Personal CTE Telecom Personal SA de CV Operational GSM 1900 
+706 02 digicel Digicel Group Operational GSM 900 
+706 03 Telemovil EL Salvador Telemovil EL Salvador S.A Operational GSM 850 Tigo / Millicom 
+706 04 movistar Telefónica Móviles El Salvador Operational CDMA 850 / GSM 850 
+706 10 Claro América Móvil Operational GSM 1900 / UMTS 1900 
+
+[edit] Equatorial Guinea - GQ
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+627 01 Orange GQ GETESA Operational GSM 900 
+
+[edit] Eritrea - ER
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+657 01 Eritel Eritrea Telecommunications Services Corporation Operational GSM 900 [35] 
+
+[edit] Estonia - EE
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+248 01 EMT Estonian Mobile Telecom Operational GSM 900 / GSM 1800 / UMTS 2100 
+248 02 Elisa Elisa Eesti Operational GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 
+248 03 Tele 2 Tele 2 Eesti Operational GSM 900 / GSM 1800 / UMTS 2100 
+248 04  OY Top Connect Unknown Unknown 
+248 05  AS Bravocom Mobiil Unknown Unknown 
+248 06  OY ViaTel Operational UMTS 2100 
+
+[edit] Ethiopia - ET
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+636 01 ETMTN Ethiopian Telecommunications Corporation Operational GSM 900 
+
+[edit] F
+[edit] Faroe Islands (Denmark) - FO
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+288 01 Faroese Telecom Faroese Telecom Operational GSM 900 [36] 
+288 02 Vodafone Vodafone Faroe Islands Operational GSM 900 Former Kall 
+
+[edit] Fiji - FJ
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+542 01 Vodafone Vodafone Fiji Operational GSM 900 / UMTS 2100 
+542 02 Digicel Digicel Fiji Operational GSM 900 
+
+[edit] Finland - FI
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+244 03 DNA DNA Oy Operational GSM 1800 Former Telia 
+244 05 Elisa Elisa Oyj Operational GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 Former Radiolinja 
+244 07 Nokia Nokia Test Network Operational Unknown  
+244 08  Unknown Operational Unknown  
+244 10  TDC Oy Unknown Unknown  
+244 12 DNA DNA Oy Operational GSM 900 / GSM 1800 / UMTS 2100 [37] 
+244 14 AMT Ålands Mobiltelefon Operational GSM 900 coverage only in Åland Islands 
+244 21 Saunalahti Elisa Oyj Operational MVNO Internal MVNO of Elisa Oyj, former Saunalahti Group Oyj 
+244 29  Scnl Truphone Unknown Unknown  
+244 91 Sonera TeliaSonera Finland Oyj Operational GSM 900 / GSM 1800 / UMTS 2100 
+
+[edit] France - FR
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+208 00 Orange France Télécom Operational GSM 900 / GSM 1800 / UMTS 2100 [38] 
+208 01 Orange France Télécom Operational GSM 900 / GSM 1800 / UMTS 2100 
+208 02 Orange France Télécom Operational GSM 900 / GSM 1800 / UMTS 2100 [39] Zones Blanches 
+208 05  Globalstar Europe Operational Satellite 
+208 06  Globalstar Europe Operational Satellite 
+208 07  Globalstar Europe Operational Satellite 
+208 10 SFR Vivendi Operational GSM 900 / GSM 1800 / UMTS 2100 
+208 11 SFR Vivendi Operational UMTS 2100 UMTS 
+208 13 SFR Vivendi Operational Unknown Zones Blanches 
+208 20 Bouygues Bouygues Telecom Operational GSM 900 / GSM 1800 
+208 21 Bouygues Bouygues Telecom Operational GSM 900 / GSM 1800 
+208 88 Bouygues Bouygues Telecom Operational Unknown Zones Blanches 
+
+[edit] French Guiana (France) - GF
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+      
+
+[edit] French Polynesia (France) - PF
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+      
+
+[edit] French Southern Territories (France) - TF
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+      
+
+[edit] G
+[edit] Gabon - GA
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+628 01 Libertis Libertis S.A. Operational GSM 900 
+628 02  Moov (Telecel) Gabon S.A. Operational GSM 900 
+628 03 Zain Celtel Gabon S.A. Operational GSM 900 [40] 
+
+[edit] Gambia - GM
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+607 01 Gamcel Gamcel Operational GSM 900 / GSM 1900 
+607 02 Africel Africel Operational GSM 900 / GSM 1900 
+607 03 Comium Comium Operational GSM 900 / GSM 1900 
+
+[edit] Georgia - GE
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+282 01 Geocell Geocell Limited Operational GSM 900 / GSM 1800 / UMTS 2100 [41] 
+282 02 MagtiCom Magticom GSM Operational GSM 900 / GSM 1800 / UMTS 2100 
+282 03 Iberiatel Iberiatel Ltd. Operational CDMA 450 
+282 04 Beeline Mobitel LLC Operational GSM 1800 
+289 67 Aquafon  Operational GSM 900 / GSM 1800 / UMTS 2100 Abkhazia 
+289 88 A-Mobile  Operational GSM Abkhazia 
+
+[edit] Germany - DE
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+262 01 T-Mobile T-Mobile Deutschland GmbH Operational GSM 900 / GSM 1800 / UMTS 2100 D1 - DeTe Mobil 
+262 02 Vodafone Vodafone D2 GmbH Operational GSM 900 / GSM 1800 / UMTS 2100 
+262 03 E-Plus E-Plus Mobilfunk Operational GSM 900 / GSM 1800 / UMTS 2100 
+262 04 Vodafone  Reserved GSM 900 / GSM 1800 / UMTS 2100 
+262 05 E-Plus E-Plus Mobilfunk Reserved GSM 900 / GSM 1800 / UMTS 2100 
+262 06 T-Mobile  Reserved GSM 900 / GSM 1800 / UMTS 2100 
+262 07 O2 O2 (Germany) GmbH & Co. OHG Operational GSM 900 / GSM 1800 / UMTS 2100 
+262 08 O2  Reserved GSM 900 / GSM 1800 / UMTS 2100 
+262 09 Vodafone  Reserved GSM 900 / GSM 1800 / UMTS 2100 
+262 10  Arcor AG & Co Operational GSM-R 
+262 11 O2  Reserved GSM 900 / GSM 1800 / UMTS 2100 
+262 12  Dolphin Telecom Not operational TETRA Company defunct since 2005 
+262 13  Mobilcom Multimedia Not operational UMTS 2100 License returned in 2003 
+262 14  Group 3G UMTS Not operational UMTS 2100 License revoked in 2007 
+262 15 Airdata  Operational UMTS-TDD (TD-CDMA), data only 
+262 16 Vistream  MVNE GSM 900 / GSM 1800 / UMTS 2100 uses E-Plus' radio access network (262-03) 
+262 60  DB Telematik Operational GSM-R 900 
+262 76  Siemens AG Operational GSM 900 Test network 
+262 77 E-Plus  Operational GSM 900 Test network 
+262 901 Debitel  Operational Unknown 
+
+[edit] Ghana - GH
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+620 01 MTN MTN Group Operational GSM 900 / GSM 1800 [42] 
+620 02 Vodafone Vodafone Group Operational GSM 900 / GSM 1800 former Onetouch 
+620 03 tiGO Millicom Ghana Operational GSM 900 / GSM 1800 former MOBITEL 
+620 04  Kasapa / Hutchison Telecom Operational CDMA 
+620 06 Zain Zain Group Operational GSM 900 / GSM 1800 / WCDMA former Celltel 
+
+[edit] Gibraltar (United Kingdom) - GI
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+266 01 GibTel Gibraltar Telecoms Operational GSM 900 
+266 06 CTS Mobile CTS Gibraltar Operational UTMS 2100 
+
+[edit] Greece - GR
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+202 01 Cosmote COSMOTE - Mobile Telecommunications S.A. Operational GSM 900 / GSM 1800 / UMTS 2100 [43] 
+202 05 Vodafone Vodafone Greece Operational GSM 900 / GSM 1800 / UMTS 2100 
+202 09 Wind Wind Hellas Telecommunications S.A. Operational GSM 1800 Q-telecom Discontinued, merged in 202 10 
+202 10 Wind Wind Hellas Telecommunications S.A. Operational GSM 900 / GSM 1800 / UMTS 2100 
+
+[edit] Greenland (Denmark) - GL
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+290 01  TELE Greenland A/S Operational GSM 900 [44] 
+
+[edit] Grenada - GD
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+352 030 Digicel Digicel Grenada Ltd. Operational GSM 900 / GSM 1800 [45] 
+352 110 Cable & Wireless Cable & Wireless Grenada Ltd. Operational GSM 850 
+
+[edit] Guadeloupe (France) - GP
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+340 01 Orange Orange Caraïbe Mobiles Operational GSM 900 [46] 
+340 02 Outremer Outremer Telecom Operational GSM 900 / GSM 1800 
+340 03 Telcell Saint Martin et Saint Barthelemy Telcell Sarl Operational GSM 900 / GSM 1800 
+340 08 MIO GSM Dauphin Telecom Operational GSM 900 / GSM 1800 
+340 20 Digicel DIGICEL Antilles Française Guyane Operational GSM 900 Former Bouygues Telecom Caraïbes 
+
+[edit] Guam (United States of America) - GU
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+310 032 IT&E Wireless IT&E Overseas, Inc Operational CDMA 1900 GSM 1900 planned [47] 
+310 033  Guam Telephone Authority Unknown Unknown 
+310 140 mPulse GTA Wireless Operational GSM 850 / GSM 1900 
+310 370 Guamcell Guam Cellular & Paging Inc Operational CDMA 850 
+311 250 i CAN_GSM Wave Runner LLC Not operational GSM 1900 Planned 
+310 470 Guamcell Guam Cellular & Paging Inc Operational GSM 1900 / UMTS 850 Formerly HafaTEL. The UMTS 850 service is planned. 
+
+[edit] Guatemala - GT
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+704 01 Claro Servicios de Comunicaciones Personales Inalambricas (SERCOM) Operational CDMA 1900 / GSM 900 / GSM 1900 / UMTS 1900 
+704 02 Comcel / Tigo Millicom / Local partners Operational GSM 850 / TDMA 800 / UMTS 850 
+704 03 movistar Telefonica Móviles Guatemala (Telefónica) Operational CDMA 1900 / GSM 1900 / UMTS 1900 
+704  ? digicel Digicel Group Reserved GSM 900 
+
+[edit] Guernsey (United Kingdom) - GG
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+234 55  Cable & Wireless Guernsey Operational GSM 900 / UMTS 2100 
+
+[edit] Guinea - GN
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+611 01 Spacetel Orange Operational GSM 900 
+611 02 Lagui Sotelgui Lagui Operational GSM 900 
+611 03 Telecel Guinee INTERCEL Guinée Operational GSM 900 
+611 04 MTN Areeba Guinea Operational GSM 900 / GSM 1800 
+
+[edit] Guinea-Bissau - GW
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+632 02 Areeba Spacetel Guiné-Bissau S.A. Operational GSM 900 [48] 
+632 03 Orange  Operational GSM 900/1800 
+
+[edit] Guyana - GY
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+738 01 Digicel U-Mobile (Cellular) Inc. Operational GSM 900 
+
+[edit] H
+[edit] Haiti - HT
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+372 01  Comcel / Voila Operational GSM 850 
+338 050 Digicel  Operational GSM 1800 
+
+[edit] Honduras - HN
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+708 01 Claro Servicios de Comunicaciones de Honduras S.A. de C.V. Operational GSM 1900 
+708 02  Celtel / Tigo Operational CDMA 850 / GSM 850 
+708 30 Hondutel Empresa Hondureña de Telecomunicaciones Operational GSM 1900 
+708 04 DIGICEL Digicel de Honduras Operational GSM 1900 
+
+[edit] Hong Kong (Special Administrative Region) - HK
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+454 00 CSL Hong Kong CSL Limited Operational GSM 900 / GSM 1800 / UMTS 2100  
+454 01  CITIC Telecom 1616 Operational GSM 900 / GSM 1800 MVNO 
+454 02 CSL 3G Hong Kong CSL Limited Operational GSM 900 / GSM 1800 / UMTS 2100 
+454 03 3 (3G) Hutchison Telecom Operational UMTS 2100 
+454 04 3 DualBand (2G) Hutchison Telecom Operational GSM 900 / GSM 1800 
+454 05 3 CDMA Hutchison Telecom Not operational CDMA 800 Decommissioned on 19 November 2008 11:59pm 
+454 06 Smartone-Vodafone SmarTone Mobile Comms Operational GSM 900 / GSM 1800 / UMTS 2100 
+454 07  China Unicom Operational GSM 900 / GSM 1800 / UMTS 2100 MVNO 
+454 08  Trident Operational GSM 900 / GSM 1800 MVNO 
+454 09  China Motion Telecom Operational GSM 900 / GSM 1800 MVNO 
+454 10 New World Hong Kong CSL Limited Not operational GSM 1800 Signal Combined with 454-02 
+454 11  China-Hongkong Telecom Operational GSM 900 / GSM 1800 MVNO 
+454 12 CMCC HK China Mobile Hong Kong Company Limited Operational GSM 1800 
+454 14  Hutchison Telecom Operational GSM 1800 Operational in Airport only 
+454 15  SmarTone Mobile Comms Operational GSM 1800 Operational in Airport only 
+454 16 PCCW PCCW Mobile (PCCW Ltd) Operational GSM 1800 
+454 17  SmarTone Mobile Comms Operational GSM 1800 Operational in Airport only 
+454 18  Hong Kong CSL Limited Operational GSM 1800 Operational in Airport only 
+454 19 PCCW PCCW Mobile (PCCW Ltd) Operational UMTS 2100 
+454 29 PCCW PCCW Mobile (PCCW Ltd) Operational CDMA 800 1X EVDO Rev A. Roamer's network, coverage limited to Golden Triangle Area around Victoria Harbour. 
+
+[edit] Hungary - HU
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+216 01 Pannon Pannon GSM Távközlési Zrt. Operational GSM 900 / GSM 1800 / UMTS 2100 
+216 30 T-Mobile Magyar Telekom Plc Operational GSM 900 / GSM 1800 / UMTS 2100 Former WESTEL, Westel 900 
+216 70 Vodafone Vodafone Magyarország Zrt. Operational GSM 900 / GSM 1800 / UMTS 2100 
+
+Nowadays You can hold Your code if You change Mobile Network Service.
+
+[edit] I
+[edit] Iceland
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+274 01 Siminn Iceland Telecom Operational GSM 900 / GSM 1800 / UMTS 2100 Former Landssimi hf [49] 
+274 02 Vodafone Og fjarskipti hf Operational GSM 900 / GSM 1800 Former Islandssimi ehf 
+274 03 Vodafone Vodafone Iceland Operational Unknown Former Islandssimi ehf 
+274 04 Viking IMC Island ehf Operational GSM 1800  
+274 06  Núll níu ehf Reserved Unknown 
+274 07 IceCell IceCell ehf Operational GSM 1800  
+274 08 On-waves Iceland Telecom Operational Unknown On ferries and cruise ships 
+274 11 Nova Nova ehf Operational UMTS 2100 
+
+[edit] India
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+404 00 MTS Rajasthan Operational CDMA 
+404 01 Vodafone IN Haryana Operational GSM 900 
+404 02 AirTel Punjab Operational GSM 900 
+404 04 IDEA Delhi & NCR Operational GSM 1800 
+404 05 Vodafone IN Gujarat Operational GSM 900 Formerly Hutch / Fascel 
+404 07 IDEA Andhra Pradesh Operational GSM 900 
+404 09 Reliance Assam Operational GSM 900 
+404 10 AirTel Delhi & NCR Operational GSM 900 November 1995 
+404 11 Vodafone IN Delhi & NCR Operational GSM 900 / GSM 1800 November 1995 
+404 12 IDEA Haryana Operational GSM 900 Octomber 1996 
+404 13 Vodafone IN Andhra Pradesh Operational GSM 1800 July 2003 
+404 14 IDEA Punjab Operational GSM 900 / GSM 1800 May 1997 as Spice 
+404 15 Vodafone IN Uttar Pradesh (East) Operational GSM 900 July 1997 
+404 17 AIRCEL West Bengal Operational GSM 900 / GSM 1800 March 2006 
+404 19 IDEA Kerala Operational GSM 900 / GSM 1800 Octomber 1996 as Escotel 
+404 20 Vodafone IN Mumbai Operational GSM 900 November 1995 Formerly Hutchison Maxtouch / Orange / Hutch 
+404 21 Loop Mobile Mumbai Operational GSM 900 Octomber 1995 as BPL Mobile 
+404 22 IDEA Maharashtra & Goa Operational GSM 900 September 1996 
+404 24 IDEA Gujarat Operational GSM 900 September 1996 
+404 27 Vodafone IN Maharashtra & Goa Operational GSM 900 
+404 28 AIRCEL Orissa Operational GSM 900 March 2006 
+404 29 AIRCEL Assam Operational GSM 900 March 2006 
+404 30 Vodafone IN Kolkata Operational GSM 900 / GSM 1800 July 1995 Formerly Command / Hutch 
+404 31 AirTel Kolkata Operational GSM 900 
+404 34 CellOne Haryana Operational GSM 900 January 2001 
+404 36 Reliance Bihar & Jharkhand Operational Unknown 
+404 37 Aircel Jammu & Kashmir Operational GSM 900 / GSM 1800 March 2006 
+404 38 CellOne Assam Operational GSM 900 January 2001 
+404 41 Aircel Chennai Operational GSM 900 September 1995 
+404 42 Aircel Tamil Nadu Operational GSM 900 April 1999 
+404 44 IDEA Karnataka Operational GSM 900 Formerly Spice 
+404 45 Airtel Karnataka Operational GSM 900 
+404 51 CellOne Himachal Pradesh Operational GSM 900 January 2001 
+404 52 Reliance Orissa Operational GSM 900 
+404 53 CellOne Punjab Operational GSM 900 January 2001 
+404 54 CellOne Uttar Pradesh (West) Operational GSM 900 January 2001 
+404 55 CellOne Uttar Pradesh (East) Operational GSM 900 January 2001 
+404 56 IDEA Uttar Pradesh (West) Operational GSM 900 Octomber 1996 
+404 57 CellOne Gujarat Operational GSM 900 January 2001 
+404 58 CellOne Madhya Pradesh & Chhattisgarh Operational GSM 900 January 2001 
+404 59 CellOne Rajasthan Operational GSM 900 January 2001 
+404 60 Vodafone IN Rajasthan Operational GSM 900 August 1997 
+404 62 CellOne Jammu & Kashmir Operational GSM 900 January 2001 
+404 64 CellOne Chennai Operational GSM 900 / UMTS 2100 January 2001 
+404 66 CellOne Maharashtra & Goa Operational GSM 900 January 2001 
+404 67 Vodafone IN West Bengal Operational GSM 900 
+404 68 DOLPHIN Delhi & NCR Operational GSM 900 / UMTS 2100 February 2001 
+404 69 DOLPHIN Mumbai Operational GSM 900 / UMTS 2100 February 2001 
+404 72 CellOne Kerala Operational GSM 900 January 2001 
+404 74 CellOne West Bengal Operational GSM 900 / UMTS 2100 January 2001 
+404 76 CellOne Orissa Operational GSM 900 / UMTS 2100??? January 2001 
+404 78 Idea Cellular Ltd Madhya Pradesh & Chattishgarh Operational GSM 900 
+404 80 BSNL MOBILE Bharat Sanchar Nigam Limited Operational Unknown 
+404 81 CellOne Kolkata Operational GSM 900 / UMTS 2100 January 2001 
+404 82 Idea Idea Operational Unknown 
+404 83 Reliance Smart GSM Kolkata Operational GSM 1800 
+404 84 Vodafone IN Chennai Operational GSM 1800 July 2003 
+404 85 Reliance West Bengal Operational GSM 1800 
+404 86 Vodafone IN Vodafone Essar South Operational Unknown 
+404 90 AirTel Maharashtra & Goa Operational GSM 1800 January 2002 
+404 91 AIRCEL Kolkata Operational GSM 900 
+404 92 AirTel Mumbai Operational GSM 1800 January 2002 
+404 93 AirTel Gujrat Operational GSM 1800 January 2002 
+404 96 AirTel Haryana Operational GSM 1800 January 2002 
+405 05 Reliance Delhi & NCR Operational GSM 1800 January 2009 
+405 10 Reliance Karnataka Operational GSM 1800 
+405 13 Reliance Maharashtra & Goa Operational GSM 1800 
+405 025 TATA DOCOMO Andhra Pradesh Operational GSM 1800 Unknown 
+405 026 TATA DOCOMO Assam Reserved GSM 1800 
+405 027 TATA DOCOMO Bihar/Jharkhand Operational GSM 1800 Unknown 
+405 029 TATA DOCOMO Tata Teleservices Unknown GSM 1800 
+405 030 TATA DOCOMO Tata Teleservices Unknown GSM 1800 
+405 031 TATA DOCOMO Tata Teleservices Unknown GSM 1800 
+405 032 TATA DOCOMO Tata Teleservices Unknown GSM 1800 
+405 034 TATA DOCOMO Tata Teleservices Unknown GSM 1800 
+405 035 TATA DOCOMO Kerala Operational GSM 1800 August 2009 
+405 036 TATA DOCOMO Kolkata Operational GSM 1800 
+405 037 TATA DOCOMO Maharashtra & Goa Operational GSM 1800 August 2009 
+405 038 TATA DOCOMO [Madhya Pradesh] Operational GSM 1800 
+405 039 TATA DOCOMO Mumbai Operational GSM 1800 August 2009 
+405 041 TATA DOCOMO Orissa Operational GSM 1800 
+405 042 TATA DOCOMO Tata Teleservices Unknown GSM 1800 
+405 043 TATA DOCOMO Tata Teleservices Unknown GSM 1800 
+405 044 TATA DOCOMO Tata Teleservices Unknown GSM 1800 
+405 045 TATA DOCOMO Tata Teleservices Unknown GSM 1800 
+405 046 TATA DOCOMO Tata Teleservices Unknown GSM 1800 
+405 047 TATA DOCOMO Tata Teleservices Operational GSM 1800 August 2009 
+405 51 AirTel West Bengal Operational GSM 900 September 2004 
+405 52 AirTel Bihar & Jharkhand Operational GSM 900 January 2005 
+405 54 AirTel Uttar Pradesh (East) Operational GSM 900 August 2004 
+405 56 AirTel Assam Operational GSM 900 / GSM 1800 March 2005 
+405 66 Vodafone IN Uttar Pradesh (West) Operational GSM 900 / GSM 1800 March 2004 
+405 70 IDEA Bihar & Jharkhand Operational GSM 1800 
+405 750 Vodafone IN Jammu & Kashmir Operational GSM 1800 
+405 751 Vodafone IN Assam Operational GSM 1800 September 2008 
+405 752 Vodafone IN Bihar & Jharkhand Operational GSM 1800 
+405 753 Vodafone IN Orissa Operational GSM 1800 June 2008 
+405 754 Vodafone IN Himachal Pradesh Operational GSM 1800 
+405 755 Vodafone IN North East Operational GSM 1800  
+405 756 Vodafone IN Madhya Pradesh & Chhattisgarh Operational GSM 1800 June 2008 
+405 799 IDEA Mumbai Operational GSM 900 / GSM 1800 January 2009 
+405 800 AIRCEL Delhi & NCR Operational GSM 1800 18th March 2009 
+405 801 AIRCEL Andhra Pradesh Operational GSM 1800 
+405 802 AIRCEL Gujarat Not operational GSM 1800 
+405 803 AIRCEL Karnataka Operational GSM 1800 
+405 804 AIRCEL Maharashtra & Goa Operational GSM 1800 
+405 805 AIRCEL Mumbai Operational GSM 1800 
+405 806 AIRCEL Rajasthan Not operational GSM 1800 
+405 807 AIRCEL Haryana Not operational GSM 1800 
+405 808 AIRCEL Madhya Pradesh Not operational GSM 1800 
+405 809 AIRCEL Kerala Operational GSM 1800 
+405 810 AIRCEL Uttar Pradesh (East) Operational GSM 1800 
+405 811 AIRCEL Uttar Pradesh (West) Operational GSM 
+405 812 AIRCEL Punjab Not operational GSM 
+405 819 Uninor Andhra Pradesh Operational GSM 3rd December 2009 
+405 818 Uninor Uttar Pradesh (West) Operational GSM 3rd December 2009 
+405 820 Uninor Karnataka Operational GSM 1800 3rd December 2009 
+405 821 Uninor Kerala Operational GSM 1800 3rd December 2009 
+405 824 Videocon Datacom Assam Reserved GSM 1800 
+405 834 Videocon Datacom Madhya Pradesh Testing GSM 1800 
+405 845 IDEA Assam Operational GSM 1800 November 2009 
+405 848 IDEA Kolkata Operational GSM 1800 
+405 850 IDEA Orissa Operational GSM 1800 
+405 855 Loop Mobile Assam Reserved GSM 1800 
+405 865 Loop Mobile Madhya Pradesh Reserved GSM 1800 
+405 875 Uninor Assam Reserved GSM 1800 
+405 881 S Tel Assam Reserved GSM 1800 
+405 912 Etisalat DB Andhra Pradesh Reserved 
+405 913 Etisalat DB Delhi & NCR Reserved GSM Coming soon 
+405 917 Etisalat DB Kerala Reserved 
+405 844 Uninor Delhi & NCR Not Operational GSM  
+405 822 Uninor Kolkata Not Operational GSM February 2010 
+
+[edit] Indonesia
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+510 00 PSN PT Pasifik Satelit Nusantara (ACeS) Operational Satellite 
+510 01 INDOSAT PT Indonesian Satellite Corporation Tbk (INDOSAT) Operational GSM 900 / GSM 1800 / UMTS 2100 Formerly PT Satelindo 
+510 03 StarOne PT Indosat Tbk Operational CDMA 800 
+510 07 TelkomFlexi PT Telkom Operational CDMA 800 
+510 08 AXIS PT Natrindo Telepon Seluler Operational GSM 1800 / UMTS 2100 
+510 09 SMART PT Smart Telecom Operational CDMA 1900 
+510 10 Telkomsel PT Telekomunikasi Selular Operational GSM 900 / GSM 1800 / UMTS 2100 
+510 11 XL PT XL Axiata Tbk Operational GSM 900 / GSM 1800 / UMTS 2100 
+510 20 TELKOMMobile PT Telkom Indonesia Tbk Unknown GSM 1800 Merged with Telkomsel 
+510 21 IM3 PT Indonesian Satellite Corporation Tbk (INDOSAT) Not operational GSM 1800 Merged with Indosat (MNC 01) MNC 21 not used anymore 
+510 27 Ceria PT Sampoerna Telekomunikasi Indonesia Operational CDMA 450 
+510 28 Fren/Hepi PT Mobile-8 Telecom Operational CDMA 800 
+510 89 3 PT Hutchison CP Telecommunications Operational GSM 1800 / UMTS 2100 
+510 99 Esia PT Bakrie Telecom Operational CDMA 800 
+
+[edit] Iran
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+432 11 MCI Mobile Communications Company of Iran Operational GSM 900 / GSM 1800 http://www.mci.ir [50] 
+432 14 TKC KFZO Operational GSM 900 
+432 19 MTCE Mobile Telecommunications Company of Esfahan Operational GSM 900 http://www.mtce.ir 
+432 32 Taliya  Operational GSM 900 / GSM 1800 http://www.taliya.ir 
+432 35 Irancell Irancell Telecommunications Services Company Operational GSM 900 / GSM 1800 http://www.irancell.ir 
+
+[edit] Iraq
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+418 20 Zain IQ Zain Iraq Operational GSM 900 
+418 30 Zain IQ Zain Iraq Operational GSM 900 [51] 
+418 05 Asia Cell Asia Cell Telecommunications Company Operational GSM 900 
+418 40 Korek Korek Telecom Ltd Operational GSM 900 
+418  ? SanaTel  Operational GSM 900 
+418  ? IRAQNA Orascom Telecom Iraq Corporation Operational GSM 900 
+
+[edit] Ireland
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+272 087 Vodafone Vodafone Ireland Operational GSM 900 / GSM 1800 / UMTS 2100 [52] 
+272 086 O2 O2 Ireland Operational GSM 900 / GSM 1800 / UMTS 2100 
+272 085 Meteor Meteor Mobile Communications Operational GSM 900 / GSM 1800 / UMTS 2100 
+272 04  Access Telecom Unknown Unknown 
+272 05 3 Hutchison 3G Ireland limited Operational UMTS 2100 
+272 07 Eircom Eircom Mobile Unknown GSM 900 / GSM 1800 / UMTS 2100 
+272 09  Clever Communications Unknown Unknown 
+
+[edit] Israel
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+425 01 Orange Partner Communications Company Ltd Operational GSM 1800 / UMTS 2100 [53] 
+425 02 Cellcom  Operational TDMA 850 / GSM 1800 / UMTS 2100 
+425 03 Pelephone  Operational CDMA 800 / UMTS 850 / 2100  
+425 77 Mirs  Operational iDEN  
+
+[edit] Italy
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+222 01 TIM Telecom Italia SpA Operational GSM 900 / GSM 1800 / UMTS 2100 [54] 
+222 02 Elsacom  Operational Satellite (Globalstar) 
+222 10 Vodafone Vodafone Omnitel N.V. Operational GSM 900 / GSM 1800 / UMTS 2100 
+222 30 RFI Rete Ferroviaria Italiana Operational GSM-R 900 
+222 77 IPSE 2000  Not operational UMTS 2100 Retired 
+222 88 Wind Wind Telecomunicazioni SpA Operational GSM 900 / GSM 1800 / UMTS 2100 
+222 98 Blu  Not operational GSM 1800 Retired 
+222 99 3 Italia Hutchison 3G Operational UMTS 2100 
+
+[edit] Ivory Coast
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+612 01  Cora de Comstar Not operational Unknown 
+612 02 Moov  Operational GSM 900 / GSM 1800 
+612 03 Orange  Operational GSM 900 
+612 04 KoZ Comium Ivory Coast Inc Operational GSM 900 / GSM 1800 
+612 05 MTN  Operational GSM 900 
+612 06 ORICEL ORICEL Operational GSM 1800 
+
+[edit] J
+[edit] Jamaica
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+338 020 Cable & Wireless Cable & Wireless Operational GSM 1900 
+338 050 Digicel Digicel (Jamaica) Limited Operational GSM 900 / GSM 1800 / CDMA 1900 
+338 070 Claro Oceanic Digital Jamaica Limited Operational GSM 850 / GSM 1900 / CDMA 850 
+338 180 Cable & Wireless Cable & Wireless Operational Unknown 
+
+[edit] Japan
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+440 00 eMobile EMOBILE Limited Operational UMTS 1700 
+440 01 NTT docomo NTT docomo Operational UMTS 2100 
+440 02 NTT docomo NTT DoCoMo Kansai Operational UMTS 2100 
+440 03 NTT docomo NTT DoCoMo Hokuriku Operational UMTS 2100 
+440 04 SoftBank SoftBank Mobile Corp Operational UMTS 2100 Formerly known as Vodafone K.K. 
+440 06 SoftBank SoftBank Mobile Corp Operational UMTS 2100 Formerly known as Vodafone K.K. 
+440 07 KDDI KDDI Corporation Operational CDMA 1X EV-DO Rev.A 
+440 08 KDDI KDDI Corporation Operational Unknown 
+440 09 NTT docomo NTT DoCoMo Kansai Operational Unknown 
+440 10 NTT docomo NTT DoCoMo Kansai Operational UMTS 800 / UMTS 1700 / UMTS 2100 
+440 11 NTT docomo NTT DoCoMo Tokai Operational Unknown 
+440 12 NTT docomo NTT DoCoMo Operational Unknown 
+440 13 NTT docomo NTT DoCoMo Operational Unknown 
+440 14 NTT docomo NTT DoCoMo Tohoku Operational Unknown 
+440 15 NTT docomo NTT DoCoMo Operational Unknown 
+440 16 NTT docomo NTT DoCoMo Operational Unknown 
+440 17 NTT docomo NTT DoCoMo Operational Unknown 
+440 18 NTT docomo NTT DoCoMo Tokai Operational Unknown 
+440 19 NTT docomo NTT DoCoMo Hokkaido Operational Unknown 
+440 20 SoftBank SoftBank Mobile Corp Operational UMTS 2100 Former Vodafone K.K. 
+440 21 NTT docomo NTT DoCoMo Operational Unknown 
+440 22 NTT docomo NTT DoCoMo Kansai Operational Unknown 
+440 23 DoCoMo NTT DoCoMo Tokai Operational Unknown 
+440 24 DoCoMo NTT DoCoMo Chugoku Operational Unknown 
+440 25 DoCoMo NTT DoCoMo Hokkaido Operational Unknown 
+440 26 DoCoMo NTT DoCoMo Kyushu Operational Unknown 
+440 27 DoCoMo NTT DoCoMoTohoku Operational Unknown 
+440 28 DoCoMo NTT DoCoMo Shikoku Operational Unknown 
+440 29 DoCoMo NTT DoCoMo Operational Unknown 
+440 30 DoCoMo NTT DoCoMo Operational Unknown 
+440 31 DoCoMo NTT DoCoMo Kansai Operational Unknown 
+440 32 DoCoMo NTT DoCoMo Operational Unknown 
+440 33 DoCoMo NTT DoCoMo Tokai Operational Unknown 
+440 34 DoCoMo NTT DoCoMo Kyushu Operational Unknown 
+440 35 DoCoMo NTT DoCoMo Kansai Operational Unknown 
+440 36 DoCoMo NTT DoCoMo Operational Unknown 
+440 37 DoCoMo NTT DoCoMo Operational Unknown 
+440 38 DoCoMo NTT DoCoMo Operational Unknown 
+440 39 DoCoMo NTT DoCoMo Operational Unknown 
+440 40 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 41 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 42 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 43 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 44 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 45 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 46 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 47 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 48 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 49 DoCoMo NTT DoCoMo Operational Unknown 
+440 50 KDDI KDDI Corporation Operational Unknown 
+440 51 KDDI KDDI Corporation Operational Unknown 
+440 52 KDDI KDDI Corporation Operational Unknown 
+440 53 KDDI KDDI Corporation Operational Unknown 
+440 54 KDDI KDDI Corporation Operational Unknown 
+440 55 KDDI KDDI Corporation Operational Unknown 
+440 56 KDDI KDDI Corporation Operational Unknown 
+440 58 DoCoMo NTT DoCoMo Kansai Operational Unknown 
+440 60 DoCoMo NTT DoCoMo Kansai Operational Unknown 
+440 61 DoCoMo NTT DoCoMo Chugoku Operational Unknown 
+440 62 DoCoMo NTT DoCoMo Kyushu Operational Unknown 
+440 63 DoCoMo NTT DoCoMo Operational Unknown 
+440 64 DoCoMo NTT DoCoMo Operational Unknown 
+440 65 DoCoMo NTT DoCoMo Shikoku Operational Unknown 
+440 66 DoCoMo NTT DoCoMo Operational Unknown 
+440 67 DoCoMo NTT DoCoMo Tohoku Operational Unknown 
+440 68 DoCoMo NTT DoCoMo Kyushu Operational Unknown 
+440 69 DoCoMo NTT DoCoMo Operational Unknown 
+440 70 au KDDI Corporation Operational CDMA 800 / CDMA 2100 
+440 71 KDDI KDDI Corporation Operational Unknown 
+440 72 KDDI KDDI Corporation Operational Unknown 
+440 73 KDDI KDDI Corporation Operational Unknown 
+440 74 KDDI KDDI Corporation Operational Unknown 
+440 75 KDDI KDDI Corporation Operational Unknown 
+440 76 KDDI KDDI Corporation Operational Unknown 
+440 77 KDDI KDDI Corporation Operational Unknown 
+440 78  Okinawa Cellular Telephone Operational Unknown 
+440 79 KDDI KDDI Corporation Operational Unknown 
+440 80 TU-KA TU-KA Cellular Tokyo Not operational Unknown Closed in March 31, 2008. 
+440 81 TU-KA TU-KA Cellular Tokyo Not operational Unknown Closed in March 31, 2008. 
+440 82 TU-KA TU-KA Phone Kansai Not operational Unknown Closed in March 31, 2008. 
+440 83 TU-KA TU-KA Cellular Tokai Not operational Unknown Closed in March 31, 2008. 
+440 84 TU-KA TU-KA Phone Kansai Not operational Unknown Closed in March 31, 2008. 
+440 85 TU-KA TU-KA Cellular Tokai Not operational Unknown Closed in March 31, 2008. 
+440 86 TU-KA TU-KA Cellular Tokyo Not operational Unknown Closed in March 31, 2008. 
+440 87 DoCoMo NTT DoCoMo Chugoku Operational Unknown 
+440 88 KDDI KDDI Corporation Operational Unknown 
+440 89 KDDI KDDI Corporation Operational Unknown 
+440 90 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 92 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 93 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 94 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 95 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 96 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 97 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 98 SoftBank SoftBank Mobile Corp Operational Unknown Formerly known as Vodafone K.K. 
+440 99 DoCoMo NTT DoCoMo Operational Unknown 
+
+[edit] Jordan
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+416 01 zain JO Jordan Mobile Telephone Services Operational GSM 900 [55] 
+416 02 XPress Telecom  Operational iDEN 800 
+416 03 Umniah  Operational GSM 1800 
+416 77 Orange Petra Jordanian Mobile Telecommunications Company (MobileCom) Operational GSM 900 
+
+[edit] K
+[edit] Kazakhstan
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+401 01 Beeline KaR-Tel LLP Operational GSM 900 / GSM 1800 
+401 02 Kcell GSM Kazakhstan Ltd Operational GSM 900 / GSM 1800 
+401 07 Dalacom  Operational CDMA 800 
+401 77 Mobile Telecom Service Mobile Telecom Service LLP Operational GSM 900 
+
+[edit] Kenya
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+639 02 Safaricom Safaricom Limited Operational GSM 900 / GSM 1800 [56] 
+639 03 Zain Celtel Kenya Limited Operational GSM 900 [57] 
+639 07 Orange Kenya Telkom Kenya Operational CDMA / GSM 900 / GSM 1800  
+639 05 yu Econet Wireless Kenya Operational / GSM 900 / GSM 1800 [58] 
+
+[edit] Kiribati
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+545 09 Kiribati Frigate Telecom Services Kiribati Ltd Operational GSM 900 
+
+[edit] North Korea
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+467 193 SUN NET Korea Posts and Telecommunications Corporation Operational GSM 900 [59] UMTS 2100 is pending 
+
+[edit] South Korea
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+450 02 KTF KTF Operational CDMA 1700 Formerly Hansol PCS, Merged with KTF 
+450 03 Digital 017 Shinsegi Telecom, Inc. Not operational CDMA 850 Merged with SK Telecom in 2002 
+450 04 KTF KTF Operational CDMA 1700  
+450 05 SKT SK Telecom Operational CDMA 850 / UMTS 2100 [60] 
+450 06 LGT LG Telecom Operational CDMA 1700  
+450 08 KTF SHOW KTF Operational UMTS 2100  
+
+[edit] Kosovo
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+212 01 Vala PTK - Directory of Post of Kosovo Operational GSM 900 Monaco MCC. Monaco Telecom is responsible for the delegated management of Vala GSM network in Kosovo. [61] 
+293 41 iPKO iPKO Operational GSM 900 / GSM 1800 Telekom Slovenije is responsible for the delegated management of iPKO GSM Network in Kosovo. [62] 
+293 41 D3 Mobile Dukagjini Operational GSM 900 / GSM 1800 iPKO is responsible for the delegated management of D3 Mobile GSM Network in Kosovo. 
+212 01 Z Mobile Dardaphone Operational GSM 900 Vala is responsible for the delegated management of Z Mobile GSM Network in Kosovo. 
+
+[edit] Kuwait
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+419 02 zain KW Zain Kuwait Operational GSM 900 / UMTS 2100 
+419 03 Wataniya National Mobile Telecommunications Operational GSM 900 / GSM 1800 / UMTS 2100 
+419 04 Viva Kuwait Telecommunication Company Operational GSM 900 / GSM 1800 / UMTS 2100 
+
+[edit] Kyrgyzstan
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+437 01 Beeline Sky Mobile LLC Operational GSM 900 / GSM 1800 former Bitel 
+437 05 MegaCom BiMoCom Ltd Operational GSM 900 / GSM 1800 
+437 09 O! NurTelecom LLC Operational GSM 900 / GSM 1800 
+
+[edit] L
+[edit] Laos
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+457 01 LaoTel Lao Shinawatra Telecom Operational GSM 900 [63] 
+457 02 ETL Enterprise of Telecommunications Lao Reserved GSM 900 
+457 03 LAT Lao Asia Telecommunication State Enterprise (LAT) Operational GSM 900 / GSM 1800 
+457 08 Tigo Millicom Lao Co Ltd Operational GSM 900 / GSM 1800 
+
+[edit] Latvia
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+247 01 LMT Latvian Mobile Telephone Operational GSM 900 / GSM 1800 / UMTS 2100 
+247 02 Tele2 Tele2 Operational GSM 900 / GSM 1800 / UMTS 2100 
+247 03 TRIATEL Telekom Baltija Operational CDMA 450 
+247 05 Bite Bite Latvija Operational GSM 900 / GSM 1800 / UMTS 2100 Bite's postpaid customers are still being assigned SIM cards with 246 02 MNC 
+247 06  Rigatta Reserved Unknown No own network. Not in commercial use. [64] 
+247 07 MTS Master Telecom Operational MVNO Uses Bite network [65] 
+247 08 IZZI IZZI Operational MVNO Uses Bite network [66] 
+247 09 Camel Mobile Camel Mobile Operational MVNO  
+
+[edit] Lebanon
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+415 01 Alfa MIC 1 Operational GSM 900 
+415 03 MTC-Touch MIC 2 Operational GSM 900 
+
+[edit] Lesotho
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+651 01 Vodacom Vodacom Lesotho (Pty) Ltd Operational GSM 900 
+651 02  Econet Ezin-cel Operational Unknown 
+
+[edit] Liberia
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+618 01 Lonestar Cell Lonestar Communications Corporation Operational GSM 900 
+618 04 Comium Comium Liberia Operational Unknown 
+618 20 LIBTELCO Liberia Telecommunications Corporation Operational CDMA 2000 
+
+[edit] Libya
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+606 00 Libyana  Operational GSM 900 
+606 01 Madar Al Madar Operational GSM 900 
+
+[edit] Liechtenstein
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+295 01 Swisscom Swisscom Schweiz AG Operational GSM 900 / GSM 1800 [67] 
+295 02 Orange Orange Liechtenstein AG Operational GSM 1800 / UMTS 2100 
+295 05 FL1 Mobilkom Liechtenstein AG Operational GSM 900 / GSM 1800 / UMTS 2100 
+295 77 Tele 2 Belgacom Operational GSM 900 Aka. Tango 
+
+[edit] Lithuania
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+246 01 Omnitel  Operational GSM 900 / GSM 1800 / UMTS 2100 
+246 02 BITE UAB Bité Lietuva Operational GSM 900 / GSM 1800 / UMTS 2100 
+246 03 Tele 2  Operational GSM 900 / GSM 1800 / UMTS 2100 
+
+[edit] Luxembourg
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+270 01 LuxGSM P&T Luxembourg Operational GSM 900 / GSM 1800 / UMTS 2100 
+270 77 Tango Tango SA Operational GSM 900 / GSM 1800 / UMTS 2100 
+270 99 Orange Orange S.A. Operational GSM 900 / GSM 1800 / UMTS 2100 
+
+[edit] M
+[edit] Macau (People's Republic of China)
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+455 00 SmarTone SmarTone Macao Operational GSM 900 / GSM 1800 [68] 
+455 01 CTM C.T.M. Telemovel+ Operational GSM 900 / GSM 1800 
+455 02 China Telecom China Telecom Operational CDMA 800 
+455 03 3 Hutchison Telecom Operational GSM 900 / GSM 1800 
+455 04 CTM C.T.M. Telemovel+ Operational UMTS 2100 
+455 05 3 Hutchison Telecom Operational UMTS 2100 
+
+[edit] Republic of Macedonia
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+294 01 T-Mobile T-Mobile Makedonija Operational GSM 900 
+294 02 One Cosmofon Operational GSM 900 / UMTS 2100 
+294 03 Vip VIP Operator Operational GSM 900 / GSM 1800 
+
+[edit] Madagascar
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+646 01 Zain Celtel Operational GSM 900 / GSM 1800 Former Madacom [69] 
+646 02 Orange Orange Madagascar S.A. Operational GSM 900 
+646 03 Sacel Sacel Madagascar S.A. Operational GSM 900 
+646 04 Telma Telma Mobile S.A. Operational GSM 900 
+
+[edit] Malawi
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+650 01 TNM Telecom Network Malawi Operational GSM 900 / GSM 1800 [70] 
+650 10 Zain Celtel Limited Operational GSM 900 [71] 
+
+[edit] Malaysia
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+502 12 Maxis Maxis Communications Berhad Operational GSM 900 / GSM 1800 / UMTS 2100 [72] 
+502 13 Celcom Celcom Malaysia Sdn Bhd Operational GSM 900 / GSM 1800 / UMTS 2100 Formerly was TMTouch
+[73] 
+502 16 DiGi DiGi Telecommunications Operational GSM 1800 / UMTS 2100 
+502 17 Maxis Maxis Communications Berhad Operational GSM 900 / GSM 1800 / UMTS 2100 Formerly was Timecel 
+502 18 U Mobile U Mobile Sdn Bhd Operational UMTS 2100 / GSM 900 / GSM 1800 **MVNO Of Celcom Where UMTS network is unavailable (Celcom's MVNO) 
+502 19 Celcom Celcom Malaysia Sdn Bhd Operational GSM 900 / GSM 1800 / UMTS 2100 
+
+[edit] Maldives
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+472 01 Dhiraagu Dhivehi Raajjeyge Gulhun Operational GSM 900 [74] 
+472 02 Wataniya Wataniya Telecom Maldives Operational GSM 900 / UMTS 2100 
+
+[edit] Mali
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+610 01 Malitel Malitel SA Operational GSM 900 [75] 
+610 02 Orange Orange Mali SA Operational GSM 900 
+
+[edit] Malta
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+278 01 Vodafone Vodafone Malta Operational GSM 900 / UMTS 2100 Supports two MVNO's - Bay Mobile and Redtouch Fone 
+278 21 GO Mobisle Communications Limited Operational GSM 1800 / UMTS 2100 
+278 77 Melita Melita Plc Operational UMTS 2100 
+
+[edit] Marshall Islands
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+ ?  ?   ? Unknown Unknown 
+
+[edit] Martinique (France) - MQ (same as Guadeloupe)
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+340 01 Orange Orange Caraïbe Mobiles Operational GSM 900 [76] 
+340 02 Outremer Outremer Telecom Operational GSM 900 / GSM 1800 
+340 20 Digicel DIGICEL Antilles Française Guyane Operational GSM 900 Former Bouygues Telecom Caraïbes 
+
+[edit] Mauritania
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+609 01 Mattel Mattel Operational GSM 900 [77] 
+609 10 Mauritel Mauritel Mobiles Operational GSM 900 
+
+[edit] Mauritius
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+617 01 Orange Cellplus Mobile Communications Ltd. Operational EDGE/3G 
+617 02 MTML Mahanagar Telephone (Mauritius) Ltd. Operational CDMA 
+617 10 Emtel Emtel Ltd Operational 3G 
+
+[edit] Mexico
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+334 01 Nextel Nextel México Operational iDEN 800 
+334 02 Telcel América Móvil Operational TDMA 850 / GSM 1900 / UMTS 850 
+334 03 movistar Pegaso Comunicaciones y Sistemas Operational CDMA 1900 / CDMA 800 / GSM 1900 / UMTS 850 
+334 04 Iusacell / Unefon Iusacell / Unefon Operational CDMA 800 / CDMA 1900 
+
+[edit] Micronesia
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+550 01  FSM Telecom Operational GSM 900 / GSM 1800 
+
+[edit] Moldova
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+259 01 Orange Orange Moldova Operational GSM 900 / GSM 1800 / UMTS 2100 Former Voxtel 
+259 02 Moldcell  Operational GSM 900 / GSM 1800 / UMTS 2100 
+259 03 Unité Moldtelecom Operational CDMA 450  
+259 03 IDC Interdnestrcom Operational CDMA 450 / CDMA 800 Sharing the same MNC with Unité 
+259 04 Eventis Eventis Telecom Operational GSM 900 / GSM 1800  
+259 05 Unité Moldtelecom Reserved UMTS 2100 Network launch in December 2009 
+
+[edit] Monaco
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+212 01 Office des Telephones Monaco Telecom Unknown Unknown Used for the Vala network in Kosovo. The GSM Association lists the PTK (P&T Kosovo) website for this network. [78] 
+
+[edit] Mongolia
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+428 99 MobiCom Mobicom Corporation Operational GSM 900 [79] 
+428 88 Unitel Unitel LLC Operational GSM 900 
+428 91 Skytel Skytel LLC Operational CDMA 800 
+428 98 G.Mobile G-Mobile LLC Operational CDMA 450 
+
+[edit] Montenegro
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+297 01 ProMonte ProMonte GSM Operational GSM 900 / GSM 1800 / UMTS 2100 [80] 
+297 02 T-Mobile T-Mobile Montenegro LLC Operational GSM 900 
+297 03 m:tel CG MTEL CG Operational GSM 900 / GSM 1800 / UMTS 2100 
+
+[edit] Morocco
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+604 00 Méditel Medi Telecom Operational GSM 900 / GSM 1800 [81] 
+604 01 IAM Ittissalat Al Maghrib (Maroc Telecom) Operational GSM 900 / GSM 1800 / UMTS 2100 
+604 02 WANA WANA - Groupe ONA Operational CDMA  
+
+[edit] Mozambique
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+643 01 mCel Mocambique Celular S.A.R.L Operational GSM 900 / GSM 1800 [82] 
+643 04 Vodacom Vodacom Mozambique, S.A.R.L. Unknown GSM 900 / GSM 1800 
+
+[edit] Myanmar
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+414 01 MPT Myanmar Post and Telecommunication Operational GSM 900 [83] [84] 
+
+[edit] N
+[edit] Namibia
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+649 01 MTC MTC Namibia Operational GSM 900 / GSM 1800 
+649 02 switch Telecom Namibia Operational CDMA 800 
+649 03 Leo Orascom Telecom Holding Operational GSM 900 / GSM 1800 former Cell One 
+
+[edit] Nauru
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+536      Nauru has no mobile network 
+
+[edit] Nepal
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+429 01  Nepal Telecom Operational GSM 900 / GSM 1800 / CDMA 
+429 02 Mero Mobile Spice Nepal Private Ltd Operational GSM 900 / GSM 1800 
+429 03  United Telecom Limited Operational CDMA 1900 
+
+[edit] Netherlands (Kingdom of the Netherlands)
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+204 01  OneFoon   [85] 
+204 02 Tele2 Tele2 Netherlands Operational  
+204 03 Blyk Blyk Netherlands Operational  
+204 04 Vodafone Vodafone Netherlands Operational GSM 900 / GSM 1800 / UMTS 2100 
+204 05  Elephant Talk   
+204 06  Barablu Mobile   
+204 07  Teleena   
+204 08 KPN KPN Operational GSM 900 / GSM 1800 / UMTS 2100 
+204 09  Lycamobile   
+204 10 KPN KPN Operational GSM 900 / GSM 1800 / UMTS 2100 
+204 12 Telfort KPN Operational GSM 900 / GSM 1800 
+204 14 6Gmobile 6Gmobile Operational-MVNE GSM 900 / GSM 1800 / UMTS 2100 
+204 16 T-Mobile T-Mobile Netherlands B.V Operational GSM 900 / GSM 1800 / UMTS 2100 
+204 18 Telfort KPN Operational GSM 900 / GSM 1800 
+204 20 Orange Nederland T-Mobile Netherlands B.V Operational GSM 1800 
+204 21  NS Railinfrabeheer B.V. Operational GSM-R 
+204 67  RadioAccess   
+204 69  KPN Mobile   
+
+[edit] Netherlands Antilles (Kingdom of the Netherlands)
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+362 51 Telcell Telcell N.V. Operational GSM 900 St.Maarten [86] 
+362 69 Digicel Curaçao Telecom N.V. Operational GSM 900 / GSM 1800 Curaçao 
+362 91 UTS Setel N.V. Operational GSM 900 Chippie Land 
+362  ??  East Caribbean Cellular Operational GSM 900 / GSM 1800 
+362  ??  Antiliano Por N.V. Operational GSM 900 Live from July 2007 
+362 95 MIO E.O.C.G. Wireless Operational CDMA 850 http://curacao.mio.an 
+362 94 Bayòs Bòbò Frus N.V. Operational TDMA PCS Mobile Solutions 
+
+[edit] New Caledonia (France)
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+546 01 Mobilis OPT New Caledonia Operational GSM 900 [87] 
+
+[edit] New Zealand
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+530 00 Telecom Telecom New Zealand Not operational AMPS 800 / TDMA 800 AMPS MIN based IMSI's 
+530 01 Vodafone Vodafone New Zealand Operational GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 UMTS 2100 is used in urban areas. UMTS 900 is referred to as "3G extended" and used in rural areas. 
+530 02 Telecom Telecom New Zealand Operational CDMA 800  
+530 03 Woosh Woosh Wireless New Zealand Operational UMTS 2000 Wireless Broadband only 
+530 04 TelstraClear TelstraClear New Zealand Not operational UMTS 2100 Own a 3G spectrum licence but undeveloped, they have a wholesale agreement to resell Telecom's 530 02 CDMA 800 network 
+530 05 XT Mobile Network Telecom New Zealand Operational UMTS 850 / UMTS 2100 No GSM coverage 
+530 24 2degrees 2degrees Operational GSM 900 / GSM 1800 / UMTS 2100 UMTS 2100 not yet operational 
+
+[edit] Nicaragua
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+710 21 Claro Empresa Nicaragüense de Telecomunicaciones, S.A. Operational UMTS 850 / GSM 1900 [88] 
+710 30 movistar Telefónica Móviles de Nicaragua S.A. Operational UMTS 850 / GSM 850 / 1900 CDMA 800, TDMA 800 and NAMPS 800 are not commercial 
+710 73 SERCOM Servicios de Comunicaciones S.A. Operational UMTS 850 / GSM 1900 Not listed by the GSM Association (Merge with Claro) 
+
+[edit] Niger
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+614 01 SahelCom  Operational GSM 900 [89] 
+614 02 Zain Celtel Niger Operational GSM 900 [90] 
+614 03 Telecel Telecel Niger SA Operational GSM 900 
+614 04 Orange Orange Niger Operational GSM 900 / GSM 1800 
+
+[edit] Nigeria
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+621 20 Zain Vee Network Nigeria Ltd. Operational GSM 900 / GSM 1800 Former V-Mobile [91] 
+621 30 MTN MTN Nigeria Communications Limited Operational GSM 900 / GSM 1800 
+621 40 M-Tel Nigerian Mobile Telecommunications Limited Moribund GSM 900 / GSM 1800 
+621 50 Glo Globacom Ltd Operational GSM 900 / GSM 1800 
+621 60 Etisalat Emerging Markets Telecommunication Services Ltd (Etisalat) Operational GSM 900 / GSM 1800 
+
+[edit] Norway
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+242 01 Telenor  Operational GSM 900 / GSM 1800 / UMTS 2100 [92] 
+242 02 NetCom NetCom GSM Operational GSM 900 / GSM 1800 / UMTS 2100 
+242 03 MTU  Not operational GSM 1800 Closed December 1 2008. Formerly Teletopia (However cells are still powered up as of January 12) 
+242 04 Tele2  MVNO  
+242 05 Network Norway  Operational UMTS 900 / UMTS 2100 
+242 06 Ice Nordisk Mobiltelefon Operational CDMA 450 Data services only 
+242 07 Ventelo  Reserved Unknown 
+242 08  TDC Mobil AS Reserved Unknown 
+242 09  Barablu Mobile Norway Ltd Not operational  Defunct MVNO 
+242 20  Jernbaneverket AS Operational GSM-R 900 
+
+[edit] O
+[edit] Oman
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+422 02 Oman Mobile Oman Telecommunications Company Operational GSM 900 / GSM 1800 [93] 
+422 03 Nawras Omani Qatari Telecommunications Company SAOC Operational GSM 900 / GSM 1800 
+
+[edit] P
+[edit] Pakistan
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+410 01 Mobilink Mobilink-PMCL Operational GSM 900 / GSM 1800 
+410 03 Ufone Pakistan Telecommunication Mobile Ltd Operational GSM 900 / GSM 1800 
+410 04 Zong China Mobile Operational GSM 900 / GSM 1800 Formerly Paktel 
+410 06 Telenor Telenor Pakistan Operational GSM 900 / GSM 1800 
+410 05 SCOM Special Communications Organization, Pakistan Operational GSM 900 
+410 07 Warid WaridTel Operational GSM 900 / GSM 1800 
+
+[edit] Palau
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+552 01 PNCC Palau National Communications Corp. Operational GSM 900 
+552 80 Palau Mobile Palau Mobile Corporation Operational GSM 1800 
+
+[edit] Palestinian Authority
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+423 05 JAWWAL Palestine Cellular Communications, Ltd. Operational GSM 900 [94] [95] 
+423 06 Wataniya Mobile Wataniya Palestine Mobile Telecommunications Company Reserved GSM 900 / GSM 1800 Planned [96] 
+
+[edit] Panama
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+714 01 Cable & Wireless Cable & Wireless Panama S.A. Operational GSM 850 [97] 
+714 02 movistar Telefonica Moviles Panama S.A Operational GSM 850 / UMTS 850 / UMTS 1900 CDMA 800, TDMA 800 and NAMPS 800 are closed. 
+714 04 Digicel Digicel Group Operational GSM 1800 / GSM 1900 
+714 03 Claro América Móvil Operational GSM 1900 / UMTS 1900 
+
+[edit] Papua New Guinea
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+537 01 B-Mobile Pacific Mobile Communications Operational GSM 900 
+537 03 Digicel Digicel PNG Operational GSM 900 
+
+[edit] Paraguay
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+744 01 VOX Hola Paraguay S.A Operational GSM 1900  
+744 02 Claro AMX Paraguay S.A. Operational GSM 1900 / UMTS 1900  
+744 04 Tigo Telefonica Celular Del Paraguay S.A. (Telecel) Operational GSM 850 / UMTS 850  
+744 05 Personal Núcleo S.A Operational GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 
+
+[edit] Peru
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+716 06 movistar Telefónica Móviles Perú Operational CDMA 850 / GSM 850 [98] 
+716 10 Claro América Móvil Perú Operational GSM 1900 
+716 07 NEXTEL NII Holdings Operational iDEN 
+
+[edit] Philippines
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+515 01 Islacom Innove Communications Inc Operational GSM 900 [99] 
+515 02 Globe Globe Telecom Operational GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 
+515 03 Smart Gold Smart Communications Inc Operational GSM 900 / GSM 1800 / UMTS 850 / UMTS 2100 
+515 05 Digitel Digital Telecommunications Philippines Operational GSM 1800 Aka. Sun Cellular 
+515 11  ACeS Philippines Unknown Unknown 
+515 18 Red Mobile Connectivity Unlimited Resource Enterprise Operational UMTS 2100 Formerly ümobile 
+515 88  Nextel Unknown Unknown 
+
+[edit] Poland
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+260 01 Plus Polkomtel S.A. Operational GSM 900 / GSM 1800 / UMTS 2100 [100] 
+260 02 Era Polska Telefonia Cyfrowa Sp. z o.o. Operational GSM 900 / GSM 1800 / UMTS 2100 
+260 03 Orange Polska Telefonia Komórkowa Centertel Sp. z o.o. Operational GSM 900 / GSM 1800 / UMTS 2100 / CDMA 450 former Idea 
+260 05  Polska Telefonia Komórkowa Centertel Sp. z o.o. Operational UMTS 2100 not in use, using MNC 03 
+260 06 Play P4 Sp. z o.o. Operational GSM 900 / UMTS 2100 Also roaming on Polkomtel 2G/3G network 
+260 07 Netia Netia S.A. Operational GSM 900 / UMTS 2100 MVNO roaming on Play (P4) network 
+260 08  E-Telko Sp. z o.o. Not operational Unknown 
+260 09  Telekomunikacja Kolejowa Sp. z o.o. Not operational GSM-R 900 railways communication 
+260 10 Sferia Sferia S.A. Operational UMTS 850 Formerly assigned to Telefony Opalenickie S.A. 
+260 11 Nordisk Polska Nordisk Polska Sp. z o.o. Operational CDMA 410 [101] 
+260 12 Cyfrowy Polsat Cyfrowy Polsat S.A. Operational GSM 900 / GSM 1800 / UMTS 2100 MVNO roaming on PTC network 
+260 13 Sferia Sferia S.A. Operational CDMA 850 
+260 14 Sferia Sferia S.A. Operational CDMA 850 
+260 15 CenterNet CenterNet S.A. Operational GSM 1800 Also roaming on PTC network; network name: wRodzinie 
+260 16 Mobyland Mobyland Sp. z o.o. Operational GSM 1800 
+260 17 Aero2 Aero 2 Sp. z o.o. Operational UMTS 900 
+
+[edit] Portugal
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+268 01 Vodafone Vodafone Portugal Operational GSM 900 / GSM 1800 / UMTS 2100 
+268 03 Optimus Sonaecom – Serviços de Comunicações, S.A. Operational GSM 900 / GSM 1800 / UMTS 2100 
+268 06 TMN Telecomunicações Móveis Nacionais Operational GSM 900 / GSM 1800 / UMTS 2100 
+268 21 Zapp Zapp Portugal Operational CDMA 450 
+
+[edit] Puerto Rico
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+330 11 Claro Puerto Rico Telephone Company Operational GSM 850 / GSM 1900 / UMTS 850 
+
+[edit] Q
+[edit] Qatar
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+427 01 Qatarnet Q-Tel Operational GSM 900 / GSM 1800 
+427 02 Vodafone Qatar Vodafone Qatar Q.S.C. Operational GSM 900 / GSM 1800 / UMTS 2100 
+
+[edit] R
+[edit] Réunion (France)
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+647 00 Orange Orange La Réunion Operational GSM 900 / GSM 1800 [102] 
+647 02 Outremer Outremer Telecom Operational GSM 900 / GSM 1800 
+647 10 SFR Reunion Societe Reunionnaise de Radiotelephone Operational GSM 900 
+
+[edit] Romania
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+226 01 Vodafone Vodafone România Operational GSM 900 / GSM 1800 / UMTS 2100 Formerly branded as Connex 
+226 02 Romtelecom Romtelecom Operational CDMA 420 Network used only for Data 
+226 03 Cosmote Cosmote România Operational GSM 900 / GSM 1800 
+226 04 Zapp Telemobil Operational CDMA 450 
+226 05 Digi.Mobil RCS&RDS Operational UMTS 2100 
+226 06 Zapp Telemobil Operational UMTS 2100 Network used only for Data 
+226 10 Orange Orange România Operational GSM 900 / GSM 1800 / UMTS 2100 Formerly branded as Dialog 
+
+[edit] Russian Federation
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+250 01 MTS Mobile TeleSystems Operational GSM 900 / GSM 1800 / UMTS 2100 
+250 02 MegaFon MegaFon OJSC Operational GSM 900 / GSM 1800 / UMTS 2100 
+250 03 NCC Nizhegorodskaya Cellular Communications Operational GSM 900 / GSM 1800 
+250 04 Sibchallenge Sibchallenge Not operational GSM 900 
+250 05 ETK Yeniseytelecom Operational GSM 900 / GSM 1800 Mobile Communications Systems 
+250 06 Skylink[103] CJSC Saratov System of Cellular Communications Operational CDMA 450 
+250 07 SMARTS Zao SMARTS Operational GSM 900 / GSM 1800 
+250 09 Skylink Khabarovsky Cellular Phone Operational CDMA 450 
+250 10 DTC Dontelekom Not operational GSM 900 
+250 11  Orensot Not operational Unknown 
+250 12 Baykalwestcom Baykal Westcom / New Telephone Company / Far Eastern Cellular Operational GSM 900 / GSM 1800 / CDMA 450 
+250 13 KUGSM Kuban GSM Not operational GSM 900 / GSM 1800 
+250 15 SMARTS SMARTS Ufa, SMARTS Uljanovsk Operational GSM 1800 
+250 16 NTC New Telephone Company Operational GSM 900 / GSM 1800 
+250 17 Utel JSC Uralsvyazinform Operational GSM 900 / GSM 1800 Former Ermak RMS 
+250 19 INDIGO INDIGO Operational GSM 1800 
+250 20 Tele2 Tele2 Operational GSM 900 / GSM 1800 
+250 23 Mobicom - Novosibirsk Mobicom - Novosibirsk Not operational GSM 900 / GSM 1800 
+250 28 Beeline Beeline Not operational GSM 900 Former EXTEL 
+250 35 MOTIV MOTIV Operational GSM 1800  
+250 39 Utel Uralsvyazinform Operational GSM 900 / GSM 1800 
+250 44  Stavtelesot / North Caucasian GSM Not operational Unknown 
+250 92  Primtelefon Not operational Unknown 
+250 93  Telecom XXI Not operational Unknown 
+250 99 Beeline OJSC VimpelCom Operational GSM 900 / GSM 1800 / UMTS 2100 
+250  ?  SkyLink/MTS/the Moscow Cellular communication Unknown CDMA 450 
+250  ? Akos  Unknown GSM 1800 
+
+[edit] Rwanda
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+635 10 MTN MTN Rwandacell SARL Operational GSM 900 [104] 
+635 13 Tigo TIGO RWANDA S.A Reserved GSM 900 / GSM 1800 / UMTS 2100 
+
+[edit] S
+[edit] Saint Kitts and Nevis
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+356 050 Digicel  Unknown GSM 900 / GSM 1800 / GSM 1900 
+356 110  Cable & Wireless Unknown GSM 850 / GSM 1900 
+
+[edit] Saint Lucia
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+358 050 Digicel  Unknown GSM 900 / GSM 1800 / GSM 1900 
+358 110  Cable & Wireless Unknown GSM 850 
+
+[edit] Saint Pierre and Miquelon (France)
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+308 01 Ameris St. Pierre-et-Miquelon Télécom Operational GSM 900 [105] 
+
+[edit] Saint Vincent and the Grenadines
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+360 070 Digicel  Unknown GSM 900 / GSM 1800 / GSM 1900 
+360 100 Cingular Wireless  Unknown GSM 850 
+360 110 Cable & Wireless Cable & Wireless Unknown GSM 850 
+
+[edit] Samoa
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+549 01 Digicel Digicel Pacific Ltd. Operational GSM 900 [106] 
+549 27 SamoaTel SamoaTel Ltd Operational GSM 900 
+
+[edit] San Marino
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+292 01 PRIMA San Marino Telecom Operational GSM 900 / GSM 1800 / UMTS 2100 [107] [108] 
+
+[edit] Sao Tome and Principe
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+626 01 CSTmovel Companhia Santomese de Telecomunicaçôe Operational GSM 900 
+
+[edit] Saudi Arabia
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+420 01 Al Jawal Saudi Telecom Company Operational GSM 900 / UMTS 2100 [109] 
+420 03 Mobily Etihad Etisalat Company Operational GSM 900 / UMTS 2100 
+420 07 EAE Electronics App' Est. Unknown Unknown 
+420 04 Zain SA Zain Saudi Arabia Operational GSM 900 / GSM 1800 / UMTS 2100 Active September 2008 
+
+[edit] Senegal
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+608 01 Orange (telecommunications) Sonatel Operational GSM 900 / UMTS 2100 
+608 02 Tigo Millicom Operational GSM 900 / UMTS 2100 former SENTEL GSM 
+608 03 Expresso Sudatel Operational GSM 900 / UMTS 2100 
+
+[edit] Serbia
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+220 01 Telenor Telenor Serbia Operational GSM 900 / GSM 1800 / UMTS 2100 Former MOBTEL 
+220 03 mt:s Telekom Srbija Operational GSM 900 / GSM 1800 / UMTS 2100 
+220 05 VIP VIP Mobile Operational GSM 900 / GSM 1800 / UMTS 2100 
+
+[edit] Seychelles
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+633 01 Cable & Wireless Cable & Wireless Seychelles Operational Unknown 
+633 02 Mediatech International Mediatech International Operational GSM 1800 
+633 10 Airtel Telecom Airtel Operational Unknown 
+
+[edit] Sierra Leone
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+619 01 Zain  Operational Unknown Former Celtel [110] 
+619 02 Millicom  Operational Unknown 
+619 03 Datatel  Operational Unknown 
+619 04 Comium Comium Sierra leone INC Operational Unknown 
+619 05 Africell  Operational Unknown 
+619 25 Mobitel  Operational Unknown 
+619  ? LeoneCel Sierratel Reserved Unknown 
+
+[edit] Singapore
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+525 01 SingTel Singapore Telecom Operational GSM 900 / GSM 1800 / UMTS 2100 [111] 
+525 02 SingTel-G18 Singapore Telecom Operational GSM 1800 
+525 03 M1 MobileOne Asia Operational GSM 900 / GSM 1800 / UMTS 2100 
+525 05 StarHub StarHub Mobile Operational GSM 1800 / UMTS 2100 
+525 12  Digital Trunked Radio Network Operational iDEN 800 
+
+[edit] Slovakia
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+231 01 Orange Orange Slovensko Operational GSM 900 / GSM 1800 / UMTS 2100 [112] 
+231 02 T-Mobile T-Mobile Slovensko Operational GSM 900 / GSM 1800 Former Eurotel 
+231 03  Unient Communications Unknown Unknown 
+231 04 T-Mobile T-Mobile Slovensko Operational UMTS 2100 
+231 05  Mobile Entertainment Company Unknown UMTS 2100 
+231 06 O2 Telefónica O2 Slovakia Operational GSM 900 / GSM 1800 / UMTS 2100 
+231 99 ŽSR  Unknown Unknown 
+
+[edit] Slovenia
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+293 40 Si.mobil SI.MOBIL d.d. Operational GSM 900 / GSM 1800 / UMTS 2100 [113] 
+293 41 Mobitel Mobitel D.D. Operational GSM 900 / GSM 1800 / UMTS 2100 
+293 64 T-2 T-2 d.o.o. Operational UMTS 2100 
+293 70 Tušmobil Tušmobil d.o.o. Operational GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 
+
+[edit] Solomon Islands
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+540 1 BREEZE Solomon Telekom Co Ltd Operational GSM 900 [114] 
+
+[edit] Somalia
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+637 01 Telesom Telesom Operational GSM 900  
+637 04 Somafone Somafone FZLLC Operational GSM 900 / GSM 1800 [115] 
+637 10 Nationlink NationLink Telecom Operational GSM 900  
+637 25 Hormuud Hormuud Telecom Somalia Inc Operational GSM 900 Uncertain MNC number 
+637 30 Golis Golis Telecom Somalia Operational GSM 900 [116] 
+637 82 Telcom Telcom Somalia Operational GSM 900 / GSM 1800 / CDMA 
+
+[edit] South Africa
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+655 01 Vodacom  Operational GSM 900 / UMTS 2100 
+655 06 Sentech  Operational Unknown 
+655 07 Cell C  Operational GSM 900 / GSM 1800 
+655 10 MTN MTN Group Operational GSM 900 / UMTS 2100 
+655 11  SAPS Gauteng Operational TETRA 410 
+655 13 Neotel  Operational CDMA 800 
+655 21  Cape Town Metropolitan Council Operational TETRA 410 
+655 30  Bokamoso Consortium Operational Unknown 
+655 31  Karabo Telecoms (Pty) Ltd. Operational Unknown 
+655 32  Ilizwi Telecommunications Operational Unknown 
+655 33  Thinta Thinta Telecommunications Operational Unknown 
+655 02  Telkom Operational WCDMA 800 
+
+[edit] Spain
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+214 01 Vodafone Vodafone Spain Operational GSM 900 / GSM 1800 / UMTS 2100 Also use MNC 019 
+214 03 Orange France Telecom España SA Operational GSM 900 / GSM 1800 / UMTS 2100 Also use MNC 033 
+214 04 Yoigo Xfera Moviles SA Operational UMTS 2100 
+214 05 TME Telefónica Móviles España Operational GSM 900 / GSM 1800 / UMTS 2100 Used by resellers 
+214 06 Vodafone Vodafone Spain Operational GSM 900 / GSM 1800 / UMTS 2100 Used by resellers/Also use MNC 019 
+214 07 movistar Telefónica Móviles España Operational GSM 900 / GSM 1800 / UMTS 2100 
+214 08 Euskaltel  Operational MVNO  
+214 09 Orange France Telecom España SA Operational GSM 900 / GSM 1800 / UMTS 2100 Used by resellers 
+214 15 BT BT Group Operational MVNO  
+214 16 TeleCable  Operational MVNO  
+214 17 Móbil R R Cable y Telecomunicaciones Operational MVNO  
+214 18 ONO  Operational MVNO  
+214 19 Simyo  Operational MVNO  
+214 22 DigiMobil Best Spain Telecom Operational MVNO  
+214 23 Barablu BARABLU MÓVIL ESPAÑA  MVNO  
+
+[edit] Sri Lanka
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+413 01 Mobitel Sri Lanka Telecom Mobitel Operational GSM 900 / GSM 1800 / UMTS 2100 / EDGE / HSPA  
+413 02 Dialog Dialog Telekom Operational GSM 900 / GSM 1800 / UMTS 2100  
+413 03 Tigo Emirates Telecommunication Corporation Operational GSM 900 / GSM 1800 / UMTS 2100 UMTS planned 
+413 05 Airtel Bharti Airtel Operational GSM 900 / UMTS 2100  
+413 08 Hutch Hutchison Telecommunications Lanka Operational GSM 900 Not listed by GSM Association 
+413  ?? RTEC Mobile Reliance Communications India Reserved Unknown Planned to launch in 2009 
+
+[edit] Sudan
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+634 01  Mobitel / Mobile Telephone Company Operational GSM 900 
+634 02 MTN MTN Sudan Operational GSM 900 / GSM 1800 / UMTS 2100 
+634  ? Vivacell Wawat Securities Operational Unknown 
+634  ? Zain Zain Sudan Operational GSM 900 / GSM 1800 / UMTS 2100 
+
+[edit] Suriname
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+746 02 Telesur  Operational Unknown 
+
+[edit] Swaziland
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+653 10  Swazi MTN Operational Unknown 
+
+[edit] Sweden
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+240 01 Telia SwedenTeliaSonera Operational GSM 900 / GSM 1800 [117] 
+240 02 3 Hutchison 3G Operational UMTS 2100 
+240 03 Ice.net Nordisk Mobiltelefon Operational CDMA 450 
+240 04  3G Infrastructure Services Operational UMTS 2100 Owned by Hi3G Access (3) and Telenor 
+240 05 Sweden 3G Svenska UMTS-Nät Operational UMTS 2100 Owned by Telia and Tele2 
+240 06 Telenor Telenor Sweden Operational UMTS 2100 
+240 07 Tele2 Tele2 Sweden Operational GSM 900 / GSM 1800 
+240 08 Telenor Telenor Sweden Operational GSM 900 / GSM 1800 
+240 09 djuice Telenor Sweden Operational GSM 900 / GSM 1800 
+240 10 Spring Mobil Tele2 Operational Unknown 
+240 11  Lindholmen Science Park Unknown Unknown 
+240 12  Barablu Mobile Scandinavia Unknown Unknown 
+240 13  Ventelo Sverige Unknown Unknown 
+240 14  TDC Mobil Operational GSM 900 / GSM 1800 / UMTS 2100 
+240 15  Wireless Maingate Nordic Unknown GSM 900 / GSM 1800 / UMTS 2100 
+240 16  42IT Operational GSM 
+240 17  Götalandsnätet Unknown Unknown 
+240 20  Wireless Maingate Message Services Operational GSM 
+240 21 MobiSir Banverket Operational GSM-R 900 
+
+[edit] Switzerland
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+228 01 Swisscom Swisscom Ltd Operational GSM 900 / GSM 1800 / UMTS 2100 [118] 
+228 02 Sunrise Sunrise Communications AG Operational GSM 900 / GSM 1800 / UMTS 2100 
+228 03 Orange Orange Communications SA Operational GSM 1800 / UMTS 2100 
+228 05  Togewanet AG (Comfone) Reserved Unknown Planned 
+228 06  SBB AG Operational GSM-R 900 
+228 07 IN&Phone IN&Phone SA Operational GSM 1800 
+228 08 Tele2 Tele2 Telecommunications AG Operational GSM 1800 
+228 50  3G Mobile AG Reserved UMTS 2100 Planned 
+228 51  BebbiCell AG Operational MVNO Also for paging 
+
+[edit] Syria
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+417 01 Syriatel  Operational GSM 900 / GSM 1800 / UMTS 2100 [119] 
+417 02 MTN MTN Group Syria Operational GSM 900 / GSM 1800 / UMTS 2100 
+
+[edit] T
+[edit] Taiwan
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+466 01 FarEasTone Far EasTone Telecommunications Co Ltd Operational GSM 900 / GSM 1800 / UMTS 2100 [120] 
+466 02 APTG Asia Pacific Telecom Operational CDMA 800 
+466 06 Tuntex Tuntex Telecom Operational GSM 1800 
+466 11 Chunghwa LDM LDTA/Chungwa Telecom Operational Unknown 
+466 88 KG Telecom KG Telecom Operational GSM 1800 Roaming with FarEasTone 
+466 89 VIBO VIBO Telecom Operational UMTS 2100 
+466 92 Chungwa Chunghwa Operational GSM 900 / GSM 1800 / UMTS 2100 
+466 93 MobiTai Mobitai Communications Operational GSM 900 Roaming with Taiwan Mobile 
+466 97 Taiwan Mobile Taiwan Mobile Co. Ltd Operational GSM 1800 / UMTS 2100 
+466 99 TransAsia TransAsia Telecoms Operational GSM 900 Roaming with Taiwan Mobile 
+
+[edit] Tajikistan
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+436 01 Somoncom JV Somoncom Operational GSM 900 [121] 
+436 02 Indigo Indigo Tajikistan Operational GSM 900 / GSM 1800 / UMTS 2100 
+436 03 MLT TT Mobile Operational GSM 900 / GSM 1800 
+436 04 Babilon-M Babilon-Mobile Operational GSM 900 / GSM 1800 / UMTS 2100 
+436 05 Beeline Vimpelcom Operational GSM 900 / GSM 1800 / UMTS 2100 [122] 
+
+[edit] Tanzania
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+640 06 SasaTel Sasatel Tanzania Operational GSM 900 / GSM 1800  
+640 02 tiGO MIC Tanzania Limited Operational GSM 900 / GSM 1800 Former Mobitel and Buzz 
+640 03 Zantel Zanzibar Telecom Ltd Operational GSM 900 / GSM 1800 
+640 04 Vodacom Vodacom Tanzania Limited Operational GSM 900 / GSM 1800 
+640 05 Zain Celtel Tanzania Limited Operational Unknown Former Celtel [123] 
+
+[edit] Thailand
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+520 00 Hutch CAT Telecom Operational CDMA 800 
+520 01 AIS Advanced Info Service Operational GSM 900 / UMTS 900 
+520 02 CAT CDMA CAT Telecom Operational CDMA 800 
+520 10  ? WCS IQ Unknown Unknown 
+520 15 Thai Mobile ACT Mobile (TOT - CAT Telecom) Operational GSM 1900 / UMTS 2100 
+520 15 TOT 3G Telephone Organization of Thailand (TOT) Operational UMTS 2100 
+520 18 dtac Total Access Communication Operational GSM 1800 / UMTS 850 
+520 23 AIS GSM 1800 Digital Phone (AIS) Operational GSM 1800 
+520 99 True Move True Corporation Operational GSM 1800 / UMTS 850 
+520  ?? WE PCT True Corporation Operational PCT 1900 
+
+[edit] Togo
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+615 01 Togo Cell Togo Telecom Operational GSM 900 [124] 
+615 05 Telecel Telecel Togo Operational GSM 900 
+
+[edit] Tonga
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+539 01  Tonga Communications Corporation Operational Unknown 
+539 43  Shoreline Communication Operational Unknown 
+539  ? Digicel  Operational GSM 
+
+[edit] Trinidad and Tobago
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+374 12 bmobile TSTT Operational TDMA 850 / GSM 1800 
+374 13 Digicel  Operational GSM 850 / GSM 1900 
+
+[edit] Tunisia
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+605 02 Tunicell Tunisie Telecom Operational GSM 900 / GSM 1800 
+605 03 Tunisiana Orascom Telecom Tunisie Operational GSM 900 / GSM 1800 
+
+[edit] Turkey
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+286 01 Turkcell Turkcell Iletisim Hizmetleri A.S. Operational GSM 900 / UMTS 2100 
+286 02 Vodafone Vodafone Turkey Operational GSM 900 / UMTS 2100 Formerly known as Telsim 
+286 03 Avea  Operational GSM 1800 / UMTS 2100 Formerly Aria and Aycell 
+286 04  Aycell Not operational GSM 1800 Merged into Aria to form Avea 
+
+[edit] Turkmenistan
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+438 01 MTS Barash Communication Technologies Operational GSM 900 / GSM 1800 
+438 02 TM-Cell  Operational GSM 900 / GSM 1800 
+
+
+
+
+[edit] Turks and Caicos Islands
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+376 350 C&W Cable & Wireless West Indies Ltd (Turks & Caicos) GSM 850  
+376 352 Islandcom Islandcom Telecommunications GSM 900  
+338 05 Digicel Digicel (Turks & Caicos) Limited Operational GSM 900 / GSM 1800 / GSM 1900 
+
+[edit] Tuvalu
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+553 01 TTC Tuvalu Telecom Operational GSM 900  
+
+[edit] U
+[edit] Uganda
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+641 01 Zain Celtel Cellular Operational Unknown [125] 
+641 10 MTN MTN Uganda Operational GSM 900 / GSM 1800 
+641 11  Uganda Telecom Ltd. Operational Unknown 
+641 22 Warid Telecom Warid Telecom Operational GSM 900 / GSM 1800 
+641 14 Orange Orange Uganda Operational GSM 900 / GSM 1800 Former HITS Telecom 
+
+[edit] Ukraine
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+255 01 MTS Ukrainian Mobile Communications Operational GSM 900 / GSM 1800 / CDMA 450 Former UMC 
+255 02 Beeline Ukrainian Radio Systems Operational GSM 900 / GSM 1800 Former WellCOM 
+255 03 Kyivstar Kyivstar GSM JSC Operational GSM 900 / GSM 1800 
+255 04 IT Intertelecom Operational CDMA 800 
+255 05 Golden Telecom Golden Telecom Operational GSM 1800 
+255 06 life:) Astelit Operational GSM 900 / GSM 1800 
+255 07 Utel Ukrtelecom Operational UMTS 2100 
+255 21 PEOPLEnet Telesystems of Ukraine Operational CDMA 800 
+255 23 CDMA Ukraine ITC Operational CDMA 800 
+
+[edit] United Arab Emirates
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+424 02 Etisalat E mirates Telecom Corp Operational GSM 900 / UMTS 2100 [126] 
+424 03 du Emirates Integrated Telecommunications Company Operational GSM 900 / GSM 1800 / UMTS 2100 
+
+[edit] United Kingdom
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+234 00 BT British Telecom Operational GSM 900 / GSM 1800 / UMTS 2100 [127] 
+234 01 UK01 Mapesbury Communications Ltd. Operational GSM 1800 
+234 02 O2  Operational GSM 900 / GSM 1800 / UMTS 2100 
+234 03  Jersey Telenet Operational GSM 900 
+234 04 FMS Solutions Ltd FMS Solutions Ltd Reserved GSM 1800 
+234 08  OnePhone Ltd   
+234 10 O2 Telefónica O2 UK Limited Operational GSM 900 / GSM 1800 / UMTS 2100 
+234 11 O2 Telefónica Europe Operational GSM 900 / GSM 1800 / UMTS 2100 
+234 12 Railtrack Network Rail Infrastructure Ltd Operational GSM 900 / GSM 1800 / UMTS 2100 
+234 14 Hay Systems Ltd Hay Systems Ltd Operational unknown 
+234 15 Vodafone Vodafone United Kingdom Operational GSM 900 / GSM 1800 / UMTS 2100 
+234 16 Opal Telecom Ltd Opal Telecom Ltd Operational GSM 900 / GSM 1800 / UMTS 2100 
+234 18 Cloud9 Wire9 Telecom plc Operational GSM 900 / GSM 1800 / UMTS 2100 
+234 19 Teleware Teleware plc Operational GSM 1800 
+234 20 3 Hutchison 3G UK Ltd Operational UMTS 2100 
+234 22 RoutoMessaging Routo Telecom Operational Unknown 
+234 25 Truphone Truphone Operational GSM 900 / GSM 1800 / UMTS 2100 
+234 30 T-Mobile  Operational GSM 1800 / UMTS 2100 
+234 31 Virgin Virgin Mobile Operational GSM 900 / GSM 1800 / UMTS 2100 
+234 32 Virgin Virgin Mobile Operational GSM 900 / GSM 1800 / UMTS 2100 
+234 33 Orange Orange UK Operational GSM 1800 / UMTS 2100 
+234 34 Orange Orange UK Operational GSM 1800 / UMTS 2100 
+234 50 JT-Wave Jersey Telecom Operational GSM 900 / GSM 1800 / UMTS 2100 
+234 55  Cable & Wireless Guernsey / Sure Mobile (Jersey) Operational GSM 900 (Guernsey) / GSM 1800 (Jersey) / UMTS 2100 
+234 58  Manx Telecom Operational GSM 900 / GSM 1800 / UMTS 2100 
+234 75 Inquam Inquam Telecom (Holdings) Ltd Operational GSM 900 / GSM 1800 
+234 77  Unknown Operational GSM 900 / GSM 1800 
+
+[edit] United States of America
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+200 053  Virgin Mobile US Operational Unknown 
+200 054  Alltel US Operational Unknown 
+200 066  U.S. Cellular Operational Unknown 
+310 00 nTelos  Operational Unknown 
+310 000 Mid-Tex Cellular  Operational Unknown 
+310 004 Verizon Verizon Wireless Operational Unknown 
+310 010  MCI Not operational Unknown 
+310 012 Verizon Verizon Wireless Operational CDMA 850 / CDMA 1900 
+310 013 MobileTel  Unknown Unknown 
+310 014  Testing Operational Unknown 
+310 016  Cricket Communications Operational CDMA / EV-DO 1900 1700 2100 
+310 017  North Sight Communications Inc. Operational Unknown 
+310 020  Union Telephone Company Operational GSM 850 / GSM 1900 Or APC Sprint Spectrum 
+310 026 T-Mobile  Operational GSM 1900 / UMTS 1700 / UMTS 2100 Formerly Cook Inlet Voicestream 
+310 030 Centennial Centennial Communications Operational GSM 850 
+310 034 Airpeak  Operational Unknown Formerly Nevada Wireless 
+310 038 AT&T AT&T Mobility Not operational GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900  
+310 040 Concho Concho Cellular Telephone Co., Inc. Operational GSM 1900 
+310 046 SIMMETRY TMP Corp Operational GSM 1900 
+310 060  Consolidated Telcom Operational Unknown 
+310 070  Highland Cellular Operational Unknown Cellular One reseller 
+310 080 Corr Corr Wireless Communications LLC Operational GSM 1900 
+310 090 AT&T AT&T Mobility Operational GSM 1900 / UMTS 1900 Formerly Edge Wireless 
+310 100 Plateau Wireless New Mexico RSA 4 East Ltd. Partnership Operational GSM 850 
+310 110 PTI Pacifica PTI Pacifica Inc. Operational GSM 850 
+310 120 Sprint  Operational CDMA 1900 
+310 150 AT&T AT&T Mobility Not operational GSM 850 / UMTS 850 / UMTS 1900 Formerly Bell South Mobility DCS 
+310 160  T-Mobile Not operational GSM 1900 
+310 170  T-Mobile Not operational GSM 1900 Formerly Cingular CA/NV, also Pacific Bell Wireless 
+310 180 West Central West Central Wireless Operational GSM 850 / UMTS 850 / UMTS 1900 
+310 190 Dutch Harbor Alaska Wireless Communications, LLC Operational GSM 850 
+310 200  T-Mobile Not operational GSM 1900 Formerly Smith Bagley 
+310 210  T-Mobile Not operational GSM 1900 Iowa 
+310 220  T-Mobile Not operational GSM 1900 Kansas / Oklahoma 
+310 230  T-Mobile Not operational GSM 1900 Utah 
+310 240  T-Mobile Not operational GSM 1900 New Mexico / Texas / Arizona 
+310 250  T-Mobile Not operational GSM 1900 Hawaii 
+310 260  T-Mobile Operational GSM 1900 / UMTS 1700 / UMTS 2100 Universal USA code 
+310 270  T-Mobile Not operational GSM 1900 Formerly Powertel 
+310 280  T-Mobile Not operational GSM 1900 
+310 290  T-Mobile Not operational GSM 1900 
+310 300 iSmart Mobile Smart Call Operational GSM 1900 
+310 310  T-Mobile Not operational GSM 1900 Formerly Aerial Communications 
+310 311  Farmers Wireless Operational GSM 1900 
+310 320 Cellular One Smith Bagley, Inc. Operational GSM 850 / GSM 1900 
+310 330 T-Mobile  Not operational GSM 1900 
+310 340 Westlink Westlink Communications Operational GSM 1900 Kansas 
+310 350  Carolina Phone Not operational GSM 1900 
+310 380  AT&T Mobility Operational GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 Was Cingular Wireless 
+310 390 Cellular One of East Texas TX-11 Acquisition, LLC Operational GSM 850  
+310 400 i CAN_GSM Wave Runner LLC (Guam) Operational GSM 1900  
+310 410 AT&T AT&T Mobility Operational GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 Was Cingular 
+310 420 Cincinnati Bell Cincinnati Bell Wireless Operational GSM 1900 
+310 430  Alaska Digitel Operational GSM 1900 
+310 440 Cellular One  Unknown GSM 1900 
+310 450 Viaero Viaero Wireless Operational GSM 850 
+310 460 Simmetry TMP Corporation Operational GSM 1900 
+310 480  Choice Phone Operational Unknown 
+310 490 T-Mobile  Operational GSM 850 / GSM 1900 Formerly SunCom 
+310 500 Alltel  Operational CDMA / EV-DO 800 / 1900 
+310 510 Airtel Airtel Wireless Operational Unknown Formerly PSC Wireless 
+310 520 VeriSign  Unknown Unknown 
+310 530  West Virginia Wireless Operational Unknown 
+310 540 Oklahoma Western Oklahoma Western Telephone Company Operational GSM 1900 
+310 560 AT&T AT&T Mobility Operational GSM 850 Formerly Cellular One DCS, Dobson 
+310 570 Cellular One MTPCS, LLC Operational GSM 1900 Formerly Chinook Wireless 
+310 580 T-Mobile  Not operational Unknown Formerly PCS One 
+310 590 Alltel Alltel Communications Inc Operational GSM 850 / GSM 1900 GSM roamer network only 
+310 610 Epic Touch Elkhart Telephone Co. Operational GSM 1900 
+310 620 Coleman County Telecom Coleman County Telecommunications Operational GSM 1900 
+310 630 AmeriLink PCS Choice Wireless Operational GSM 1900 
+310 640 Airadigm Airadigm Communications Operational GSM 1900 
+310 650 Jasper Jasper Wireless, inc Operational GSM 850 
+310 660 T-Mobile  Not operational GSM 1900 Formerly DigiPhone PCS / DigiPH 
+310 670 Northstar  Operational Unknown 
+310 680 AT&T AT&T Mobility Operational GSM 850 / GSM 1900 formerly Cellular One DCS, NPI Wireless 
+310 690 Conestoga Conestoga Wireless Company Operational Unknown 
+310 730 SeaMobile  Operational Unknown 
+310 740 Convey Convey Communications Inc. Operational Unknown 
+310 760 Panhandle Panhandle Telecommunications Systems Inc. Operational Unknown 
+310 770 i wireless Iowa Wireless Services Operational GSM 1900 
+310 780  Airlink PCS Not operational Unknown 
+310 790 PinPoint PinPoint Communications Operational GSM 1900 
+310 800  T-Mobile Not operational GSM 1900 Formerly SOL Communications 
+310 830 Caprock Caprock Cellular Operational GSM 850 
+310 850 Aeris Aeris Communications, Inc. Operational CDMA 850 / CDMA 1900 / GSM 850 / GSM 1900 
+310 870 PACE Kaplan Telephone Company Operational GSM 850 
+310 880 Advantage Advantage Cellular Systems Operational GSM 850 
+310 890 Unicel Rural Cellular Corporation Operational GSM 850 / GSM 1900 Former Unicel markets split between AT&T Mobility and Verizon Wireless. 
+310 900 Taylor Taylor Telecommunications Operational GSM 850 
+310 910 First Cellular First Cellular of Southern Illinois Operational GSM 850 
+310 940  Iris Wireless LLC Operational Unknown 
+310 950 XIT Wireless Texas RSA 1 dba XIT Cellular Operational GSM 850 
+310 960 Plateau Wireless  Operational Unknown 
+310 970 Globalstar  Operational Satellite 
+310 980  AT&T Mobility Not operational GSM 850 / UMTS 850 / UMTS 1900 
+310 990  AT&T Mobility Not operational Unknown 
+311 000  Mid-Tex Cellular Operational CDMA 850 / CDMA 1900 
+311 010 Chariton Valley Chariton Valley Communications Operational GSM 1900 
+311 020  Missouri RSA 5 Partnership Operational GSM 850 
+311 030  Indigo Wireless Operational GSM 1900 
+311 040  Commnet Wireless Operational GSM 850 / GSM 1900 
+311 050  Wikes Cellular Operational GSM 850 / GSM 1900 
+311 060 Farmers Cellular Farmers Cellular Telephone Operational GSM 850 / GSM 1900 
+311 070 Easterbrooke Easterbrooke Cellular Corporation Operational GSM 850 
+311 080 Pine Cellular Pine Telephone Company Operational GSM 850 
+311 090 Long Lines Wireless Long Lines Wireless LLC Operational GSM 1900 
+311 100  High Plains Wireless Operational GSM 1900 
+311 110  High Plains Wireless Operational GSM 1900 
+311 120  Choice Phone Operational Unknown 
+311 130  Cell One Amarillo Operational GSM 850 
+311 140 Sprocket MBO Wireless Operational Unknown 
+311 150  Wilkes Cellular Operational GSM 850 
+311 160  Endless Mountains Wireless Operational Unknown 
+311 170 PetroCom Broadpoint Inc Operational GSM 850 Maritime 
+311 180  Cingular Wireless Not operational GSM 850 / UMTS 850 / UMTS 1900 
+311 190  Cellular Properties Unknown Unknown 
+311 210 Farmers Cellular Farmers Cellular Telephone Operational GSM 850 / GSM 1900 
+316 010 Nextel Nextel Communications Operational iDEN 800 Merged with Sprint forming Sprint Nextel 
+316 011  Southern Communications Services Operational iDEN 800 
+890 126 T-Mobile  Not operational Unknown 
+
+[edit] Uruguay
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+748 00 Ancel Compania estatal (ANTEL) Operational TDMA 800 
+748 01 Ancel Compania estatal (ANTEL) Operational GSM 1800 / UMTS 1900 / UMTS 2100 [128] 
+748 07 Movistar Telefónica Móviles Uruguay Operational CDMA 850 / GSM 850 / GSM 1900 / UMTS 850 
+748 10 Claro AM Wireless Uruguay S.A. Operational GSM 1900 
+
+[edit] Uzbekistan
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+434 01  Buztel Not operational GSM 900 / GSM 1800 
+434 02  Uzmacom Not operational GSM 900 / GSM 1800 
+434 04 Beeline Unitel LLC Operational GSM 900 / GSM 1800 [129] 
+434 05 Ucell Coscom Operational GSM 900 / GSM 1800 [130] 
+434 07 MTS Mobile TeleSystems (FE 'Uzdunrobita' Ltd) Operational GSM 900 / GSM 1800, UMTS (WCDMA in Tashkent (Partitionally), Bukhara) 
+434 06  Perfectum Mobile Operational CDMA 800 
+
+[edit] V
+[edit] Vanuatu
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+541 01 SMILE Telecom Vanuatu Ltd Operational GSM 900 
+
+[edit] Vatican
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+225    Not operational  The Vatican is served by Italian networks TIM, Vodafone Italy, Wind and 3 
+
+[edit] Venezuela
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+734 01 Digitel Corporacion Digitel C.A. Operational GSM 900 Formerly INFONET 
+734 02 Digitel Corporacion Digitel C.A. Operational GSM 900  
+734 03 Digitel Corporacion Digitel C.A. Operational GSM 900 Formerly DIGICEL 
+734 04 movistar Telefónica Móviles Venezuela Operational CDMA 850 / GSM 850 / GSM 1900  
+734 06 Movilnet Telecomunicaciones Movilnet Operational CDMA 850 / GSM 850 / GSM 1900  
+
+[edit] Vietnam
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+452 01 MobiFone Vietnam Mobile Telecom Services Company (VMS) Operational GSM 900 / GSM 1800 [131] 
+452 02 Vinaphone Vietnam Telecom Services Company Operational GSM 900 / GSM 1800 
+452 03 S-Fone S-Telecom Operational CDMA 800 
+452 04 Viettel Mobile Viettel Telecom Operational GSM 900 / GSM 1800 / UMTS 1900 / UMTS 2100 
+452 05 Vietnamobile Hanoi Telecom Operational eGSM Preparing change to GSM 
+452 06 E-Mobile EVN Telecom Operational CDMA 450 
+452 07 Beeline VN GTEL Mobile JSC Operational GSM 1800 
+
+[edit] Y
+[edit] Yemen
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+421 01 SabaFon  Operational GSM 900 
+421 02 MTN SpaceTel Operational GSM 900 
+421 03 Yemen Mobile Yemen Mobile Operational CDMA 800 Yemen Telecom transformation road(PDF)[132] 
+421 04 HiTS-UNITEL Y Operational GSM 900 
+
+[edit] Z
+[edit] Zambia
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+645 01 Zain  Operational GSM 900 Former Celtel brand [133] 
+645 02 MTN  Operational GSM 900 / GSM 1800 Former Telecel brand [134] 
+645 03 ZAMTEL  Operational GSM 900 / GSM 1800 
+
+[edit] Zimbabwe
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+648 01 Net*One Net*One Cellular (Pvt) Ltd Operational GSM 900 [135] 
+648 03 Telecel Telecel Zimbabwe (PVT) Ltd Operational GSM 900 
+648 04 Econet Econet Wireless (Private) Limited Operational GSM 900 
+
+[edit] International
+MCC MNC Brand Operator Status Bands (MHz) References and notes 
+901 01 ICO ICO Satellite Management Operational Satellite  
+901 02  Sense Communications International Operational Unknown  
+901 03 Iridium  Operational Satellite  
+901 04 Globalstar  Operational Satellite  
+901 05  Thuraya RMSS Network Operational Satellite  
+901 06  Thuraya Satellite Telecommunications Company Operational Satellite  
+901 07 Ellipso  Operational Unknown  
+901 08   Operational Unknown Reserved for station identification where the mobile does not have a subscription IMSI 
+901 09  Tele1 Europe Operational Unknown  
+901 10 ACeS  Operational Satellite  
+901 11 Inmarsat  Operational Satellite  
+901 12 MCP Maritime Communications Partner AS Operational GSM 1800 Maritime [136] [137] 
+901 13 GSM.AQ Global Networks Switzerland Inc. Operational GSM 1800 Antarctica [138] +88234 Network 
+901 14  AeroMobile AS Unknown GSM 1800 Air [139][140] 
+901 15  OnAir Switzerland Sarl Unknown GSM 1800 Air [141] [142] 
+901 16  Jasper Systems Operational Unknown Global SIM [143] 
+901 17 Navitas  Operational GSM 1800 Maritime [144][145][146] 
+901 18 Cellular @Sea AT&T Mobility Operational GSM 900 / GSM 1900 / CDMA 1900 Maritime [147] [148] 
+901 19  Vodafone Malta Maritime Operational Unknown 
+901 21 Seanet Seanet Maritime Communications Operational GSM 1800 Maritime [149] [150] 
+901 29 Telenor  Unknown Unknown  
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NumericTextBox">
+</Property><Property Name="Solution File" Value="D:\C#\Mobile\NumericTextBox\NumericTextBox\NumericTextBox.sln">
+</Property><Property Name="User Options File" Value="D:\C#\Mobile\NumericTextBox\NumericTextBox\NumericTextBox.suo">
+</Property><Property Name="Date" Value="domingo, 6 de janeiro de 2008">
+</Property><Property Name="Time" Value="21:58">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NumericTextBox.sln" Description="File successfully backed up as D:\C#\Mobile\NumericTextBox\NumericTextBox\Backup\NumericTextBox.sln">
+</Event><Event ErrorLevel="0" Project="" Source="NumericTextBox.suo" Description="File successfully backed up as D:\C#\Mobile\NumericTextBox\NumericTextBox\Backup\NumericTextBox.suo">
+</Event><Event ErrorLevel="0" Project="NumericTextBox" Source="NumericTextBox\NumericTextBox.csproj" Description="Project file successfully backed up as D:\C#\Mobile\NumericTextBox\NumericTextBox\Backup\NumericTextBox\NumericTextBox.csproj">
+</Event><Event ErrorLevel="0" Project="NumericTextBox" Source="NumericTextBox\NumericTextBox.csproj.user" Description="Project user file successfully backed up as D:\C#\Mobile\NumericTextBox\NumericTextBox\Backup\NumericTextBox\NumericTextBox.csproj.user">
+</Event><Event ErrorLevel="0" Project="NumericTextBox" Source="NumericTextBox\numericTextBox.cs" Description="File successfully backed up as D:\C#\Mobile\NumericTextBox\NumericTextBox\Backup\NumericTextBox\numericTextBox.cs">
+</Event><Event ErrorLevel="0" Project="NumericTextBox" Source="NumericTextBox\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\C#\Mobile\NumericTextBox\NumericTextBox\Backup\NumericTextBox\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NumericTextBox" Source="NumericTextBox\NumericTextBox.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NumericTextBox" Source="NumericTextBox\NumericTextBox.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NumericTextBox.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NumericTextBox.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NumericTextBox" Source="NumericTextBox\NumericTextBox.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JVTrip", "JVTrip\JVTrip.csproj", "{7F26E00D-BCEE-4D56-A03B-DA69F66A6E44}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "JVTripCAB", "JVTripCAB\JVTripCAB.vddproj", "{0768F20B-A460-42AF-9F36-ACC4ABD3E35D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F26E00D-BCEE-4D56-A03B-DA69F66A6E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F26E00D-BCEE-4D56-A03B-DA69F66A6E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F26E00D-BCEE-4D56-A03B-DA69F66A6E44}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7F26E00D-BCEE-4D56-A03B-DA69F66A6E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F26E00D-BCEE-4D56-A03B-DA69F66A6E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F26E00D-BCEE-4D56-A03B-DA69F66A6E44}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0768F20B-A460-42AF-9F36-ACC4ABD3E35D}.Debug|Any CPU.ActiveCfg = Debug
+		{0768F20B-A460-42AF-9F36-ACC4ABD3E35D}.Debug|Any CPU.Build.0 = Debug
+		{0768F20B-A460-42AF-9F36-ACC4ABD3E35D}.Release|Any CPU.ActiveCfg = Release
+		{0768F20B-A460-42AF-9F36-ACC4ABD3E35D}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

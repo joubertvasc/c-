@@ -1,0 +1,489 @@
+RemoteTracker Changelog:
+
+version 0.4.3-8
+  - fixes bug in cellid command.
+  
+version 0.4.3-7
+  - Fixed bug in UNLOCK command.
+  
+version 0.4.3-6
+  - Fixed bug when interceptiong messages.
+  
+version 0.4.3-5
+  - Fixed rt2# header.
+  
+Version 0.4.3-4
+  - Fixed issues in LOCK command;
+  - Fixed issues in HIDE function;
+  - New command: SENDSMS command.
+  
+Version 0.4.3-0
+  - New commands: IEHist, EIEHist, FIEHist: Retrieve Internet Explorer History
+  - New command: DF: Delete Folder
+  - Fixed issues with new versions of VITO Audio Notes 
+  
+Version 0.4.2-0
+  - New feature: WEB configuration. It will work for people with RemoteTracker cocked into your custom ROM.
+    Now you can save yours known SIM cards, emergency numbers and e-mails on the web. Thanks to Binary64 for his server/API!!
+    If you have the cocked ROM with RT and someone hardresetted your lost device, RemoteTracker will search
+    for a local backup of your configurations. If that backups are not available, RT will connect to the internet
+    and download the previous informations you sent to the web. So, if the thief changed the SIM card you will be
+    notified by SMS.
+
+Version 0.4.1-1
+  - Fixed issues in translations;
+  
+Version 0.4.1-0
+  - Fixes
+    - Fixed issues to exclude SIM cards informations;
+    - Fixed issue of intercepting SMS in some devices according to the site: 
+      http://peterfoot.net/FixSMSInterceptionOnTMobileDash.aspx Thank's to snowkilts;
+    - Fixed issue when CALLHIST command is used and the call history is empty;
+    - Fixed messages sent. They was not respecting the translation and was always in english; 
+  - Changed
+    - Changed the place where debug files are stored. Now that files will be stored in TEMP folder;
+    - FINDME command changed. When the user click NO, no answer will be sent to prevent spending money with SMS;
+    - CELLID command changed. Now it will also return the position based on CellID information;
+    - CB command changed. Now the volume will become maximum and speaker phone will be turned on; 
+  - New    
+    - Chinese partial translation;
+    - Italian translation;
+    - New SMS interception method used to fix HTC HD2 issue. Now that users must use rt2# header instead of rt# (fixed case sensitive issue);
+    - New option: CellID to Coordinate Provider: OpenCellID, Google Maps, CellDB. This is the provider to be used 
+      to find the current coordinate based on CellID when GPS information is not available. IMPORTANT: Google Maps
+      does not have official support and it is experimental;
+    - New command: delcard. This command will delete all the unprotected files stored in Memory Cards;
+    - New commands: esms or fsms. That command send to you (by e-mail or ftp) a zip file with your full sms history;
+    - New commands: eoutlook or foutlook. That command send to you (by e-mail or ftp) a zip file with your outlook contacts and appointments;
+    - New feature: now the user can type a secret question/answer (in Menu/Options/Password) to retrieve a lost password;
+    - New command: lostpass. This command sends a SMS to user with the Secret Question defined in Config Application;
+    - New command: secret. This command receive the secret answer. If this is correct the user will receive a SMS with the password. 
+      This command uses an extra parameter: rt#secret,<your answer>#<number>#<password>;
+    - New feature: now you can select emergency number or e-mail looking for outlook/sim contacts. Just click Menu/Outlook;
+  - RTRegCreator
+    - Fixed RGU format to be added in custom ROMs;
+    - Added new option: CellID to Coordinate Provider: OpenCellID, Google Maps, CellDB;
+    - Added options to type the Secret Question/Answer; 
+  - RTRemote  
+    - The Set Password and Save Fields menu Itens is now under Options menu;
+    - New RTRemote option: Use RT# or RT2# header for HD2 users;
+    - Addedd new commands: delcard, esms, fsms, eoutlook, foutlook, lostpass, secret;
+    - Fixed minor usage issues;
+  
+Version 0.4.0-16
+  - New Google Maps API Key
+  
+Version 0.4.0-15
+  - New translation: Spanish. Thanks to José Polack!
+  
+Version 0.4.0-14
+  - New RTRemote Version (0.3.0-5). Now CallHist, eCallHist, fCallHist, eganf and fganf can type the new parameter.
+  
+Version 0.4.0-13
+  - Fixed issues in translations;
+  - Fixed issues in FGANF and FLT commands;
+  - Fixes bug when FTP server uses other port than 21;
+  - Error messages was truncated to ignore the .net information;
+  - Changed CallHist command to take one extra argument. Now you can tell RT how
+    many entries do you want to retrieve: rt#callhist,10#<number>#<password> 
+    By default this command will give you the last 5 entries;
+  - Changed EGANF and FGANF commands to take one extra argument. Now you can tell RT how
+    many records do you want to retrieve: rt#EGANF,10#<number>#<password> 
+    By default this command will give you the last 5 records;
+  - Created a list of commands without phone number and e-mail address:
+    any FTP commands, Alarm, MSG, RST, DSC, DSK, VNC, RUNAPP and MSRUN.
+  
+Version 0.4.0-12
+  - New French translation! Thank's to Arnaud Bertrand;
+  - The CB command has changed to turn volume off before dialing a number and
+    turn the volume back;
+  - The MSG command has changed to play a sound and turn the screen on before
+    show the message.
+    
+Version 0.4.0-11
+  - Fixed bugs in MSG and ALARM commands;
+  - Fixed error messaged in SMSLauncher;
+  - The CallHistory command was changed to send the last 5 calls only, to prevent
+    a lot of messages to be send;
+  - New RTRemote (0.3.0-3) with:
+    - New option to device a Password to use RTRemote;
+    - New option to save or not the last parameters.  
+    
+Version 0.4.0-10
+  - After a reinstallation RT was not intercepting SMS unless the Config 
+    application was started once. This issue happened when RT was upgraded
+    keeping personal information.
+  
+Version 0.4.0-9
+  - Fixed the findme command.
+  
+Version 0.4.0-8
+  - Fixed issues in the setup feature;
+  - Fixed issues in SMS processing.
+  
+Version 0.4.0-7
+  - RT now support the new VitoAudioNotes Touch;
+  - Fixed issues using FTP commands. Now you will receive a feedback by SMS or E-Mail;
+  - Fixed issue about FTP connection. Now RT will start a GPRS/EDGE/3G connection
+    before connect to FTP server;
+  - Fixed issue when you are upgrading from version 0.3.x.x to version 0.4.x.x
+    and using a non english language.
+  
+Version 0.4.0-6
+  - New RTRemove version (0.3.0-2). Now the Phone to Call will also be stored to 
+    be used again later;
+  - Fixed an issue for ROM cookers.
+  
+Version 0.4.0-5
+  - Fixed ListApp, FListApp and RunApp when used in non english ROMs;
+  - Fixed the rgu file generation from RTRegCreator;
+  - Fixed FTP commands when your configuration does not have a folder definition; 
+  - Fixed RTRemote when using command parameters to send SMS;
+  - New RTRemove version (0.3.0-1). Now your Mobile phone number and password
+    will be stored to be used again later.
+   
+Version 0.4.0-4
+  - Fix in German translations;
+  - Fix problems for non touch screen devices.
+  
+Version 0.4.0-3
+  - Swedish translation;
+  
+Version 0.4.0-2
+  - German translation;
+  - In this version TopSecret does not work by default. There is another option 
+    in Config/Options to active this application. I did it to avoid a lot of SMS 
+    to be sent for people who don't know what this application does
+  
+Version 0.4.0-1
+  - If you upgraded from version 0.3.x and uses another language than the available, you got an error.
+  - The command log feature was not breaking lines after each command.
+
+Version 0.4.0-0
+- New version of RTRemote (0.3.0-0):
+  - Multi-language support;
+  - Short help for each command;
+  - New field 'parameters' to use with some new commands.
+- RTConfig and RTConfigSP was replaced by Config with a new interface;
+- SMSLauncher now starts from registry and no more from \Windows\Startup;   
+- Created a log of all incoming commands (you will see the log using Config)
+- Now you can setup up to four emergency numbers, used if the SIM card was changed;
+- Now you can setup up to four emergency e-mails, used if the SIM card was changed;
+- Now you can setup aliases to SIM Card IMSI numbers;
+- New interface to configure a personal FTP server account;
+- The integration with AppToDate uses the registry now, instead of a xml file;
+- New option to turn screen off while processing a command;
+- New option to hide remotetracker inside your device;
+- New installation/uninstallation procedure. If your device has version 0.3 or
+  earlier installed it will be uninstalled automatically. If you decide to 
+  uninstall RT and you have a password configured, you must type your password
+  or the uninstallation procedure will stop;
+- EGP command now attachs an imagem map of the current position (from google maps); 
+- Integration with MortScript;
+- New commands to send answers using FTP (fhelp, fpb, fgp, flt, fgo, fgi, fganfl, fganf, fip, flistapp, fcellid, fcallhist, fmslist); 
+- New commands:
+  - listapp
+  - elistapp
+  - runapp
+  - cellid
+  - ecellid
+  - lock
+  - unlock
+  - callhist
+  - ecallhist
+  - mslist
+  - emslist
+  - msrun
+  - ftp
+  - ftpdoc
+- New anti-kidnapping application. This is an icon in Programs folder named TopSecret. Once started it will ask you for a password. 
+  You don't need to type anything and just click GO or Cancel. If GO option was started, the "Wrong Password" message box will be 
+  displayed and a predefined message will be sent to your four emergency numbers and to your four emergency e-mail with your current position.
+  The message will be sent again and again. The only way to stop the process is a softreset. Both message and interval between messages is 
+  defined in Config. 5 minutes is default.
+
+Version 0.3.4-0
+- New version of RTRemote (0.2.0-0):
+  - New field Phone To Call;
+  - Help for commands;
+  - New layout for non touchscreen devices.
+
+Version 0.3.3-0
+- New german translation
+- New commands:
+  - GIP - Get current IP;
+  - EGIP - same as GIP;
+  - VNC - start VNC server;
+
+Version 0.3.2-3
+- Bug fixes
+
+Version 0.3.2-2
+- Bug fixes
+
+Version 0.3.2-1
+- Bug fixes
+
+Version 0.3.2-0
+- New GPS engine;
+- First version of Therm of Service;
+- New SMS message for GP commands
+  with googlemaps link back.
+  Remove cellid information;
+- New version of RTRemote:
+  - Password now shows *;
+  - Wait cursor while the message
+    is beeing sent;
+  - For Test mode the phone number/e-mail
+    address is no more needed;
+  - Now the command list have understandable 
+    sentences instead of RT commands.
+- RT now prevent from sleep mode
+  while processing a command.       
+
+Version 0.3.1-6
+- Fix issue of new installation procedure.
+
+Version 0.3.1-5
+- Fixed security issue;
+- GPS connection is now faster.
+
+Version 0.3.1-3
+- Fixed wav file selection when Resco File Explorer 
+  is installed and configured to show Network;
+- New and smallest wav file for alarm command;  
+- New spanish translation.
+
+Version 0.3.1-0
+- New command: GANFL, same as EGANFL, but by sms.
+
+Version 0.3.0-4
+- French and spanish languages 
+  was fixed;
+- Fixed an error when 
+  www.opencellid.org could not
+  be connected.
+  
+Version 0.3.0-3
+- Issue on GP command with HTC
+  Touch devices;
+- Improved the test for non GPS
+  devices;
+- Issue of the ALARM command for
+  some devices;    
+- The SMS sent answering the GP
+  command and there are no GPS
+  signal was changed to fit in
+  one message.
+
+Version 0.3.0-0
+- SMSLauncher is faster;
+- The password verification when 
+  the message is sent using web sites
+  now ignores invalid characters;
+- New German translation;
+- New Russian translation;
+- New Swedish translation;
+- New application: RTRemote. This
+  application will control 
+  RemoteTracker from other Windows
+  Mobile based device;
+- New commands:
+  - msg or message: show a message;
+  - gi or getinfo: get IMEI and IMSI;
+  - egi or egetingo: same as gi, but 
+    using email;
+- When SIM card is changes, the message
+  sent to emergency number now has 
+  IMEI and IMSI numbers;  
+- Password now accept only numbers and letters;
+- New application: RTScanner. This 
+  application will log all CellID and
+  WiFi Spots Mac Address and register their
+  coordinates. The cell id informations
+  can be sent to www.opencellid.org;
+    
+
+Version 0.2.0-0
+- The message from Sim Card Change
+  feature now comes with IMSI and 
+  IMEI;
+- New commands GI and EGI to get
+  Phone information: IMSI and IMEI;
+- Now RT works with up to 4 SIM 
+  cards;
+- New interface for non touch screen
+  devices; 
+- Uninstall now remove the link to
+  SMSLauncher in \Windows\Startup.
+
+Version 0.10j
+- SMSLauncher without debug info;
+- Danish translation.
+
+Version 0.10i;
+- Integration with AppToDate
+- Commands Alarm and Findme does 
+  not ask for password;
+- New translations files;
+- Italian translation;
+- Greek translation;
+- New config parameter: alarm 
+  sound file. Now you can 
+  select the wav file for alarm 
+  command. MP3 does not work yet;
+- Alarm command now control 
+  device's volume. This command 
+  will put the volume to maximum, 
+  play the sound and put the 
+  volume level back. It also 
+  works if you set to No Sound 
+  or Vibrate mode;
+- New tool: RTTest.exe. Put this 
+  binary file in the same directory 
+  as rt.exe and you will be able to 
+  test rt without spend money with 
+  a lot of SMS. There is an options 
+  called Fake Command. With this 
+  option rt will answer using a 
+  dialog box instead of sms or 
+  e-mail.
+- Correct a GPS fix bug for some 
+  devices.
+- The password test didn't work 
+- Findme command now play sound 
+  correctly
+- I finally got the problem with 
+  SMSLauncher when your device ask 
+  for PIN code;
+- Capability to receive SMS from 
+  websites.
+
+Version 0.10;
+- Split the aplication in two.
+  Now RTConfig only configure
+  RemoteTracker. The commands
+  are answered by rt.exe;
+- The configuration now has
+  backups. These backups can
+  be useful to auto repair
+  your settings if you hard
+  reset your device;
+- A new tool was created to
+  be used in PC. With this 
+  tool you can create a RT
+  configuration backup file. 
+  This is useful for ROM 
+  cookers.
+  If you decide to use a 
+  custom ROM made by third 
+  part, and this ROM has RT 
+  inside, use must create 
+  this configuration file to
+  be added to the ROM before
+  use flash your device. In
+  this case, if everything is
+  alright, RT becomes to hard
+  reset safe;
+- New command: eganfl to get 
+  a list of audio files recorded
+  by VITO Audio Notes;
+- New command: eganf to get 
+  all audio files recorded
+  by VITO Audio Notes;
+- New command: findme. This
+  is the same as GP command,
+  but RT will ask you if you
+  want to answer the command;
+- New command: alarm to play 
+  a sound file. Useful to find
+  your device in your home;
+- SMSLauncher now verify if RT
+  is configured. If not, SL will
+  load the configuration backup and
+  auto configure RT.
+- Minor bug fixes.
+
+Version 0.06:
+- Uninstall option back;
+- Created friendly alias for
+  commands:
+  - cb = callback
+  - gp = getposition
+  - egp = egetposition
+  - pb = phonebook
+  - epb = ephonebook
+  - elt = elogtrack
+- Created new commands:
+  - rst, reset (softreset device)
+  - go, getowner (get owner
+    informations defined in 
+    settings/owner option)
+  - ego, egetowner (same 'go', 
+    but using e-mail)
+  - dkz, delkmz (delete all kmz 
+    files)
+  - dsc, delsim (delete all 
+    contacts in SIM card)  
+- Autodetect SIM card changes;
+- Use KMZ file instead of KML
+  as answer for ELT command;
+- Uses sender number to send
+  SMS back. The default number
+  now only works when the SIM 
+  card has changed.
+ 
+Version 0.05:
+- Renamed to RTConfig;
+- Removed from uninstall;
+- Password screen when you enter 
+  RTConfig and you had this 
+  setting;
+- New command: ELT (E-Mail Log 
+  Track). This command will start 
+  GPS, Log the path about 5 minutes 
+  and send the KML file by e-mail.
+
+Version 0.04:
+- Added commands:pb, epb;
+- Added spanish translation;
+- The SMS sent with coordinates was 
+  truncated to fit in one single 
+  message. By e-mail the message 
+  was the same; 
+- The bug with configuration was 
+  solved. Now when you exit and
+  come back to RemoteTracker your 
+  configuration will be ok. 
+
+Version 0.03:
+- No spash screen when receiving a 
+  SMS;
+- Now when a returning command
+  must send SMS, the software split
+  The message in 160 characters and
+  send many SMSs as needed.
+
+Version 0.02:
+- The main screen was redesigned to 
+  fit in squared screens;
+- Added an 'About' tab to thanks the 
+  people who help this project.
+- If no command is informed a help 
+  will be sent;
+- Now the answer may be to an
+  e-mail account! A new tab was 
+  added to main screen called
+  'E-Mail'. Here you can define a     
+  default account to send e-mails, 
+  default recipient (name and 
+  e-mail address) and a Subject. To 
+  receive informations by e-mail use 
+  these commands:
+- 'ehelp' same as 'help';
+- 'egp' same as 'gp'.
+
+Version 0.01:
+- The project was started with 3 
+  commands: help, cb and gp.
+

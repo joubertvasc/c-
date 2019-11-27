@@ -1,0 +1,9 @@
+D:\C#\Mobile\Tapi\bin\Debug\TapiApp.exe
+D:\C#\Mobile\Tapi\bin\Debug\TapiApp.pdb
+D:\C#\Mobile\Tapi\bin\Debug\TapiLib.dll
+D:\C#\Mobile\Tapi\bin\Debug\TapiLib.pdb
+D:\C#\Mobile\Tapi\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\Mobile\Tapi\obj\Debug\TapiApp.Form1.resources
+D:\C#\Mobile\Tapi\obj\Debug\TapiApp.csproj.GenerateResource.Cache
+D:\C#\Mobile\Tapi\obj\Debug\TapiApp.exe
+D:\C#\Mobile\Tapi\obj\Debug\TapiApp.pdb

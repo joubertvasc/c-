@@ -1,0 +1,72 @@
+RemoteTracker:
+
+TODO in 0.4.1
+- Destroy personal data;
+
+TODO in 0.5.0
+- Random Softreset when SIM card is changed;
+- Make RTRemote/Top Secret Multi-language;
+
+TODO in future versions if possible
+- Get current IP could use a http://www.ip-adress.com/ or some webservice to discover internet IP (not LAN/NAT IP)
+- Summary command to dump most useful info (gps, cellid, owner info, etc)
+- instead of cooking the owners emergency number into the rom, how about set up a central db where it transmits hash of iemi, and db replies with cell or email to contact (keep silently retrying until 3g-data or wifi is connected). I can do (code & host) the central db bit if that helps this project.
+- Variant of above idea is to have 1 mobile in each country it contacts, which would be connected to our central db to reply (using unlimited txt service plan of course) with correct owners contact info.
+- Voice activated mp3 recording + ftp upload
+- vnc add client feature - for bypassing NAT firewalls
+- rtremote could send the command text - acting as a frontend (install rtremote onto a friends ppc from easy web link)
+- turn wifi on (as default for ip/email/ftp requests?)
+- A-GPS?
+- are you able to get other not-connected nearby cellid's along with signal strength (gsm triangulation possible)
+
+- Let me explain: Suppose an emergency situation (kidnap or something like that)... You can map the TopSecret App to a button in your phone but it should work without having to unlock or wakeup the phone.
+
+- Zip and attach .vol files (not sure how yet);
+  - All contacts, calendar appointments and task list are stored in the file '\pim.vol'.
+  - All the SMS and MMS are stored in the file '\cemail.vol'.
+  - All the emails (text) are in '\Windows\Messaging' folder (in individual files).
+  - And all the attached files of the emails, are stored in the folder '\Windows\Messaging\Attachments'.
+- Change Lock password.
+- CDMA features;
+- I haven't seen it mentionned, but I think it would be a great idea if your programm could relay a copy of all incoming and outgoing sms/phone 
+  number called/that called.
+- Wizards to config;
+- rt.exe does not appear into the running processes in the Task Manager;
+- Try do not save copy of e-mail and SMS when answer a command.
+- Email should be sent as a configured POP3 (I do not use Outlook mail)
+- Compact all personal data (including SD card) and send to www.self-share.org or other server;
+- hard reset
+- Make FINDME commands VIBRATE and play SOUND.
+- Option to use SMSLauncher or not (CDMA devices).
+- Use of WiFi positioning when GPS is not available
+- Commands using WEB! Today the main commands has a twin command started with 'e' letter to give the result to you using an e-mail account. I'll create the same thing with 'w' letter. The command will connect to my website (not yet created) and send the result to this site. So the site will e-mail you if you have an account. This feature will remove A LOT of limitations;
+- Command to retrieve the Last 20 SMS Sent & Recevied (with time stamp and contact details if availible)
+- GP/EGP command will use also www.celldb.com and OCC local database to get a position when the GPS signal is not available;
+- CB command will be changed to active speaker mode as loud as possible;
+- Findme command will vibrate and play sound;
+- Feature to upload the configuration to web.
+- When someone changes your SIM card, you will receive more than one message. SMSLauncher will start RT with GP, GI and GO commands;
+- When started at first time, SMSLauncher search for rt.dll file in several folders. In this version SMSLauncher will search the configuration using the 
+WEB. The IMEI number of the phone will be used as key. In that case ROM Cookers will be able to create generic ROMs with RT inside.
+- first of all, congratulations for this superb piece of software!.
+  I've been searching over this thread and I couldn't find anything related to what I'm proposing (sorry if repeated, tell me wher I can see the reference!):
+  Suppose I forget my phone at home and I temporary need to divert the calls (or even the SMSs!) to another phone, until I come back home.
+  could it be included a new option in RT to be able to divert all phone calls to another phone?. I suppose that this could also be done for SMSs, but a litlle bit more difficult....
+  In a generic way, when you want to divert some mobile number to another one (let's say 123456789) you have to dial in the original one:
+  *21*123456789#
+  In this way, any call to initial number will be diverted to second one.
+  To cancel this divert you have to dial:
+  #21#
+  This is a standard (or at least I think so), so maybe no problems will be found to use it in different networks.
+  For SMSs is really more difficult, as there is no standard way to do it, so maybe you have to "hear"for SMSs arriving and them forwarding to predefined number...only as a hint.
+  Additional info (for you as main coder and end users): please don't forget that diverting calls could bring into additonal costs, depending on your provider call plans!
+  Please see http://www.morlocks.co.uk/phonecodes.htm or http://shop.vodafone.de/service/main...olutionId=2425
+  You will see that i.e Vodafone Germany is using **21*123456789#sendkey - means two * instead of only *.
+  So, in most cases there are the same, but not each character.
+  So, ist should be possible to send a SMS to RT, ie. rt#mpk"**21*123456789#"#1234, press **21*123456789# and make call.
+  Probabaly the "cb" commadn already provide this fuction, but I think the # in "**21*123456789#" could be a problem to detect the right "number/command".
+
+Web site
+- Feature to create user accounts;
+- Feature to save users IMEI numbers;
+- Feature to save users configurations (rt configurations);

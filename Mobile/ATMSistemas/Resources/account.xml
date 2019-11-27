@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1252" ?> 
+<wap-provisioningdoc>  
+  <characteristic type="EMAIL2">   
+    <characteristic type="{2D8D0D2B-3B64-409e-ADF5-452839B3B314}">   
+      <parm name="SERVICENAME" value="FRATERMOVIL"/>   
+      <parm name="SERVICETYPE" value="POP3"/>   
+      <parm name="INSERVER" value="mail.server.com"/>   
+      <parm name="OUTSERVER" value="mail.server.com"/>   
+      <parm name="NAME" value="Email User"/>   
+      <parm name="REPLYADDR" value="myAccount@server.com"/>   
+      <parm name="AUTHNAME" value="user"/>   
+      <parm name="AUTHSECRET" value="user"/>   
+      <parm name="DOMAIN" value="server"/>   
+      <parm name="LINGER" value="5"/>   
+      <parm name="RETRIEVE" value="-1"/>   
+      <parm name="DWNDAY" value="-1"/>   
+    </characteristic>  
+  </characteristic>  
+</wap-provisioningdoc>  

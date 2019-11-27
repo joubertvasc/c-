@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<languages>
+  <language>
+    <code>0</code>
+    <name>Português</name>
+    <file>portuguese.xml</file>
+    <help>portuguese.html</help>
+  </language>
+</languages>

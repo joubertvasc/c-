@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JVSQL", "JVSQL\JVSQL.csproj", "{95ADB683-99BA-4EE5-B2FC-492673E3E95C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95ADB683-99BA-4EE5-B2FC-492673E3E95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95ADB683-99BA-4EE5-B2FC-492673E3E95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95ADB683-99BA-4EE5-B2FC-492673E3E95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95ADB683-99BA-4EE5-B2FC-492673E3E95C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

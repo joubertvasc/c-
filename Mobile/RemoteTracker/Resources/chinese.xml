@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="gb2312"?>
+<language>
+  <msg_PasswordDoesNotMatch>密码不匹配</msg_PasswordDoesNotMatch>
+  <msg_CouldNotConnectGPS>不能连接到卫星</msg_CouldNotConnectGPS>
+  <msg_InvalidCommand>命令无效</msg_InvalidCommand>
+  <msg_Latitude>纬度</msg_Latitude>
+  <msg_Longitude>经度</msg_Longitude>
+  <msg_Satellite_count>卫星数</msg_Satellite_count>
+  <msg_Battery>电池</msg_Battery>
+  <msg_Charging>充电</msg_Charging>
+  <msg_Time>时间</msg_Time>
+  <msg_Author>作者</msg_Author>
+  <msg_Contributors>贡献者</msg_Contributors>
+  <msg_Translators>译者</msg_Translators>
+  <msg_Ok>确定</msg_Ok>
+  <msg_Cancel>取消</msg_Cancel>
+  <msg_Command_Started>启动命令:</msg_Command_Started> 
+  <msg_Initial_Coordinates>初始座标</msg_Initial_Coordinates>
+  <msg_Final_Coordinates>最后座标</msg_Final_Coordinates>
+  <msg_Name>姓名</msg_Name>
+  <msg_Company>单位</msg_Company>
+  <msg_EMail>电子邮箱</msg_EMail>
+  <msg_Telephone>电话</msg_Telephone>
+  <msg_Address>地址</msg_Address>
+  <msg_Notes>注释</msg_Notes>
+  <msg_Not_Possible_Owner_Info>未获取到主人信息</msg_Not_Possible_Owner_Info>
+  <msg_Sim_Contacts_Deleted>所有SIM卡联系人已删除</msg_Sim_Contacts_Deleted>
+  <msg_kmz_Deleted>所有KMZ文件已删除</msg_kmz_Deleted>
+  <msg_not_installed>未安装</msg_not_installed>
+  <msg_incoming_calls>来电</msg_incoming_calls>
+  <msg_outgoing_calls>去电</msg_outgoing_calls>
+  <msg_findme_call>请求您的GPS座标,是否同意发送?</msg_findme_call>
+  <msg_donation>免费开源软件,点此捐赠作者</msg_donation>
+  <msg_alarmsound>报警声:</msg_alarmsound>
+  <msg_search>搜索</msg_search>
+  <msg_selectfile>选择文件</msg_selectfile>
+  <msg_playsound>播放声音</msg_playsound>
+  <msg_invalidvalue>字段 {0} 的值无效.</msg_invalidvalue>
+  <msg_CellID>基站编号</msg_CellID>
+  <msg_CellLAC>区号</msg_CellLAC>
+  <msg_CellCC>国家代码</msg_CellCC>
+  <msg_CellNC>网络代码</msg_CellNC>
+  <msg_CoordFromOpenCellId>基站编号坐标</msg_CoordFromOpenCellId>
+  <msg_CoordFromGoogleMaps>基站编号坐标</msg_CoordFromGoogleMaps>
+  <msg_CoordFromCellDB>基站编号坐标</msg_CoordFromCellDB>
+  <msg_PasswordWithIllegalChar>密码必须只为数字或字母.</msg_PasswordWithIllegalChar>
+  <msg_GPSDriverNotFound>未找到GPS驱动程序.</msg_GPSDriverNotFound>
+  <msg_GPSDeviceNotFound>找不到GPS设备.</msg_GPSDeviceNotFound>
+  <msg_DebugMode>调试模式</msg_DebugMode>
+  <msg_ConfigGPS>配置GPS</msg_ConfigGPS>
+  <msg_ComPortNotSelected>未选择端口.</msg_ComPortNotSelected>
+  <msg_BaudRateNotSelected>未选择波特率.</msg_BaudRateNotSelected>
+  <msg_SerialPort>端口:</msg_SerialPort>
+  <msg_BaudRate>波特率:</msg_BaudRate>
+  <msg_UseManagedGPS>使用系统默认GPS设置</msg_UseManagedGPS>
+  <msg_UseManualGPS>自定义GPS设置</msg_UseManualGPS>
+  <msg_SelectGPSType>请选择GPS的使用方式:</msg_SelectGPSType>
+  <msg_CurrentIPAdrress>当前IP地址</msg_CurrentIPAdrress>
+  <msg_No_IP_Detected>未侦测到IP地址</msg_No_IP_Detected>
+  <msg_VNCStarted>VNC服务已启动</msg_VNCStarted>
+  <msg_VNCNotStarted>VNC服务未启动</msg_VNCNotStarted>
+  <msg_AppStarted>此应用程序已运行</msg_AppStarted>
+  <msg_AppNotFound>未找到应用程序{0}</msg_AppNotFound>
+  <msg_AppNotDefined>未定义应用程序</msg_AppNotDefined>
+  <msg_FilesInFolder>文件在开始菜单内</msg_FilesInFolder>
+  <msg_CommandLogEmpty>命令日志为空</msg_CommandLogEmpty>
+  <msg_CommandLog>命令日志</msg_CommandLog>
+  <msg_DeviceLocked>设备已锁定</msg_DeviceLocked>
+  <msg_DeviceUnLocked>设备已解锁</msg_DeviceUnLocked>
+  <msg_DeviceLockedByOwner>设备已被其所有者锁定</msg_DeviceLockedByOwner>
+  <msg_StartTime>开始时间</msg_StartTime>
+  <msg_EndTime>结束时间</msg_EndTime>
+  <msg_Duration>为期</msg_Duration>
+  <msg_CallerName>来电者姓名</msg_CallerName>
+  <msg_CallerNumber>来电者号码</msg_CallerNumber>
+  <msg_OutgoingCall>拨出电话</msg_OutgoingCall>
+  <msg_Yes>是</msg_Yes>
+  <msg_No>否</msg_No>
+  <msg_Error>错误</msg_Error>
+  <msg_Warning>警告</msg_Warning>
+  <msg_Confirmation>确认</msg_Confirmation>
+  <msg_ConfirmSIMDeletion>此SIM卡将允许在本机使用.再次确认?</msg_ConfirmSIMDeletion>
+  <msg_InvalidIMSI>未侦测到有效的IMSI编号.</msg_InvalidIMSI>
+  <msg_ConfirmEmergencyDeletion>此紧急注册将被排除.再次确认?</msg_ConfirmEmergencyDeletion>
+  <msg_InvalidEmergency>输入的值无效.</msg_InvalidEmergency>
+  <msg_EmergencyNumber>紧急电话号码</msg_EmergencyNumber>
+  <msg_EmergencyEMail>紧急电子邮箱</msg_EmergencyEMail>
+  <msg_CurrentPasswordDoesNotMatch>当前密码不匹配</msg_CurrentPasswordDoesNotMatch>
+  <msg_FTPServerNotDefined>未定义FTP服务器.</msg_FTPServerNotDefined>
+  <msg_NoFilesToUpload>没有文件可供上传.</msg_NoFilesToUpload>
+  <msg_FileDoesNotExists>{0}文件不存在.</msg_FileDoesNotExists>
+  <msg_FilesUploaded>{0}个文件已上传.</msg_FilesUploaded>
+  <msg_NoFilesUploaded>未上传任何文件.</msg_NoFilesUploaded>
+  <msg_HideRT>确定将本程序在设备上隐藏?此操作不可逆.</msg_HideRT>
+  <msg_HideRTRestart>设备需要重新启动来完成操作.</msg_HideRTRestart>
+  <msg_MortScriptFiles>未找到MortScript文件</msg_MortScriptFiles>
+  <msg_MortScriptRunSuccessfully>脚本已成功执行</msg_MortScriptRunSuccessfully>
+  <msg_MortScriptRunUnsuccessfully>脚本未成功执行</msg_MortScriptRunUnsuccessfully>
+  <msg_sim_card_changed>SIM卡已更换</msg_sim_card_changed>
+
+  <msg_HelpEmergencyNumber>请输入一个手机号码,当SIM卡被更换，将自动发送有助于找回设备的短信到此号码.</msg_HelpEmergencyNumber>
+  <msg_HelpEmergencyEMail>请输入一个电子邮箱,当SIM卡被更换，将自动发送有助于找回设备的短信到此邮箱.</msg_HelpEmergencyEMail>
+  <msg_HelpIMSI>请选择 菜单-自动侦测 以获取到当前有效的手机IMSI编号,此号码将被允许在本设备上使用.</msg_HelpIMSI>
+  <msg_HelpPassword>为本程序设置密码,该密码将用于进入本程序及远程操作.</msg_HelpPassword>
+  <msg_HelpGPSAttempts>定义获取GPS信号的尝试次数(ELT方式除外).</msg_HelpGPSAttempts>
+  <msg_HelpELTTimeout>定义ELT/FLT命令持续记录GPS轨迹为KMZ文件日志的时间(分钟).[ELT/FLT命令即为记录GPS轨迹为KMZ文件并以邮件/FTP方式发送]</msg_HelpELTTimeout>
+  <msg_HelpEMail>设置电子邮件帐户以便于执行相关命令.</msg_HelpEMail>
+  <msg_HelpFTP>设置FTP服务器以便于执行相关命令来上传文件.</msg_HelpFTP>
+  <msg_HelpEmergencyMessage>当TopSecret程序被执行,以下文本将以短消息模式发送到您的紧急电话号码上.</msg_HelpEmergencyMessage>
+  <msg_DefaultEmergencyMessage>这是由本号码使用者发出的消息,该人现在需要紧急援助!</msg_DefaultEmergencyMessage>
+
+  <msg_CallLogIsEmpty>????????</msg_CallLogIsEmpty>
+
+  <commands>RemoteTracker命令格式.发送 rt#命令</commands>
+  <help_command>help: 发送全部命令的帮助</help_command>
+  <ehelp_command>ehelp: 使用电子邮箱发送全部命令的帮助</ehelp_command>
+  <fhelp_command>ehelp: 发送全部命令的帮助到FTP账号</fhelp_command>
+  <cb_command>cb: 拨电话到指定号码</cb_command>
+  <gp_command>gp: 发送GPS座标</gp_command>
+  <egp_command>egp: 使用电子邮箱发送GPS座标</egp_command>
+  <fgp_command>fgp: 发送GPS座标到FTP账号</fgp_command>
+  <pb_command>pb: 发送SIM卡上全部的联系人</pb_command>
+  <epb_command>epb: 使用电子邮箱发送SIM卡上全部的联系人</epb_command>
+  <fpb_command>fpb: 发送SIM卡上全部的联系人到FTP账号</fpb_command>
+  <elt_command>elt: 使用电子邮箱发送记录的KMZ文件(KMZ文件可以用GOOGLE EARTH打开)</elt_command>
+  <flt_command>flt: 发送记录的KMZ文件到FTP账号(KMZ文件可以用GOOGLE EARTH打开)</flt_command>
+  <go_command>go: 获取主人信息</go_command>
+  <ego_command>ego: 使用电子邮箱发送获取到的主人信息</ego_command>
+  <fgo_command>fgo: 发送获取到的主人信息到FTP账号</fgo_command>
+  <rst_command>rst: 软复位设备(恢复出厂设置)</rst_command>
+  <dsc_command>dsc: 删除SIM卡联系人</dsc_command>
+  <dkz_command>dkz: 删除KMZ文件</dkz_command>
+  <ganfl_command>ganfl: 发送所有进出电话列表(需要安装VITO audio notes)</ganfl_command>
+  <eganfl_command>eganfl: 使用电子邮箱发送'ganfl'命令结果</eganfl_command>
+  <fganfl_command>fganfl: 发送'ganfl'命令结果到FTP账号</fganfl_command>
+  <eganf_command>eganf: 使用电子邮箱发送所有进出电话录音(需要安装VITO audio notes)</eganf_command>
+  <fganf_command>fganf: 发送所有进出电话录音到FTP账号(需要安装VITO audio notes)</fganf_command>
+  <findme_command>findme: 与'gp'命令相同,任何人都可以发送此命令获取当前GPS座标,但必须得到使用者确定</findme_command>
+  <alarm_command>alarm: 只播放声音,用于小范围内寻找设备(电话在震动模式下比较实用)</alarm_command>
+  <gi_command>gi: 获取该设备的IMEI号码和当前的IMSI号码</gi_command>
+  <egi_command>egi: 使用电子邮箱发送'gi'命令结果</egi_command>
+  <fgi_command>fgi: 发送'gi'命令结果到FTP账号</fgi_command>
+  <msg_command>msg: 在设备上显示你输入的信息</msg_command>
+  <gip_command>gip: 发送当前IP地址</gip_command>
+  <egip_command>egip: 使用电子邮箱发送当前IP地址</egip_command>
+  <fgip_command>fgip: 发送当前IP地址到FTP账号</fgip_command>
+  <vnc_command>vnc: 启动VNC服务</vnc_command>
+  <listapp_command>listapp: 列出所有安装的应用程序</listapp_command>
+  <elistapp_command>elistapp: 使用电子邮箱发送所有安装的应用程序列表</elistapp_command>
+  <flistapp_command>flistapp: 发送所有安装的应用程序列表到FTP账号</flistapp_command>
+  <runapp_command>runapp: 运行定义的应用程序</runapp_command>
+  <cellid_command>cellid: 当前基站信息</cellid_command>
+  <ecellid_command>ecellid: 使用电子邮箱发送当前基站信息</ecellid_command>
+  <fcellid_command>fcellid: 发送当前基站信息到FTP账号</fcellid_command>
+  <lock_command>lock: 锁定设备</lock_command>
+  <unlock_command>unlock: 解锁设备</unlock_command>
+  <callhist_command>callhist: 获取通话记录</callhist_command>
+  <ecallhist_command>ecallhist: 使用电子邮箱发送通话记录</ecallhist_command>
+  <fcallhist_command>fcallhist: 发送通话记录到FTP账号</fcallhist_command>
+  <ftp_command>ftp: 发送文件到FTP服务器</ftp_command>
+  <mslist_command>mslist: 获取设备上找到的MortScript文件列表</mslist_command>
+  <emslist_command>emslist: 使用电子邮箱发送设备上找到的MortScript文件列表</emslist_command>
+  <fmslist_command>fmslist: 发送设备上找到的MortScript文件列表到FTP账号</fmslist_command>
+  <msrun_command>msrun: 运行在设备找到的MortScript文件</msrun_command>
+  <delcard_command> delcard:????,???</delcard_command>
+  <esms_command>esms:?????????????????</esms_command>
+  <fsms_command>fsms:?????????FTP??</fsms_command>
+  <eoutlook_command>eoutlook:????????????contects??</eoutlook_command>
+  <foutlook_command>foutlook:??FTP????</foutlook_command>
+  
+  <version>版本</version>
+  <contacts>联系方式</contacts>
+  <configuration>配置</configuration>
+
+  <menu_menu>菜单</menu_menu>
+  <menu_exit>退出</menu_exit>
+  <menu_languages>语言</menu_languages>
+  <menu_simcards>SIM卡</menu_simcards>
+  <menu_emergencynumbers>紧急电话号码</menu_emergencynumbers>
+  <menu_emergencyemails>紧急电子邮箱</menu_emergencyemails>
+  <menu_password>密码</menu_password>
+  <menu_gpsconfiguration>GPS配置</menu_gpsconfiguration>
+  <menu_emailconfiguration>E-Mail配置</menu_emailconfiguration>
+  <menu_alarmsound>定义报警声音</menu_alarmsound>
+  <menu_commandlog>查看命令日志</menu_commandlog>
+  <menu_help>帮助</menu_help>
+  <menu_about>关于</menu_about>
+  <menu_options>选项</menu_options>
+  <menu_debugmode>调试模式</menu_debugmode>
+  <menu_screenoff>运行时关闭屏幕</menu_screenoff>
+  <menu_gpsattempts>GPS信号获取尝试次数</menu_gpsattempts>
+  <menu_timeoutelt>KMZ持续记录设置</menu_timeoutelt>
+  <menu_hide>隐藏本程序</menu_hide>
+  <menu_applyconfiguration>应用修改后的配置</menu_applyconfiguration>
+  <menu_emergencymessage>紧急信息</menu_emergencymessage>
+  <menu_FTPconfiguration>FTP配置</menu_FTPconfiguration>
+  <menu_cancel>取消</menu_cancel>
+  <menu_confirm>确认</menu_confirm>
+  <menu_delete>删除</menu_delete>
+  <menu_autodetect>自动侦测</menu_autodetect>
+  <menu_ActiveTopSecret>激活TopSecret</menu_ActiveTopSecret>
+  <menu_CellIDConverter>CellID?????</menu_CellIDConverter>
+
+  <label_current_password>当前密码</label_current_password>
+  <label_new_password>新密码</label_new_password>
+  <label_confirm_password>重复新密码</label_confirm_password>
+  <label_email_account>账号</label_email_account>
+  <label_recipient_name>收件人</label_recipient_name>
+  <label_e-mail>电子邮箱</label_e-mail>
+  <label_subject>主题</label_subject>
+  <label_emergency_interval>报警发送时间间隔(分钟)</label_emergency_interval>
+  <label_server>服务器地址</label_server>
+  <label_user>用户名</label_user>
+  <label_remote_dir>远程目录</label_remote_dir>
+  <label_port>端口</label_port>
+  <label_imsi>IMSI编号</label_imsi>
+  <label_imsi_alias>别名</label_imsi_alias>
+  <label_gps_attempts>GPS尝试次数</label_gps_attempts>
+  <label_elt_timeout>ELT超时</label_elt_timeout>
+  
+  <label_secret_question>????</label_secret_question>
+  <label_secret_answer>????</label_secret_answer>
+  <msg_SecretQuestion>??????????</msg_SecretQuestion>
+  <msg_SecretAnswer>???????????</msg_SecretAnswer>
+  <lostpass_command>??????:??????????</lostpass_command>
+  <secret_command>??:?????????,??????,??????????</secret_command>  
+  
+  <menu_CreateWebAccount>??Web??</menu_CreateWebAccount>
+  <menu_SendConfiguration>????</menu_SendConfiguration>
+  <msg_Password>??</msg_Password>
+  <msg_HelpConfigWeb>??Web??,???????????(????,???SIM???????????),????hardreset?</msg_HelpConfigWeb>
+  <msg_ErrorCreatingWebAccount>?????????????????,?????????</msg_ErrorCreatingWebAccount>
+  <msg_SendConfiguration>????????????????????,????????????????</msg_SendConfiguration>
+  <msg_WebLoginError>?????Web????????????????????</msg_WebLoginError>
+  <msg_WebSendConfigError>?????Web??????????????????</msg_WebSendConfigError>
+  <msg_WebSendConfigSuccess>??????????Web????</msg_WebSendConfigSuccess>
+
+  <meedios_UndefinedError>???????</meedios_UndefinedError>
+  <meedios_OtherException>??????</meedios_OtherException>
+  <meedios_WrongUser>????? - ?????????IMEI?</meedios_WrongUser>
+  <meedios_WrongPass>????? - ???????????</meedios_WrongPass>
+  <meedios_InvalidUser>????? - ?????,???????????,???????IMEI?</meedios_InvalidUser>
+  <meedios_FailedGeneratedAccound>???????? - ????????</meedios_FailedGeneratedAccound>
+  <meedios_FailedStoreIMEI>?????IMEI - ????????</meedios_FailedStoreIMEI>
+  <meedios_InvalidAPIKey>???API?? - ????????????????</meedios_InvalidAPIKey>
+  
+  <caption_emergency>紧急电话号码</caption_emergency>
+  <caption_emergency_message>紧急短信息</caption_emergency_message>  
+  <caption_emergency_email>??????</caption_emergency_email>
+  <caption_email>电子邮箱账号</caption_email>
+  <caption_ftp>FTP</caption_ftp>
+  <caption_imsi>SIM卡</caption_imsi>
+  <caption_gps_attempts>GPS尝试次数</caption_gps_attempts>
+  <caption_elt_timeout>ELT超时</caption_elt_timeout>
+
+  <rc_command>??:???????????</rc_command> 
+  <cr_command>?:???????(?)</cr_command> 
+  <msg_HelpRedirect>??????????????????/????????????????????????CR???</msg_HelpRedirect> 
+  <msg_wrongRedirectCommand>????????????????{0}??????????????????:* 21 *(0)#</msg_wrongRedirectCommand> 
+  <msg_success>??!</msg_success> 
+  <caption_redirect>?????</caption_redirect> 
+  <label_redirect>???</label_redirect>
+
+  <lang_english>英语</lang_english>
+  <lang_portuguesebrazil>葡萄牙语</lang_portuguesebrazil>
+  <lang_spanish>西班牙语</lang_spanish>
+  <lang_italian>意大利语</lang_italian>
+  <lang_french>法语</lang_french>
+  <lang_german>德语</lang_german>
+  <lang_dutch>菏兰语</lang_dutch>
+  <lang_greek>希腊语</lang_greek>
+  <lang_danish>丹麦语</lang_danish>
+  <lang_romanian>罗马尼亚语</lang_romanian>
+  <lang_swedish>瑞典语</lang_swedish>
+  <lang_russian>俄语</lang_russian>
+  <lang_chinese>中文</lang_chinese>
+</language>

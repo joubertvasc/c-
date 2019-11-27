@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="windows-1252" ?> 
+<CONFIG>
+  <Interval>10</Interval>
+  <VideoDevice>0</VideoDevice>
+  <VideoWidth>640</VideoWidth>
+  <VideoHeight>480</VideoHeight>
+  <VideoBitsPerPixel>24</VideoBitsPerPixel>
+</CONFIG>  

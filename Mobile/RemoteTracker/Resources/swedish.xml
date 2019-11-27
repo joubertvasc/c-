@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<language>
+  <msg_PasswordDoesNotMatch>Fel lösenord.</msg_PasswordDoesNotMatch>
+  <msg_CouldNotConnectGPS>Ingen kontakt med satelliter.</msg_CouldNotConnectGPS>
+  <msg_InvalidCommand>Felaktigt kommando.</msg_InvalidCommand>
+  <msg_Latitude>Lat</msg_Latitude>
+  <msg_Longitude>Lon</msg_Longitude>
+  <msg_Satellite_count>Satellit räknare</msg_Satellite_count>
+  <msg_Battery>Bat</msg_Battery>
+  <msg_Charging>Laddar</msg_Charging>
+  <msg_Time>Tid</msg_Time>
+  <msg_Author>Utvecklare</msg_Author>
+  <msg_Contributors>Bidragare</msg_Contributors>
+  <msg_Translators>Översättare</msg_Translators>
+  <msg_Ok>Ok</msg_Ok>
+  <msg_Cancel>Avbryt</msg_Cancel>
+  <msg_Command_Started>Starta kommando:</msg_Command_Started> 
+  <msg_Initial_Coordinates>Startkoordinater</msg_Initial_Coordinates>
+  <msg_Final_Coordinates>Slutkoordinater</msg_Final_Coordinates>
+  <msg_Name>Namn</msg_Name>
+  <msg_Company>Företag</msg_Company>
+  <msg_EMail>E-post</msg_EMail>
+  <msg_Telephone>Telefon</msg_Telephone>
+  <msg_Address>Adress</msg_Address>
+  <msg_Notes>Anteckningar</msg_Notes>
+  <msg_Not_Possible_Owner_Info>Ej möjligt att få ägarinformation</msg_Not_Possible_Owner_Info>
+  <msg_Sim_Contacts_Deleted>Alla SIM kontakter togs bort</msg_Sim_Contacts_Deleted>
+  <msg_kmz_Deleted>Alla KMZ filer togs bort</msg_kmz_Deleted>
+  <msg_not_installed>inte installerat</msg_not_installed>
+  <msg_incoming_calls>Inkommande samtal</msg_incoming_calls>
+  <msg_outgoing_calls>Utgående samtal</msg_outgoing_calls>
+  <msg_findme_call>frågar efter dina GPS koordinater. Kan RemoteTracker skicka denna information?</msg_findme_call>
+  <msg_donation> Donera</msg_donation>
+  <msg_alarmsound>Alarm ljud:</msg_alarmsound>
+  <msg_search>Sök</msg_search>
+  <msg_selectfile>Välj fil</msg_selectfile>
+  <msg_playsound>Spela ljud</msg_playsound>
+  <msg_invalidvalue>Värde av fältet {0} är felaktigt.</msg_invalidvalue>
+  <msg_CellID>Cell ID</msg_CellID>
+  <msg_CellLAC>Location Area Code</msg_CellLAC>
+  <msg_CellCC>Landskod</msg_CellCC>
+  <msg_CellNC>Nätverkskod</msg_CellNC>
+  <msg_CoordFromOpenCellId>Koordinater från OpenCellID</msg_CoordFromOpenCellId>
+  <msg_CoordFromGoogleMaps>Koordinater från GoogleMaps</msg_CoordFromGoogleMaps>
+  <msg_CoordFromCellDB>Koordinater från CellDB</msg_CoordFromCellDB>
+  <msg_PasswordWithIllegalChar>Lösenordet får bara ha siffror och bokstäver.</msg_PasswordWithIllegalChar>
+  <msg_GPSDriverNotFound>GPS drivrutin hittades ej.</msg_GPSDriverNotFound>
+  <msg_GPSDeviceNotFound>GPS enhet hittades ej.</msg_GPSDeviceNotFound>
+  <msg_DebugMode>Debug läge</msg_DebugMode>
+  <msg_ConfigGPS>Konfiguera GPS</msg_ConfigGPS>
+  <msg_ComPortNotSelected>Seriell port valdes inte.</msg_ComPortNotSelected>
+  <msg_BaudRateNotSelected>Baudrate valdes inte.</msg_BaudRateNotSelected>
+  <msg_SerialPort>Seriell port:</msg_SerialPort>
+  <msg_BaudRate>Baudrate:</msg_BaudRate>
+  <msg_UseManagedGPS>Windows hanterar GPS</msg_UseManagedGPS>
+  <msg_UseManualGPS>Användaren hanterar GPS</msg_UseManualGPS>
+  <msg_SelectGPSType>Välj GPS type:</msg_SelectGPSType>
+  <msg_CurrentIPAdrress>Nuvarande IP adress</msg_CurrentIPAdrress>
+  <msg_No_IP_Detected>Ingen IP adress hittades</msg_No_IP_Detected>
+  <msg_VNCStarted>VNC server startad</msg_VNCStarted>
+  <msg_VNCNotStarted>VNC server inte startad</msg_VNCNotStarted>
+  <msg_AppStarted>Applikationen startad</msg_AppStarted>
+  <msg_AppNotFound>Applikationen {0} hittades inte</msg_AppNotFound>
+  <msg_AppNotDefined>Applikation inte definierad</msg_AppNotDefined>
+  <msg_FilesInFolder>Filer i Start Meny mappen</msg_FilesInFolder>
+  <msg_CommandLogEmpty>Kommandologgen är tom</msg_CommandLogEmpty>
+  <msg_CommandLog>Kommandologg</msg_CommandLog>
+  <msg_DeviceLocked>Enheten låst</msg_DeviceLocked>
+  <msg_DeviceUnLocked>Enheten olåst</msg_DeviceUnLocked>
+  <msg_DeviceLockedByOwner>Enheten låst av ägaren</msg_DeviceLockedByOwner>
+  <msg_StartTime>Start tid</msg_StartTime>
+  <msg_EndTime>Slut tid</msg_EndTime>
+  <msg_Duration>Varaktighet</msg_Duration>
+  <msg_CallerName>Uppringarens namn</msg_CallerName>
+  <msg_CallerNumber>Uppringarens nummer</msg_CallerNumber>
+  <msg_OutgoingCall>Utgående samtal</msg_OutgoingCall>
+  <msg_Yes>Ja</msg_Yes>
+  <msg_No>Nej</msg_No>
+  <msg_Error>Fel</msg_Error>
+  <msg_Warning>Varning</msg_Warning>
+  <msg_Confirmation>Bekräftelse</msg_Confirmation>
+  <msg_ConfirmSIMDeletion>Detta SIM kort kommer att exkluderas. Bekräftar du?</msg_ConfirmSIMDeletion>
+  <msg_InvalidIMSI>Du måste hitta ett giltigt IMSI nummer.</msg_InvalidIMSI>
+  <msg_ConfirmEmergencyDeletion>Detta nödregister kommer att exkluderas. Bekräftar du?</msg_ConfirmEmergencyDeletion>
+  <msg_InvalidEmergency>Fältet Nöd måste fyllas i.</msg_InvalidEmergency>
+  <msg_EmergencyNumber>Nödnummer</msg_EmergencyNumber>
+  <msg_EmergencyEMail>Nöd E-post</msg_EmergencyEMail>
+  <msg_CurrentPasswordDoesNotMatch>Nuvarande lösenord är fel</msg_CurrentPasswordDoesNotMatch>
+  <msg_FTPServerNotDefined>FTP servern inte definierad.</msg_FTPServerNotDefined>
+  <msg_NoFilesToUpload>Inga filer att ladda upp.</msg_NoFilesToUpload>
+  <msg_FileDoesNotExists>Filen {0} finns inte.</msg_FileDoesNotExists>
+  <msg_FilesUploaded>{0} filer uppladdade.</msg_FilesUploaded>
+  <msg_NoFilesUploaded>Inga filer att ladda upp.</msg_NoFilesUploaded>
+  <msg_HideRT>Är du säker på att du vill gömma RemoteTracker på din enhet? Detta kan inte ångras!</msg_HideRT>
+  <msg_HideRTRestart>För att slutföra detta, måste din enhet startas om.</msg_HideRTRestart>
+  <msg_MortScriptFiles>MortScript filer hittade</msg_MortScriptFiles>
+  <msg_MortScriptRunSuccessfully>Script körde</msg_MortScriptRunSuccessfully>
+  <msg_MortScriptRunUnsuccessfully>Scripts inte körda</msg_MortScriptRunUnsuccessfully>
+  <msg_sim_card_changed>SIM kortet bytt</msg_sim_card_changed>
+
+  <msg_HelpEmergencyNumber>Skriv ett mobilnummer att använd om SIM kortet byts. Denna mobil får ett SMS med nyttig information för att hitta din enhet.</msg_HelpEmergencyNumber>
+  <msg_HelpEmergencyEMail>Skriv en e-post adress att använda om SIM kortet byts. Denna adress får ett meddelande med nyttig information för att hitta din enhet..</msg_HelpEmergencyEMail>
+  <msg_HelpIMSI>Konfiguera kända SIM kort för att kunna byta dem utan att få ett meddelande om bytet.</msg_HelpIMSI>
+  <msg_HelpPassword>Att skapa ett lösenord är en bra ide för att få RemoteTracker säkrare.</msg_HelpPassword>
+  <msg_HelpGPSAttempts>Definera antalet försök att få GPS signal för GPS kommandon (utom ELT).</msg_HelpGPSAttempts>
+  <msg_HelpELTTimeout>Definera tiden i minuter för ELT kommandot att logg an rutt.</msg_HelpELTTimeout>
+  <msg_HelpEMail>Ställ in ett e-post konto för kunna använda flera kommandon som skickar information till detta e-post konto.</msg_HelpEMail>
+  <msg_HelpFTP>Konfiguera en personlig FTP server för att kunna använda flera kommandon som skickar information om du tappar din enhet.</msg_HelpFTP>
+  <msg_HelpEmergencyMessage>Detta meddelande skickas till din nödlista om du behöver TopSecret applikationen.</msg_HelpEmergencyMessage>
+  <msg_DefaultEmergencyMessage>Detta är ett meddelande skickat med RemoteTracker för att informera dig om att personen behöver omgående hjälp!</msg_DefaultEmergencyMessage>
+
+  <msg_CallLogIsEmpty>Samtalsloggen är tom</msg_CallLogIsEmpty>
+
+  <commands>RemoteTrack kommando. Skicka rt# följt av</commands>
+  <help_command>help: skicka detta meddelande</help_command>
+  <ehelp_command>ehelp: skicka detta meddelande med e-post</ehelp_command>
+  <fhelp_command>ehelp: skicka detta meddelande till ditt FTP konto</fhelp_command>
+  <cb_command>cb: ring ett samtal</cb_command>
+  <gp_command>gp: skicka GPS koordinater</gp_command>
+  <egp_command>egp: skicka GPS koordinater med e-post</egp_command>
+  <fgp_command>fgp: skicka GPS koordinater till ditt FTP konto</fgp_command>
+  <pb_command>pb: skicka alla kontaker på SIM kortet</pb_command>
+  <epb_command>epb: skicka alla kontaker på SIM kortet med e-post</epb_command>
+  <fpb_command>fpb: skicka alla kontaker på SIM kortet till ditt FTP konto</fpb_command>
+  <elt_command>elt: logga rutt och skicka en KMZ fil med e-post</elt_command>
+  <flt_command>flt: logga rutt och skicka en KMZ fil till ditt FTP konto</flt_command>
+  <go_command>go: få ägarinformation</go_command>
+  <ego_command>ego: få ägarinformation med e-post</ego_command>
+  <fgo_command>fgo: få ägarinformation till ditt FTP konto</fgo_command>
+  <rst_command>rst: mjukstarta enhet</rst_command>
+  <dsc_command>dsc: ta bort SIM kontakter</dsc_command>
+  <dkz_command>dkz: ta bort KMZ filer</dkz_command>
+  <ganfl_command>ganfl: skicka en lista över alla inkommande och utgående samtal om du har VITO audio notes installerat</ganfl_command>
+  <eganfl_command>eganfl: samma som 'ganfl' med med e-post</eganfl_command>
+  <fganfl_command>fganfl: samma som 'ganfl' men till ditt FTP konto</fganfl_command>
+  <eganf_command>eganf: skicka alla inkommande och utgående samtal om du har VITO audio notes installerat</eganf_command>
+  <fganf_command>fganf: skicka alla inkommande och utgående samtal om du har VITO audio notes installerat</fganf_command>
+  <findme_command>findme: samma som 'gp' kommandot, men frågar om du vill svara på kommandot</findme_command>
+  <alarm_command>alarm: spela en ljudfil. Användbart om du förlagt din enhet hemma</alarm_command>
+  <gi_command>gi: få enhetens IMEI nummer och det installerade SIM kortets IMSI nummer</gi_command>
+  <egi_command>egi: samma som 'gi' kommandot, men med e-post</egi_command>
+  <fgi_command>fgi: samma som 'gi' kommandot, men till ditt FTP konto</fgi_command>
+  <msg_command>msg: visa en meddelande ruta för användaren</msg_command>
+  <gip_command>gip: skicka nuvarande IP adress</gip_command>
+  <egip_command>egip: skicka nuvarande IP adress med e-post</egip_command>
+  <fgip_command>fgip: skicka nuvarande IP adress till ditt FTP konto</fgip_command>
+  <vnc_command>vnc: starta VNC server</vnc_command>
+  <listapp_command>listapp: lista alla installerade applikationer</listapp_command>
+  <elistapp_command>elistapp: lista alla installerade applikationer med e-post</elistapp_command>
+  <flistapp_command>flistapp: lista alla installerade applikationer till ditt FTP konto</flistapp_command>
+  <runapp_command>runapp: kör en definierad applikation</runapp_command>
+  <cellid_command>cellid: få information från nuvarnde cell torn</cellid_command>
+  <ecellid_command>ecellid: få information från nuvarnde cell torn med e-post</ecellid_command>
+  <fcellid_command>fcellid: få information från nuvarnde cell torn till ditt FTP konto</fcellid_command>
+  <lock_command>lock: låst din enhet</lock_command>
+  <unlock_command>unlock: låst upp din enhet</unlock_command>
+  <callhist_command>callhist: skicka samtalshistorik</callhist_command>
+  <ecallhist_command>ecallhist: skicka samtalshistorik med e-post</ecallhist_command>
+  <fcallhist_command>fcallhist: skicka samtalshistorik till ditt FTP konto</fcallhist_command>
+  <ftp_command>ftp: skicka filer till en konfiguerad server</ftp_command>
+  <mslist_command>mslist: lista MortScript filer på din enhet</mslist_command>
+  <emslist_command>emslist: lista MortScript filer på din enhet med e-post</emslist_command>
+  <fmslist_command>fmslist: lista MortScript filer på din enhet till ditt FTP konto</fmslist_command>
+  <msrun_command>msrun: kör MortScript filer på din enhet</msrun_command>
+  <delcard_command> delcard: ta bort alla icke skyddade filer från lagringskortet </delcard_command> 
+  <esms_command> ESMS: skicka hela SMS-historik via e-post </esms_command> 
+  <fsms_command> fsms: skicka hela sms historia via FTP </fsms_command> 
+  <eoutlook_command> eoutlook: skicka utnämningar och contects från Outlook via e-post </eoutlook_command> 
+  <foutlook_command> foutlook: skicka utnämningar och contects från Outlook via FTP </foutlook_command> 
+
+  <version>Version</version>
+  <contacts>Kontakt</contacts>
+  <configuration>Inställningar</configuration>
+
+  <menu_menu>Meny</menu_menu>
+  <menu_exit>Avsluta</menu_exit>
+  <menu_languages>Språk</menu_languages>
+  <menu_simcards>SIM kort</menu_simcards>
+  <menu_emergencynumbers>Nödnummer</menu_emergencynumbers>
+  <menu_emergencyemails>Nöd e-post</menu_emergencyemails>
+  <menu_password>Lösenord</menu_password>
+  <menu_gpsconfiguration>GPS konfiguration</menu_gpsconfiguration>
+  <menu_emailconfiguration>E-post konfiguration</menu_emailconfiguration>
+  <menu_alarmsound>Definiera alarm ljud</menu_alarmsound>
+  <menu_commandlog>Se kommandologgen</menu_commandlog>
+  <menu_help>Hjälp</menu_help>
+  <menu_about>Om</menu_about>
+  <menu_options>Inställningar</menu_options>
+  <menu_debugmode>Debug läge</menu_debugmode>
+  <menu_screenoff>Släck skärm under körning</menu_screenoff>
+  <menu_gpsattempts>GPS försök för GPS kommando</menu_gpsattempts>
+  <menu_timeoutelt>Timeout för ELT/FLT kommando</menu_timeoutelt>
+  <menu_hide>Göm RemoteTracker</menu_hide>
+  <menu_applyconfiguration>Verkställ konfiguration</menu_applyconfiguration>
+  <menu_emergencymessage>Nöd meddelande</menu_emergencymessage>
+  <menu_FTPconfiguration>FTP konfiguration</menu_FTPconfiguration>
+  <menu_cancel>Avbryt</menu_cancel>
+  <menu_confirm>Bekräfta</menu_confirm>
+  <menu_delete>Ta bort</menu_delete>
+  <menu_autodetect>Auto känn av</menu_autodetect>
+  <menu_ActiveTopSecret>Aktivera TopSecret</menu_ActiveTopSecret>
+  <menu_CellIDConverter>CellID att Koordinater Provider</menu_CellIDConverter>
+
+  <label_current_password>Nuvarande lösenord</label_current_password>
+  <label_new_password>Nytt lösenord</label_new_password>
+  <label_confirm_password>Bekräfta nytt lösenord</label_confirm_password>
+  <label_email_account>Konto</label_email_account>
+  <label_recipient_name>Mottagre</label_recipient_name>
+  <label_e-mail>E-post</label_e-mail>
+  <label_subject>Ämne</label_subject>
+  <label_emergency_interval>Intervall mellan påminnelser</label_emergency_interval>
+  <label_server>Server</label_server>
+  <label_user>Användare</label_user>
+  <label_remote_dir>Fjärrmapp</label_remote_dir>
+  <label_port>Port</label_port>
+  <label_imsi>SIM kort IMSI</label_imsi>
+  <label_imsi_alias>SIM kort alias</label_imsi_alias>
+  <label_gps_attempts>GPS försök</label_gps_attempts>
+  <label_elt_timeout>ELT timeout</label_elt_timeout>
+  
+  <label_secret_question>Hemliga fråga</label_secret_question>
+  <label_secret_answer>Secret Svar</label_secret_answer>
+  <msg_SecretQuestion>Skriv din hemliga fråga.</msg_SecretQuestion>
+  <msg_SecretAnswer>Skriv dina hemliga svaret.</msg_SecretAnswer>
+  <lostpass_command>lostpass: Skicka SMS från din hemliga fråga.</lostpass_command>
+  <secret_command>secret: att få ditt hemliga svar, och om det är ok, skicka lösenord via SMS.</secret_command>
+
+  <menu_CreateWebAccount>Skapa webbkonto</menu_CreateWebAccount>
+  <menu_SendConfiguration>Skicka Configuration</menu_SendConfiguration>
+  <msg_Password>Lösenord</msg_Password>
+  <msg_HelpConfigWeb>skapar ett nät som du kan behålla dina nödsituation information (telefonnummer, känd SIM-kort och akuta e-post adress) som ska användas efter en hardreset.</msg_HelpConfigWeb>
+  <msg_ErrorCreatingWebAccount>Kunde inte skapa ett nytt konto. Du kontrollera om du redan är registrerad eller din Internet-anslutning.</msg_ErrorCreatingWebAccount>
+  <msg_SendConfiguration>Detta alternativ kommer att skicka nödsituation informationer. till ditt konto på nätet och det kommer att behöva en internetuppkoppling. Håller du med?</msg_SendConfiguration>
+  <msg_WebLoginError>Kunde inte logga in på webbservern. Vänligen bekräfta din kontoinformation och din Internet-anslutning.</msg_WebLoginError>
+  <msg_WebSendConfigError>Kunde inte skicka dina konfigurationer till webbservern. Bekräfta din Internet-anslutning.</msg_WebSendConfigError>
+  <msg_WebSendConfigSuccess>Din konfigurationer har skickats till webbservern.</msg_WebSendConfigSuccess>
+  
+  <meedios_UndefinedError>Odefinierat fel.</meedios_UndefinedError>
+  <meedios_OtherException>Odefinierat undantag.</meedios_OtherException>
+  <meedios_WrongUser>Wrong användare - en annan användare äger ditt IMEI.</meedios_WrongUser>
+  <meedios_WrongPass>Wrong pass - ange korrekt lösenord från signup.</meedios_WrongPass>
+  <meedios_InvalidUser>Ogiltig användare - du försöker uppdatera någon annans IMEI utan att ens ha ett konto som du angett.</meedios_InvalidUser>
+  <meedios_FailedGeneratedAccound>Kunde inte skapa ett nytt konto - ett serverfel har inträffat.</meedios_FailedGeneratedAccound>
+  <meedios_FailedStoreIMEI>Gick inte att lagra IMEI - ett serverfel har inträffat.</meedios_FailedStoreIMEI>
+  <meedios_InvalidAPIKey>Ogiltig API-nyckel - denna ansökan är inte behörighet att använda denna databas.</meedios_InvalidAPIKey>
+
+  <rc_command>RC: dirigera samtal till en annan telefon</rc_command>
+  <cr_command>CR: Avbryt omdirigeringen kommandot (RC)</cr_command>
+  <msg_HelpRedirect>Den särskilda nedan får du av operatören för att styra / avbryta alla samtal till annat nummer. Att information kommer att användas i RC och CR kommandon.</msg_HelpRedirect>
+  <msg_wrongRedirectCommand>Omdirigeringen nummer är felaktig. Du måste placera {0} sträng ersättas av ett telefonnummer från RC kommandot. Exempel: *21*{0}#</msg_wrongRedirectCommand>
+  <msg_success>Framgång!</msg_success>
+  <caption_redirect>Redirect Europaparlamentet</caption_redirect>
+  <label_redirect>Redirect</label_redirect>
+    
+  <caption_emergency>Nödnummer</caption_emergency>
+  <caption_emergency_message>Nödmeddelande</caption_emergency_message>  
+  <caption_emergency_email>Akut E-Mail</caption_emergency_email>
+  <caption_email>E-post konto</caption_email>
+  <caption_ftp>FTP</caption_ftp>
+  <caption_imsi>SIM kort</caption_imsi>
+  <caption_gps_attempts>GPS försök</caption_gps_attempts>
+  <caption_elt_timeout>ELT timeout</caption_elt_timeout>
+
+  <lang_english>English</lang_english>
+  <lang_portuguesebrazil>Portuguese</lang_portuguesebrazil>
+  <lang_spanish>Spanish</lang_spanish>
+  <lang_italian>Italian</lang_italian>
+  <lang_french>French</lang_french>
+  <lang_german>German</lang_german>
+  <lang_dutch>Dutch</lang_dutch>
+  <lang_greek>Greek</lang_greek>
+  <lang_danish>Danish</lang_danish>
+  <lang_romanian>Romanian</lang_romanian>
+  <lang_swedish>Swedish</lang_swedish>
+  <lang_russian>Russian</lang_russian>
+</language>

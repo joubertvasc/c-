@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<language>
+  <msg_PasswordDoesNotMatch>Mot de passe incorrect.</msg_PasswordDoesNotMatch>
+  <msg_CouldNotConnectGPS>Impossible de recevoir le signal GPS.</msg_CouldNotConnectGPS>
+  <msg_InvalidCommand>Commande inconnue.</msg_InvalidCommand>
+  <msg_Latitude>Lat</msg_Latitude>
+  <msg_Longitude>Lon</msg_Longitude>
+  <msg_Satellite_count>Nombre de satellites</msg_Satellite_count>
+  <msg_Battery>Bat</msg_Battery>
+  <msg_Charging>En charge</msg_Charging>
+  <msg_Time>Temps</msg_Time>
+  <msg_Author>Auteur</msg_Author>
+  <msg_Contributors>Contributeurs</msg_Contributors>
+  <msg_Translators>Traducteurs</msg_Translators>
+  <msg_Ok>Ok</msg_Ok>
+  <msg_Cancel>Annuler</msg_Cancel>
+  <msg_Command_Started>Commande exécutée:</msg_Command_Started> 
+  <msg_Initial_Coordinates>Coordonnées initiales</msg_Initial_Coordinates>
+  <msg_Final_Coordinates>Coordonnées finales</msg_Final_Coordinates>
+  <msg_Name>Nom</msg_Name>
+  <msg_Company>Société</msg_Company>
+  <msg_EMail>E-Mail</msg_EMail>
+  <msg_Telephone>Téléphone</msg_Telephone>
+  <msg_Address>Adresse</msg_Address>
+  <msg_Notes>Notes</msg_Notes>
+  <msg_Not_Possible_Owner_Info>Impossible d'obtenir les informations du propriétaire</msg_Not_Possible_Owner_Info>
+  <msg_Sim_Contacts_Deleted>Tous les contacts de la carte SIM ont été effacés</msg_Sim_Contacts_Deleted>
+  <msg_kmz_Deleted>Tous les fichiers KMZ ont été effacés</msg_kmz_Deleted>
+  <msg_not_installed>pas installé</msg_not_installed>
+  <msg_incoming_calls>Appels entrants</msg_incoming_calls>
+  <msg_outgoing_calls>Appels sortants</msg_outgoing_calls>
+  <msg_findme_call>demande vos coordonnées GPS. RemoteTracker peut-il envoyer cette information?</msg_findme_call>
+  <msg_donation>Faites un don</msg_donation>
+  <msg_alarmsound>Son d'alarme:</msg_alarmsound>
+  <msg_search>Chercher</msg_search>
+  <msg_selectfile>Sélectionner le fichier</msg_selectfile>
+  <msg_playsound>Jouer le son</msg_playsound>
+  <msg_invalidvalue>La valeur du champs {0} est invalide.</msg_invalidvalue>
+  <msg_CellID>Cellule ID</msg_CellID>
+  <msg_CellLAC>Location Area Code</msg_CellLAC>
+  <msg_CellCC>Code pays</msg_CellCC>
+  <msg_CellNC>Code réseau</msg_CellNC>
+  <msg_CoordFromOpenCellId>Coordonnées de OpenCellID</msg_CoordFromOpenCellId>
+  <msg_CoordFromGoogleMaps>Coordonnées de la Google Maps</msg_CoordFromGoogleMaps>
+  <msg_CoordFromCellDB>Coordonnées de la CellDB</msg_CoordFromCellDB>
+  <msg_PasswordWithIllegalChar>Le mot de passe ne peut contenir que des chiffres et des lettres.</msg_PasswordWithIllegalChar>
+  <msg_GPSDriverNotFound>Pilote GPS pas trouvé.</msg_GPSDriverNotFound>
+  <msg_GPSDeviceNotFound>Puce GPS introuvable.</msg_GPSDeviceNotFound>
+  <msg_DebugMode>Mode debug</msg_DebugMode>
+  <msg_ConfigGPS>Configuration GPS</msg_ConfigGPS>
+  <msg_ComPortNotSelected>Le port série n'est pas sélectionné..</msg_ComPortNotSelected>
+  <msg_BaudRateNotSelected>Le débit n'est pas sélectionné.</msg_BaudRateNotSelected>
+  <msg_SerialPort>Port série:</msg_SerialPort>
+  <msg_BaudRate>Débit:</msg_BaudRate>
+  <msg_UseManagedGPS>Utiliser Windows pour gérer GPS</msg_UseManagedGPS>
+  <msg_UseManualGPS>Utiliser une configuration GPS personnalisée</msg_UseManualGPS>
+  <msg_SelectGPSType>Sélectionnez le type de GPS que vous désirez utiliser:</msg_SelectGPSType>
+  <msg_CurrentIPAdrress>Adresse IP courant</msg_CurrentIPAdrress>
+  <msg_No_IP_Detected>Adresses IP non détectée</msg_No_IP_Detected>
+  <msg_VNCStarted>Serveur VNC démarré</msg_VNCStarted>
+  <msg_VNCNotStarted>Serveur VNC pas démarré</msg_VNCNotStarted>
+  <msg_AppStarted>L'application a été exécutée</msg_AppStarted>
+  <msg_AppNotFound>L'application {0} n'a pas été trouvée</msg_AppNotFound>
+  <msg_AppNotDefined>L'application n'a pas été spécifiée</msg_AppNotDefined>
+  <msg_FilesInFolder>Fichiers du répertoire du Menu Démarrer</msg_FilesInFolder>
+  <msg_CommandLogEmpty>Le log des commandes est vide</msg_CommandLogEmpty>
+  <msg_CommandLog>Log des Commandes</msg_CommandLog>
+  <msg_DeviceLocked>L'appareil a été verrouillé</msg_DeviceLocked>
+  <msg_DeviceUnLocked>L'appareil a été déverrouillé</msg_DeviceUnLocked>
+  <msg_DeviceLockedByOwner>L'appareil a été verrouillé par son propriétaire</msg_DeviceLockedByOwner>
+  <msg_StartTime>Heure de début</msg_StartTime>
+  <msg_EndTime>Heure de fin</msg_EndTime>
+  <msg_Duration>Durée</msg_Duration>
+  <msg_CallerName>Contact</msg_CallerName>
+  <msg_CallerNumber>Numéro</msg_CallerNumber>
+  <msg_OutgoingCall>Appel sortant</msg_OutgoingCall>
+  <msg_Yes>Oui</msg_Yes>
+  <msg_No>Non</msg_No>
+  <msg_Error>Erreur</msg_Error>
+  <msg_Warning>Avertissement</msg_Warning>
+  <msg_Confirmation>Confirmation</msg_Confirmation>
+  <msg_ConfirmSIMDeletion>La carte SIM sera effacée. Voulez-vous vraiment effacer la carte SIM?</msg_ConfirmSIMDeletion>
+  <msg_InvalidIMSI>Vous devez détecter un numéro IMSI valide.</msg_InvalidIMSI>
+  <msg_ConfirmEmergencyDeletion>This emergency registry will be excluded. Do you confirm?</msg_ConfirmEmergencyDeletion>
+  <msg_InvalidEmergency>Le champ d'urgence est obligatoire.</msg_InvalidEmergency>
+  <msg_EmergencyNumber>Numéro d'urgence</msg_EmergencyNumber>
+  <msg_EmergencyEMail>E-Mail d'urgence</msg_EmergencyEMail>
+  <msg_CurrentPasswordDoesNotMatch>Le mot de passe actuel ne correspond pas</msg_CurrentPasswordDoesNotMatch>
+  <msg_FTPServerNotDefined>Le serveur FTP n'est pas défini.</msg_FTPServerNotDefined>
+  <msg_NoFilesToUpload>Pas de fichier à envoyer.</msg_NoFilesToUpload>
+  <msg_FileDoesNotExists>Le fichier {0} n'existe pas.</msg_FileDoesNotExists>
+  <msg_FilesUploaded>fichier {0} envoyé avec succès.</msg_FilesUploaded>
+  <msg_NoFilesUploaded>Pas de fichier envoyé.</msg_NoFilesUploaded>
+  <msg_HideRT>Voulez-vous réellement caché RemoteTracker de votre appareil? Cette opération est irréversible.</msg_HideRT>
+  <msg_HideRTRestart>Pour terminer cette opération, votre appareil doit être redémaré.</msg_HideRTRestart>
+  <msg_MortScriptFiles>Fichiers MortScript trouvés</msg_MortScriptFiles>
+  <msg_MortScriptRunSuccessfully>Scripts exécutés avec succès</msg_MortScriptRunSuccessfully>
+  <msg_MortScriptRunUnsuccessfully>Script non exécuté</msg_MortScriptRunUnsuccessfully>
+  <msg_sim_card_changed>La carte SIM a été changée</msg_sim_card_changed>
+
+  <msg_HelpEmergencyNumber>Entrez un numéro de GSM à utiliser en cas de changement de carte SIM. Ce GSM recevra un SMS avec des informations utiles pour retrouver votre appareil.</msg_HelpEmergencyNumber>
+  <msg_HelpEmergencyEMail>Entrez une adresse e-mail à utiliser en cas de changement de carte SIM. Cette e-mail recevra un message avec des informations utiles pour retrouver votre appareil.</msg_HelpEmergencyEMail>
+  <msg_HelpIMSI>Configurer les cartes SIM connues que vous autorisez sans qu'un SMS ou un e-mail ne soit envoyé en cas de changement.</msg_HelpIMSI>
+  <msg_HelpPassword>Définir un mot de passe est une bonne idée afin de rendre RemoteTracker plus sur.</msg_HelpPassword>
+  <msg_HelpGPSAttempts>Définit le nombre de tentatives pour obtenir un signal GPS pour les commandes GPS (excepté ELT).</msg_HelpGPSAttempts>
+  <msg_HelpELTTimeout>Definit le nombres de minutes pendant lesquelles les commandes LT enregistrent les déplacements.</msg_HelpELTTimeout>
+  <msg_HelpEMail>Setting an e-mail account you will be able to use several commands that reply by e-mail to the address specified here.</msg_HelpEMail>
+  <msg_HelpFTP>Configurer le serveur FTP utilisé pour envoyer les fichiers utilisant les commandes ftp (f*).</msg_HelpFTP>
+  <msg_HelpEmergencyMessage>Ce message sera envoyé à votre liste d'urgence si vous exécutez l'application TopSecret et que celle-ci est activée..</msg_HelpEmergencyMessage>
+  <msg_DefaultEmergencyMessage>Ce message est envoyé par RemoteTracker pour vous informer que l'envoyeur a besoin d'aide d'URGENCE!</msg_DefaultEmergencyMessage>
+
+  <msg_CallLogIsEmpty>Le journal des appels est vide</msg_CallLogIsEmpty>
+
+  <commands>Commande RemoteTrack envoie rt# suivi de</commands>
+  <help_command>help: Envoie ce message via SMS</help_command>
+  <ehelp_command>ehelp: Envoie ce message par e-mail</ehelp_command>
+  <fhelp_command>ehelp: Envoie ce message sur le serveur FTP</fhelp_command>
+  <cb_command>cb: Appelle le numéro spécifié</cb_command>
+  <gp_command>gp: Envoie les coordonnées GPS via SMS</gp_command>
+  <egp_command>egp: Envoie les coordonnées GPS par e-mail</egp_command>
+  <fgp_command>fgp: Envoie les coordonnées GPS sur le serveur FTP</fgp_command>
+  <pb_command>pb: Envoie tous les contacts de la carte SIM via SMS</pb_command>
+  <epb_command>epb: Envoie tous les contacts de la carte SIM  par e-mail</epb_command>
+  <fpb_command>fpb: Envoie tous les contacts de la carte SIM sur le serveur FTP</fpb_command>
+  <elt_command>elt: Enregistre le chemin dans un fichier KMZ et l'envoie par e-mail</elt_command>
+  <flt_command>flt: Enregistre le chemin dans un fichier KMZ et l'envoie sur le serveur FTP</flt_command>
+  <go_command>go: Envoie les informations du propriétaire</go_command>
+  <ego_command>ego: Envoie les informations du propriétaire par e-mail</ego_command>
+  <fgo_command>fgo: Envoie les informations du propriétaire sur le serveur FTP</fgo_command>
+  <rst_command>rst: Effectue un soft reset de l'appareil</rst_command>
+  <dsc_command>dsc: Efface les contacts contenu dans la carte SIM</dsc_command>
+  <dkz_command>dkz: Efface les fichiers KMZ</dkz_command>
+  <ganfl_command>ganfl: Envoie la liste de tous les appels (si VITO audio notes est installé)</ganfl_command>
+  <eganfl_command>eganfl: Envoie la liste de tous les appels (si VITO audio notes est installé) par e-mail</eganfl_command>
+  <fganfl_command>fganfl: Envoie la liste de tous les appels (si VITO audio notes est installé) sur le serveur FTP</fganfl_command>
+  <eganf_command>eganf: Envoie l'enregistrement de tous les appels (si VITO audio notes est installé) par e-mail</eganf_command>
+  <fganf_command>fganf: Envoie l'enregistrement de tous les appels (si VITO audio notes est installé) sur le serveur FTP</fganf_command>
+  <findme_command>findme: Vous demande si vous êtes d'accord pour envoyer vos coordonnée GPS</findme_command>
+  <alarm_command>alarm: Joue juste un son. Utile pour retrouver votre appareil</alarm_command>
+  <gi_command>gi: Envoie le numéro IMEI et le numéro IMSI de la carte SIM installée via SMS</gi_command>
+  <egi_command>egi: Envoie le numéro IMEI et le numéro IMSI de la carte SIM installée par e-mail</egi_command>
+  <fgi_command>fgi: Envoie le numéro IMEI et le numéro IMSI de la carte SIM installée sur le serveur FTP</fgi_command>
+  <msg_command>msg: Ouvre une boite de dialogue affichant le message</msg_command>
+  <gip_command>gip: Envoie l'adresse IP actuelle via SMS</gip_command>
+  <egip_command>egip: Envoie l'adresse IP actuelle par e-mail</egip_command>
+  <fgip_command>fgip: Envoie l'adresse IP actuelle sur le serveur FTP</fgip_command>
+  <vnc_command>vnc: Démarre un serveur VNC (qui doit être installé séparément)</vnc_command>
+  <listapp_command>listapp: Envoie la liste des applications installées via SMS</listapp_command>
+  <elistapp_command>elistapp: Envoie la liste des applications installées par e-mail</elistapp_command>
+  <flistapp_command>flistapp: Envoie la liste des applications installées sur le compte FTP</flistapp_command>
+  <runapp_command>runapp: Exécute l'application définie (full path ou nom du raccourci)</runapp_command>
+  <cellid_command>cellid: Envoie les information de la cellule GSM active via SMS</cellid_command>
+  <ecellid_command>ecellid: Envoie les information de la cellule GSM active par e-mail</ecellid_command>
+  <fcellid_command>fcellid: Envoie les information de la cellule GSM active sur le serveur FTP</fcellid_command>
+  <lock_command>lock: Bloque l'appareil</lock_command>
+  <unlock_command>unlock: Débloque l'appareil</unlock_command>
+  <callhist_command>callhist: Envoie l'historique des appels via SMS</callhist_command>
+  <ecallhist_command>ecallhist: Envoie l'historique des appels par e-mail</ecallhist_command>
+  <fcallhist_command>fcallhist: Envoie l'historique des appels sur le serveur FTP</fcallhist_command>
+  <ftp_command>ftp: Envoie un fichier sur le serveur FTP</ftp_command>
+  <mslist_command>mslist: Envoie la liste de MortScripts installés sur votre appareil via SMS</mslist_command>
+  <emslist_command>emslist: Envoie la liste de MortScripts installés sur votre appareil par e-mail</emslist_command>
+  <fmslist_command>fmslist: Envoie la liste de MortScripts installés sur votre appareil sur le serveur FTP</fmslist_command>
+  <msrun_command>msrun: Exécute un MortScript (en spécifiant le chemin absolu)</msrun_command>
+  <delcard_command> delcard: supprimer tous les fichiers non protégés de la carte de stockage </delcard_command>
+  <esms_command> ESMS: envoyer un sms l'histoire complète par e-mail </esms_command>
+  <fsms_command> fsms: envoyer un sms l'histoire complète par FTP </fsms_command>
+  <eoutlook_command> eoutlook: envoyer un rendez-vous et contects à partir d'Outlook par e-mail </eoutlook_command>
+  <foutlook_command> foutlook: envoyer un rendez-vous et contects à partir d'Outlook par FTP </foutlook_command>
+  
+  <version>Version</version>
+  <contacts>Contacts</contacts>
+  <configuration>Configuration</configuration>
+
+  <menu_menu>Menu</menu_menu>
+  <menu_exit>Sortir</menu_exit>
+  <menu_languages>Langages</menu_languages>
+  <menu_simcards>Cartes SIM</menu_simcards>
+  <menu_emergencynumbers>Numéros d'urgence</menu_emergencynumbers>
+  <menu_emergencyemails>E-Mails d'urgence</menu_emergencyemails>
+  <menu_password>Mot de passe</menu_password>
+  <menu_gpsconfiguration>Configuration GPS</menu_gpsconfiguration>
+  <menu_emailconfiguration>Configuration E-Mail</menu_emailconfiguration>
+  <menu_alarmsound>Définir le son d'Alarme</menu_alarmsound>
+  <menu_commandlog>Afficher le Log des Commandes</menu_commandlog>
+  <menu_help>Aide</menu_help>
+  <menu_about>A propos</menu_about>
+  <menu_options>Options</menu_options>
+  <menu_debugmode>Mode Debug</menu_debugmode>
+  <menu_screenoff>Eteint l'écran lors de l'exécution</menu_screenoff>
+  <menu_gpsattempts>Nb de tentatives GPS lors des commandes GPS</menu_gpsattempts>
+  <menu_timeoutelt>Durée du pistage xLT</menu_timeoutelt>
+  <menu_hide>Cacher RemoteTracker</menu_hide>
+  <menu_applyconfiguration>Appliquer la Configuration</menu_applyconfiguration>
+  <menu_emergencymessage>Message d'Urgence</menu_emergencymessage>
+  <menu_FTPconfiguration>Configuration FTP</menu_FTPconfiguration>
+  <menu_cancel>Annuler</menu_cancel>
+  <menu_confirm>Confirmer</menu_confirm>
+  <menu_delete>Effacer</menu_delete>
+  <menu_autodetect>Détection automatique</menu_autodetect>
+  <menu_ActiveTopSecret>Activer TopSecret</menu_ActiveTopSecret>
+  <menu_CellIDConverter>CellID aux coordonnées du fournisseur</menu_CellIDConverter>
+
+  <label_current_password>Mot de passe actuel</label_current_password>
+  <label_new_password>Nouveau mot de passe</label_new_password>
+  <label_confirm_password>Confirmer le nouveau mot de passe</label_confirm_password>
+  <label_email_account>Compte</label_email_account>
+  <label_recipient_name>Destinataire</label_recipient_name>
+  <label_e-mail>E-Mail</label_e-mail>
+  <label_subject>Sujet</label_subject>
+  <label_emergency_interval>Intervalle entre les avertissements</label_emergency_interval>
+  <label_server>Serveur</label_server>
+  <label_user>Utilisateur</label_user>
+  <label_remote_dir>Répertoire distant</label_remote_dir>
+  <label_port>Port</label_port>
+  <label_imsi>IMSI Cartes SIM</label_imsi>
+  <label_imsi_alias>Alias cartes SIM</label_imsi_alias>
+  <label_gps_attempts>Tentatives GPS</label_gps_attempts>
+  <label_elt_timeout>Durée de pistage xLT</label_elt_timeout>
+  
+  <label_secret_question>Question secrète</label_secret_question>
+  <label_secret_answer>Réponse secrète</label_secret_answer>
+  <msg_SecretQuestion>Tapez votre question secrète.</msg_SecretQuestion>
+  <msg_SecretAnswer>S'il vous plaît entrez votre réponse secrète.</msg_SecretAnswer>
+  <lostpass_command>lostpass: envoyez par SMS votre question secrète.</lostpass_command>
+  <secret_command>secret: la réception de votre réponse secrète, et si il est ok, envoyez le mot de passe par SMS.</secret_command>
+
+  <menu_CreateWebAccount>WEB Créer un compte</menu_CreateWebAccount>
+  <menu_SendConfiguration>Envoyer Configuration</menu_SendConfiguration>
+  <msg_Password>Mot de passe</msg_Password>
+  <msg_HelpConfigWeb>Création d'un compte web vous serez en mesure de garder vos informations d'urgence (numéros de téléphone, cartes SIM connus et d'urgence e-mail address) à utiliser après une hardreset.</msg_HelpConfigWeb>
+  <msg_ErrorCreatingWebAccount>Impossible de créer un nouveau compte. S'il vous plaît vérifier si vous êtes déjà inscrit ou votre connexion Internet.</msg_ErrorCreatingWebAccount>
+  <msg_SendConfiguration>Cette option vous enverrons vos informations d'urgence. à votre compte sur le web et il aura besoin d'une connexion Internet. Do you agree?</msg_SendConfiguration>
+  <msg_WebLoginError>Impossible de se connecter au serveur Web. S'il vous plaît vérifier vos informations de compte et votre connexion Internet.</msg_WebLoginError>
+  <msg_WebSendConfigError>Impossible d'envoyer vos configurations de serveur web. S'il vous plaît vérifier votre connexion internet.</msg_WebSendConfigError>
+  <msg_WebSendConfigSuccess>vos configurations a bien été envoyée au serveur Web.</msg_WebSendConfigSuccess>
+
+  <meedios_UndefinedError>Erreur non défini.</meedios_UndefinedError>
+  <meedios_OtherException>Exception Undefined.</meedios_OtherException>
+  <meedios_WrongUser>Utilisateur incorrect - un autre utilisateur est propriétaire de votre IMEI.</meedios_WrongUser>
+  <meedios_WrongPass>Passe incorrect - le mot de passe correct à partir de votre inscription.</meedios_WrongPass>
+  <meedios_InvalidUser>Utilisateur non valide - que vous essayiez de mettre à jour quelqu'un elses IMEI sans même avoir un compte pour lequel vous avez spécifié.</meedios_InvalidUser>
+  <meedios_FailedGeneratedAccound>Impossible de générer un nouveau compte - une erreur de serveur s'est produite.</meedios_FailedGeneratedAccound>
+  <meedios_FailedStoreIMEI>Impossible de stocker IMEI - une erreur de serveur s'est produite.</meedios_FailedStoreIMEI>
+  <meedios_InvalidAPIKey>Blancs clé API - Cette application n'est pas autorisé à utiliser cette base de données.</meedios_InvalidAPIKey>
+  
+  <caption_emergency>Numéros d'urgence</caption_emergency>
+  <caption_emergency_message>Message d'urgence</caption_emergency_message>  
+  <caption_emergency_email>E-Mail d'urgence</caption_emergency_email>
+  <caption_email>Compte E-Mail</caption_email>
+  <caption_ftp>FTP</caption_ftp>
+  <caption_imsi>Cartes SIM</caption_imsi>
+  <caption_gps_attempts>Tentatives GPS</caption_gps_attempts>
+  <caption_elt_timeout>Durée de pistage xLT</caption_elt_timeout>
+
+  <rc_command>RC: rediriger les appels vers un autre téléphone</rc_command>
+  <cr_command>CR: annuler la commande de redirection (rc)</cr_command>
+  <msg_HelpRedirect>Les numéros spéciaux ci-dessous sont proposés par votre opérateur pour rediriger / annuler tous les appels vers un autre numéro. Que les informations seront utilisées dans RC CR et les commandes.</msg_HelpRedirect>
+  <msg_wrongRedirectCommand>Le nombre de redirection est incorrect. Vous devez placer le {0} chaîne à être remplacé par un numéro de téléphone par la commande RC. Exemple: *21*{0}#</msg_wrongRedirectCommand>
+  <msg_success>Succès!</msg_success>
+  <caption_redirect>Demande de redirection</caption_redirect>
+  <label_redirect>Redirect</label_redirect>
+  
+  <lang_english>Anglais</lang_english>
+  <lang_portuguesebrazil>Portugais</lang_portuguesebrazil>
+  <lang_spanish>Espagnol</lang_spanish>
+  <lang_italian>Italien</lang_italian>
+  <lang_french>Français</lang_french>
+  <lang_german>Allemand</lang_german>
+  <lang_dutch>Neerlandais</lang_dutch>
+  <lang_greek>Grèque</lang_greek>
+  <lang_danish>Danois</lang_danish>
+  <lang_romanian>Roumain</lang_romanian>
+  <lang_swedish>Suédois</lang_swedish>
+  <lang_russian>Russe</lang_russian>
+</language>

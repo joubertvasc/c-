@@ -1,0 +1,55 @@
+Version 0.3.1-0
+- Support for non touchscreen devices
+
+Version 0.3.0-2
+- Bug fixes
+
+Version 0.3.0-1
+- Bug fixes
+
+Version 0.3.0-0
+- New GPS engine;
+- New option to see a GPS based compass;
+- New database web site: www.celldb.org
+- New database structure. Now the strength of the Cell Tower or Access Point is also stored;
+- Capability to store the same tower/access point several times, depending of its signal;
+- New option to see the tower/access point position in Google Maps. You will need a web connection;
+- Removed options to see the coordinates sent to OpenCellID, because it was useless.
+
+Version 0.2.0-0
+- New GPS engine;
+- New option to choose between Windows Managed GPS or manual configuration;
+- New Backup/Restore module;
+- Minor bug fix;
+- Now the program also scan WiFi Access Points, just to create a local database;
+- Now when a new Cell or WiFi is discovered, the grid show this line;
+- First version of Therm of Service.
+
+Version 0.1.1-1
+- Bug fixes.
+
+Version 0.1.0-0
+- Added option to backup the database;
+- Added option to restore the database;
+- Added option to retrieve from web all cells sent to opencellid.org
+
+Version 0.0.3-0
+- Small battery metter icon;
+- Change XML to SQLServerCE;
+- New options:
+  - CellID database:
+    - View new CellIDs
+    - View all CellIDs
+    - View main screen
+    - Clear all history
+- Delete option on context menu;
+    
+Version 0.0.2-0
+- Fixed issue: wifi is turned off when exit the application;
+- Added option to reset GSM radio before start scan cell towers;
+- Added option to auto send data to www.opencellid.org;
+- Added option to prevent sleep mode;
+- Save/Restore width of columns.
+
+Version 0.0.1-0
+- Start of the project

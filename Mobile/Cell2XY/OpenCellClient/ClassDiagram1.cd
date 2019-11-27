@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OpenCellClient.OpenCellClientMain" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/Jx5TjF2BK816n8xARbU1cZSj8joeToT4yt/5gd5AoU=</HashCode>
+      <FileName>OpenCellClientMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="OpenCellClient.Panels" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>OpenCellClientMain.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

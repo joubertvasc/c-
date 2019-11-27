@@ -1,0 +1,187 @@
+<html>
+  <head>
+  </head>
+  <body>
+     <center><H1>RemoteTracker</H1></Center><BR><BR>
+     <b>Vad gör programmet?</b><BR><BR>
+     Programmet utgör ett enkelt sätt att hitta din enhet om du tappar den, får den stulen
+     eller om du av säkerhetsskäl t.ex. vill följa din bil. Hur du kan använda RemoteTracker,
+     begränsas, nästan, bara av din fantasi! Men glöm inte - du får inte använda RemoteTracker
+     för att följa personer utan deras godtycke!</b><BR><br>
+
+     <b>Hur funkar det?</b><br><br>
+     RemoteTracker uppfattar SMS (text meddelanden) skickade till enheten. Om du vill veta var din enhet är,
+     använder du en annan enhet och skickar ett SMS till den saknade enheten.<BR><BR>
+     SMS:et du skickar skall börjar på <b>RT#</b> följt av parameterar enligt nedan.<BR><BR>
+     Genom texten i SMS:et kan du enkelt styra din enhet i fjärr. Det finns enkla och mer avancerade
+     kommandon, använd dem efter behov.<BR><BR>
+     När du skickat ett kommando, kommer RemoteTracker att bearbeta det och skicka dig ett svar, antingen
+     som ett SMS, e-post eller en fil till ditt FTP konto, om du har ett.<BR><BR>
+     Viktigt: RemoteTracker arbetar i tyst mode. Inga fönster visas när ett kommando bearbetas.<BR><BR>
+
+     <b>Räddnings (anti kidnappning) funktion</b><BR><BR>
+     RemoteTracker kan hjälp dig med din egen säkerhet. Du kan ställa in upp till fyra mobiltelefonnummer och fyra
+     e-postadresser som skall användas när du har problem och behöver hjälp. Här fyller du i information om din
+     fru, mor, far osv.<BR><BR>
+     I <b>Program</b> hittar du applikationen <b>TopSecret</b>. När du startar detta program frågas du efter ett
+     lösenord, detta är dock fake och du behöver inte skriva något, efter 30 sekunder, om du inte avbryter, skickas
+     det fördefinierade meddelande till dina nödnummer och nöd epost följt av ditt namn och nuvarande position baserad
+     på din GPS information.<BR><BR>
+
+     <b>Fjärr kontroll</b><BR><BR>
+     I <b>Program</b> hittar du också applikationen <b>RTRemote</b>. Detta program har två uppgifter:<BR> <BR>
+     1- Testa RemoteTracker på din egen enhet utan att betala för SMS;<BR><BR>
+     2- Skicka kommandon till en annan enhet med RemoteTracker utan SMS. RTRemote gör det för dig.<BR><BR>
+
+     <b>SIM korts bytes skydd</b><BR><BR>
+     Ett stort problem när du installerar ett program som RemoteTrackerär: om SIM kortet byts, förloras allt!<BR><BR>
+     Nej! Varje gång din enhet startas verifieras det installerade SIM kortet om det är ett känt eller okänt kort. Upp
+     till fyra kort kan definieras. Om någon installeras ett okänt SIM kort, skickas ett meddelande om bytet samt det
+     nya mobilnummret till dig för att kunna följa enheten.<BR><BR>
+
+     <b>Är RemoteTracker säker?</B><BR><BR>
+     RemoteTracker har några funktioner för att bevara din säkerhet:<br><BR>
+     <UL>
+       <LI>SIM korts bytes skydd;<BR>
+       <LI>Gömt läge. RemoteTracker visas inte i avinstallationslistan och flyttas till en annan mapp;<br>
+       <LI>Lösenord. Du kan bara avinstallera RemoteTracker eller svara på ett kommando när angivit/skickat lösenordet.<BR><BR>
+     </UL>
+
+     <b>Konfiguera RemoteTracker</b><BR><BR>
+     Om du läser denna hjälp, har du förmodligen startat programmet <b>Config</b> i <b>Program</b> mappen. Om inte, starta denna
+     applikation.<BR>
+     Klicka på <b>Meny</b> för att se vad som kan konfigueras:<BR>
+
+     <UL>
+       <LI><b>Inställningar</b>: här har du inställningarna för att styra RemoteTrackers uppförande:<BR>
+       <UL>
+         <LI><b>Språk</b>: du kan välja språk efter eget tycke. Flera språk finns tillgängliga, och du kan även göra en egen översättning. Skicka ett e-post till utvecklaren om detta.<BR>
+         <LI><b>Debug läge</b>: använd detta val om du vill rapportera ett fel. När detta är valt, loggas varje kommando och skrivs i en fil. Skicka denna fil till utvecklaren.<BR>
+         <LI><b>Släck skärm under körning</b>: defaultvald, detta val låter din enhet bearbeta ett kommando i gömt läge.<br>
+         <LI><b>Aktivera TopSecret</b>: ej defaultvald, detta val låter dig använda TopSecret applikationen. <br>
+         <LI><b>Lösenord</b>: du kan ange ett lösenord. Detta är ett väldigt användbart val, då detta lösenord används för att bearbeta kommandon, för att starta <b>Config</b> och att avinstallera RemoteTracker. Utan lösenord kan alla styra din enhet.<BR>
+         <LI><b>E-post konfiguration</b>: som beskrivet ovan, RemoteTracker kan svara på kommandon med e-post. Men du måste ställa in e-post kontot för att skicka e-post.<BR>
+         <LI><b>GPS försök för GPS kommando</b>: alla GPS kommandon kommer att försöka att koppla upp sig mot sateliter via GPS radion. Men, om enhet är inne i en byggnad kan den inte få kontakt. För att förhindra att batteriet töms, har RemoteTracker ett begränsat antal försök att koppla upp sig.<BR>
+         <LI><b>Timeout för ELT/FLT kommando</b>: ELT/FLT är speciella GPS kommandon för att spela in vägen din enhet rör sig och skicka en KMZ fil till dig med e-post/FTP. Denna fil kan öppnas i Google Earth.<BR>
+         <LI><b>Definiera alarm ljud</b>: you kan välja olika ljudfiler som RemoteTracker skall spela upp när ALARM kommandot bearbetas.<BR>
+         <LI><b>FTP konfiguration</b>: om du har ett personligt FTP konto, kan du ställa in det här och RemoteTracker kan skicka filer till FTP servern. Om du inte vet vad FTP är, lämna den tom.<BR>
+         <LI><b>GPS konfiguration</b>: det finns två sätt att används din GPS: Hanterad av Windows eller Manuellt via COM-port och baudrates val.<BR>
+         <LI><b>Göm RemoteTracker</b>: <u>detta val kan inte ångras!</u>. RemoteTracker flyttas till en annan mapp och tas bort från <b>Program</b> mappen och <b>avinstallations</b>listan. Var säker på att du gjort alla konfigurationer innan du väljer detta val.<BR>
+       </UL>
+       <LI><b>SIM kort</b>: upp till fyra SIM kort kan definieras. Om du, eller någon annan, byter till ett okänt SIM kort kommer dina nöd nummer och nöd epost att få ett meddelande om bytet och det nya nummret.<BR>
+       <LI><b>Nödnummer</b>: ange upp till fyra mobiltelefonnummer som meddelas när ett okänt SIM kort sätts i enheten, eller om du startar <b>TopSecret</b> applikationen.<BR>
+       <LI><b>Nöd e-post</b>: ange upp till fyra e-postadresser som meddelas när ett okänt SIM kort sätts i enheten, eller om du startar <b>TopSecret</b> applikationen.<BR>
+       <LI><b>Nöd meddelande</b>: skapa ditt eget meddelande som skickas när du startar <b>TopSecret</b>.<BR>
+       <LI><b>Se kommandologgen</b>: varje mottaget kommando sparas i en krypterad fil. Detta val visa dig vad RemoteTracker svarade.<BR>
+       <LI><b>Verkställ konfiguration</b>: spara konfigurationen utan att avsluta programmet.<BR>
+       <LI><b>Hjälp</b>: visar denna hjälp.<BR>
+       <LI><b>Om</b>: visar ett om fönster.<BR>
+     </UL>
+
+     <b>Skicka kommando till RemoteTracker</b><BR><BR>
+     För att skicka ett kommando till RemoteTracker, behöver du skicka ett SMS till din enhet. Detta SMS måste ha exakt denna syntax:<BR><BR>
+     <b>rt#[kommando]#[mobilnummer eller e-post adress]#[lösenord]</b><BR><BR>Där:<BR>
+
+     <UL>
+       <LI><b>rt#</b> är huvudet. Windows Mobile vet då att RemoteTracker skall startas;<br>
+       <LI><b>[kommando]</b> är kommandot som skall beartberas. Se listan nedan;<br>
+       <LI><b>[mobilnummer eller e-post adress]</b> valfritt. Om kommandot skall svaras med SMS, kan du ange mottagande mobilnummret. Om blank, skickas meddelandet till uppringaren. Om kommandot skall svaras med e-post, kan du ange mottagande e-post adress. Om blank, används default e-post adress;<BR>
+       <LI><b>[lösenord]</b> valfritt, men om definierad måste det anges.<BR>
+       <LI><b>#</b> detta tecken är separator. Du måste ange det mellan parametrar.<BR>
+     </UL>
+
+     <b>Exempel:</b><BR>
+
+     <UL>
+       <LI><b>rt#[kommando]</b> - bearbetar [kommando] och svara med SMS till uppringaren, inget lösenord;<br>
+       <LI><b>rt#[kommando]#12345678</b> - bearbetar [kommando] och svara med SMS till 12345678, inget lösenord;<br>
+       <LI><b>rt#[kommando]#12345678#1234</b> - bearbetar [kommando] och svara med SMS till 12345678 med 1234 som lösenord;<br>
+       <LI><b>rt#[kommando]##1234</b> - bearbetar [kommando] och svara  med SMS till uppringaren med 1234 som lösenord. Observera de dubbla <b>#</b>.<br>
+     </UL>
+
+     <b>Noteringar:</b>
+     <UL>
+       <LI>Alla kommandon som startar med <b>E</b> svaras med e-post;<BR>
+       <LI>Alla kommandon som startar med <b>F</b> svaras till FTP;<BR>
+       <LI>Vissa kommandon kräver extra parametrar. I detta fall är syntaxen: <b>rt#[kommando,parameter]#[mobilnummer eller e-post adress]#[lösenord]</b><BR>
+     </UL>
+
+     <b>Enkla kommandon</b><BR>
+       <UL>
+        <b>help</b> - skicka listan över kommandon med SMS<BR>
+        <b>cb</b> - ring ett samtal till ett nummer och låt mikrofonen vara på<BR>
+        <b>gp</b> - starta GPS:n och skicka koordinater<BR>
+        <b>pb</b> - skicka alla kontakter på SIM kort<BR>
+        <b>go</b> - skicka ägar information. Dessa anges i Start/Settings.<BR>
+        <b>rst</b> - mjukstarta enheten<BR>
+        <b>findme</b> - detta kommando är användart för att tala om för vänner var du är. Din vän skickar detta kommando till dig och din enhet frågar dig om du vill svara med koordinater. Detta kommando använder inte lösenord.<BR>
+        <b>alarm</b> - spela en ljudfil. Användbart om du förlagt din enhet t.ex. hemma...<BR>
+        <b>gi</b> - skicka enhetens IMEI nummer och det installerade SIM kortets IMSI nummer<BR>
+       </UL>
+
+     <b>E-post enkla kommandon</b><BR>
+       <UL>
+        <b>elt</b> - logga rutten din enhet färdas och skicka en KML fil med e-post för att visas i Google Earth<BR>
+        <b>ehelp</b> - samma som 'help', med e-post<BR>
+        <b>egp</b> - samma som 'gp', med e-post<BR>
+        <b>epb</b> - samma som 'pb', med e-post<BR>
+        <b>ego</b> - samma som 'go', med e-post<BR>
+        <b>egi</b> - samma som 'gi', med e-post<BR>
+      </UL>
+
+     <b>Avancerade kommandon</b><BR>
+       <UL>
+        <b>dsc</b> - ta bort SIM kontakter<BR>
+        <b>dkz</b> - ta bort KMZ filer<BR>
+        <b>ganfl</b> - skicka en lista över alla inkommande och utgående samtal om du har VITO Audio Notes installerad.<BR>
+        <b>gip</b> - skicka nuvarande IP adress. Om din enhet inte har en IP, kopplas en internet anslutning upp.<BR>
+        <b>vnc</b> - starta VNC server<BR>
+        <b>listapp</b> - lista alla installerade applikationer<BR>
+        <b>runapp</b> - kör en definierad applikation. Detta kommando använder special syntaxen: <b>rt#runapp,[applikation att köra]##[lösenord]</b><BR>
+        <b>cellid</b> - skicka information från nuvarande cell torn<BR>
+        <b>lock</b> - lås din enhet. Detta kommando använder special syntaxen: <b>rt#lock,[personal lock message]##[lösenord]</b> . VAR FÖRSIKTIG MED DENNA KOMMANDO. ANVÄND DET INTE OM DU INTE KAN ANVÄNDA UPPLÅSNINGSKOMMANDOT!<BR>
+        <b>unlock</b> - lås upp din enhet<BR>
+        <b>msg</b> - visa ett meddelandefönster för användaren. Detta kommando använder special syntaxen: <b>rt#msg#[text att visa]#[lösenord]</b><BR>
+        <b>callhist</b> - skicka samtalshistoriken. Detta kommando använder special syntaxen: <b>rt#callhist,[antalet samtal]##[lösenord]</b><BR>
+      </UL>
+
+     <b>E-post avancerade kommandon</b><BR>
+       <UL>
+         <b>eganfl</b> - samma som 'ganfl', med e-post<BR>
+         <b>eganf</b> - skicka en lista över alla inkommande och utgående samtal om du har VITO Audio Notes installerad. Detta kommando använder special syntaxen: <b>rt#eganf,[Antal poster]##[lösenord]</b><BR>
+         <b>egip</b> - samma som 'gip', med e-post<BR>
+         <b>elistapp</b> - samma som 'listapp', med e-post<BR>
+         <b>ecellid</b> - samma som 'cellid', med e-post<BR>
+         <b>ecallhist</b> - samma som 'callhist', med e-post<BR>
+       </UL>
+
+     <B>FTP kommandon</b><BR>
+       <UL>
+        <b>ftp</b> - skicka filer till en konfiguerad server. Detta kommando använder special syntaxen: <b>rt#ftp,[fil1],[fil2],[fil3]##[lösenord]</b><BR>
+        <b>fhelp</b> - samma som 'help', till FTP konto<BR>
+        <b>fgp</b> - samma som 'gp', till FTP konto<BR>
+        <b>fpb</b> - samma som 'pb', till FTP konto<BR>
+        <b>flt</b> - samma som 'elt', till FTP konto<BR>
+        <b>fgo</b> - samma som 'go', till FTP konto<BR>
+        <b>fgi</b> - samma som 'gi', till FTP konto<BR>
+        <b>fganfl</b> - samma som 'ganfl', till FTP konto<BR>
+        <b>fganf</b> - samma som 'eganf', till FTP konto<BR>
+        <b>fgip</b> - samma som 'gip', till FTP konto<BR>
+        <b>flistapp</b> - samma som 'listapp', till FTP konto<BR>
+        <b>fcellid</b> - samma som 'cellid', till FTP konto<BR>
+        <b>fcallhist</b> - samma som 'callhist', till FTP konto<BR>
+      </UL>
+
+     <B>MortScript kommandon</B><BR>
+      <UL>
+        <b>mslist</b> - lista alla MortScript filer på din enhet<BR>
+        <b>emslist</b> - samma som 'mslist', med e-post<BR>
+        <b>fmslist</b> - samma som 'mslist', till FTP konto<BR>
+        <b>msrun</b> - kör MortScript filer på din enhet. Detta kommando använder special syntaxen: <b>rt#msrun,[script1],[script2],[script3]##[lösenord]<BR>
+      </UL>
+
+     RemoteTracker hemsida: <a href="http://remotetracker.sourceforge.net">http://remotetracker.sourceforge.net</a><br>
+     Kontakt: <a href="mailto:joubertvasc@gmail.com">joubertvasc@gmail.com</a><BR><BR>
+     Om du tycker programmet är användbart, gör gärna en donation genom att klicka <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2138678">here</a>.
+  </body>
+</html>

@@ -1,0 +1,6 @@
+D:\Temp\src\bin\Debug\DirectShowLib-2005.dll.config
+D:\Temp\src\bin\Debug\DirectShowLib-2005.dll
+D:\Temp\src\bin\Debug\DirectShowLib-2005.pdb
+D:\Temp\src\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\src\obj\Debug\DirectShowLib-2005.dll
+D:\Temp\src\obj\Debug\DirectShowLib-2005.pdb

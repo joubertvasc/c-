@@ -1,0 +1,45 @@
+básico
+
+SELECT 
+ month(id),
+ sum(recv) as Download,
+ sum(send) as Upload,
+ Download + Upload as Botha
+from
+ RateLog
+group by
+ month(id)
+;
+
+-- diário
+SELECT 
+ dateday, datemonth, dateyear,
+ sum(recv) as Download,
+ sum(send) as Upload,
+ Download + Upload as BothSides
+from
+ RateLog
+group by
+ dateday, datemonth, dateyear
+
+-- mensal
+SELECT 
+ datemonth, dateyear,
+ sum(recv) as Download,
+ sum(send) as Upload,
+ Download + Upload as BothSides
+from
+ RateLog
+group by
+ datemonth, dateyear
+ 
+-- anual
+SELECT 
+ dateyear,
+ sum(recv) as Download,
+ sum(send) as Upload,
+ Download + Upload as BothSides
+from
+ RateLog
+group by
+ dateyear 

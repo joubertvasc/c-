@@ -1,0 +1,10 @@
+D:\Temp\Samples\Capture\DxSnap\bin\Debug\SnapShot.exe
+D:\Temp\Samples\Capture\DxSnap\bin\Debug\SnapShot.pdb
+D:\Temp\Samples\Capture\DxSnap\bin\Debug\DirectShowLib-2005.dll
+D:\Temp\Samples\Capture\DxSnap\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\Samples\Capture\DxSnap\obj\Debug\SnapShot.Form1.resources
+D:\Temp\Samples\Capture\DxSnap\obj\Debug\DxSnap-2008.csproj.GenerateResource.Cache
+D:\Temp\Samples\Capture\DxSnap\obj\Debug\SnapShot.exe
+D:\Temp\Samples\Capture\DxSnap\obj\Debug\SnapShot.pdb
+D:\C#\Desktop\dxwbcap\Samples\Capture\DxSnap\obj\Debug\SnapShot.exe
+D:\C#\Desktop\dxwbcap\Samples\Capture\DxSnap\obj\Debug\SnapShot.pdb

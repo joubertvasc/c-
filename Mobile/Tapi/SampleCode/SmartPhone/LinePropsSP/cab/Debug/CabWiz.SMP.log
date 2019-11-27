@@ -1,0 +1,5 @@
+Warning: Section [DefaultInstall] key "AddReg" - there are no section entries to process
+Warning: Section [DestinationDirs] key "Shortcuts" is not using the string "%InstallDir%"
+Warning: Section [DestinationDirs] key "Files.X86" is not a valid file list
+Warning: Section [DefaultInstall] key "AddReg" - there are no section entries to process
+Error: Section [SourceDisksFiles.X86] - file C:\vs.net\CompactFrameworkSDK\v1.0.5000\Windows CE\Smartphone\wce400\X86\vsd_setup.dll not found

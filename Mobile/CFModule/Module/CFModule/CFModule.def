@@ -1,0 +1,9 @@
+; CFModule.def : Declares the module parameters for the DLL.
+
+LIBRARY      "CFModule"
+
+EXPORTS
+	Initialize			@1
+    ForwardCall			@2
+    CancelForward		@3
+    Shutdown			@4

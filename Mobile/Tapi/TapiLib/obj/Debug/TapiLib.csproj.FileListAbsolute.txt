@@ -1,0 +1,15 @@
+F:\Temp\tapi1.1\Tapi\TapiLib\bin\Debug\TapiLib.dll
+F:\Temp\tapi1.1\Tapi\TapiLib\bin\Debug\TapiLib.pdb
+F:\Temp\tapi1.1\Tapi\TapiLib\obj\Debug\ResolveAssemblyReference.cache
+F:\Temp\tapi1.1\Tapi\TapiLib\obj\Debug\TapiLib.dll
+F:\Temp\tapi1.1\Tapi\TapiLib\obj\Debug\TapiLib.pdb
+D:\Temp\Tapi\TapiLib\bin\Debug\TapiLib.dll
+D:\Temp\Tapi\TapiLib\bin\Debug\TapiLib.pdb
+D:\Temp\Tapi\TapiLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\Tapi\TapiLib\obj\Debug\TapiLib.dll
+D:\Temp\Tapi\TapiLib\obj\Debug\TapiLib.pdb
+D:\C#\Mobile\Tapi\TapiLib\bin\Debug\TapiLib.dll
+D:\C#\Mobile\Tapi\TapiLib\bin\Debug\TapiLib.pdb
+D:\C#\Mobile\Tapi\TapiLib\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\Mobile\Tapi\TapiLib\obj\Debug\TapiLib.dll
+D:\C#\Mobile\Tapi\TapiLib\obj\Debug\TapiLib.pdb

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Orcamento2005">
+</Property><Property Name="Solution File" Value="D:\C#\Mobile\Orcamento2005\Orcamento2005\Orcamento2005.sln">
+</Property><Property Name="User Options File" Value="D:\C#\Mobile\Orcamento2005\Orcamento2005\Orcamento2005.suo">
+</Property><Property Name="Date" Value="domingo, 6 de janeiro de 2008">
+</Property><Property Name="Time" Value="21:59">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Orcamento2005.sln" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Orcamento2005.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Orcamento2005.suo" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Orcamento2005.suo">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Orcamento2005.csproj" Description="Project file successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Orcamento2005.csproj">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Orcamento2005.csproj.user" Description="Project user file successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Orcamento2005.csproj.user">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="CalculoJuros.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\CalculoJuros.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="CalculoJuros.Designer.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\CalculoJuros.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="CentroCusto.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\CentroCusto.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="CentroCusto.Designer.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\CentroCusto.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="CentroCustoDataSet.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\CentroCustoDataSet.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Consulta.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Consulta.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Consulta.Designer.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Consulta.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="ContaDataSet.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\ContaDataSet.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="ContaFixa.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\ContaFixa.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="ContaFixa.Designer.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\ContaFixa.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="ContaFixaDataSet.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\ContaFixaDataSet.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Contas.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Contas.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Contas.Designer.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Contas.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="ControleMensalDataSet.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\ControleMensalDataSet.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="CreditoFixo.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\CreditoFixo.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="CreditoFixo.Designer.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\CreditoFixo.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="CreditoFixoDataSet.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\CreditoFixoDataSet.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Lancamento.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Lancamento.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Lancamento.Designer.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Lancamento.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="LancamentoDataSet.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\LancamentoDataSet.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="LancamentoItem.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\LancamentoItem.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="LancamentoItens.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\LancamentoItens.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Menu.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Menu.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Menu.Designer.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Menu.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="OrcamentoDataBase.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\OrcamentoDataBase.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Prestacao.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Prestacao.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Prestacao.Designer.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Prestacao.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="PrestacaoCollection.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\PrestacaoCollection.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="PrestacaoDataSet.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\PrestacaoDataSet.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="PrestacoesCollection.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\PrestacoesCollection.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Program.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="SQLCEGeraCodigo.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\SQLCEGeraCodigo.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="SQLServerCEDataBase.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\SQLServerCEDataBase.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="TipoMovim.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\TipoMovim.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="TipoMovim.Designer.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\TipoMovim.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="TipoMovimDataSet.cs" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\TipoMovimDataSet.cs">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="SalesGraphs.ICO" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\SalesGraphs.ICO">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="CalculoJuros.resx" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\CalculoJuros.resx">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="CentroCusto.resx" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\CentroCusto.resx">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Consulta.resx" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Consulta.resx">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="ContaFixa.resx" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\ContaFixa.resx">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Contas.resx" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Contas.resx">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="CreditoFixo.resx" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\CreditoFixo.resx">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Lancamento.resx" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Lancamento.resx">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Menu.resx" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Menu.resx">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Prestacao.resx" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Prestacao.resx">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Properties\Resources.resx" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="TipoMovim.resx" Description="File successfully backed up as D:\C#\Mobile\Orcamento2005\Orcamento2005\Backup\TipoMovim.resx">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Orcamento2005.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Orcamento2005" Source="Orcamento2005.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Orcamento2005.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Orcamento2005.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="CalculoJuros.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Orcamento2005" Source="CalculoJuros.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="CentroCusto.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Orcamento2005" Source="CentroCusto.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Consulta.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Orcamento2005" Source="Consulta.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="ContaFixa.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Orcamento2005" Source="ContaFixa.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Contas.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Orcamento2005" Source="Contas.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="CreditoFixo.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Orcamento2005" Source="CreditoFixo.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Lancamento.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Orcamento2005" Source="Lancamento.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Menu.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Orcamento2005" Source="Menu.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Prestacao.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Orcamento2005" Source="Prestacao.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Orcamento2005" Source="Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="TipoMovim.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Orcamento2005" Source="TipoMovim.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Orcamento2005.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Orcamento2005" Source="Orcamento2005.csproj" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event></UpgradeLog>

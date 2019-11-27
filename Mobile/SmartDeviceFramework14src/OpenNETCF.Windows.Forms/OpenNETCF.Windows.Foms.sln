@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "OpenNETCF.Windows.Forms", "OpenNETCF.Windows.Forms.csdproj", "{EB28E2E6-CE24-4D4A-8F38-C892D09783C2}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "OpenNETCF", "..\OpenNETCF\OpenNETCF.csdproj", "{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "OpenNETCF.Drawing", "..\OpenNETCF.Drawing\OpenNETCF.Drawing.csdproj", "{FA15C437-D0AA-4C99-A1F2-5581CAB8F7B8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		NDoc = NDoc
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{EB28E2E6-CE24-4D4A-8F38-C892D09783C2}.Debug.ActiveCfg = Debug|Windows CE
+		{EB28E2E6-CE24-4D4A-8F38-C892D09783C2}.Debug.Build.0 = Debug|Windows CE
+		{EB28E2E6-CE24-4D4A-8F38-C892D09783C2}.Debug.Deploy.0 = Debug|Windows CE
+		{EB28E2E6-CE24-4D4A-8F38-C892D09783C2}.NDoc.ActiveCfg = NDoc|Windows CE
+		{EB28E2E6-CE24-4D4A-8F38-C892D09783C2}.NDoc.Build.0 = NDoc|Windows CE
+		{EB28E2E6-CE24-4D4A-8F38-C892D09783C2}.NDoc.Deploy.0 = NDoc|Windows CE
+		{EB28E2E6-CE24-4D4A-8F38-C892D09783C2}.Release.ActiveCfg = Release|Windows CE
+		{EB28E2E6-CE24-4D4A-8F38-C892D09783C2}.Release.Build.0 = Release|Windows CE
+		{EB28E2E6-CE24-4D4A-8F38-C892D09783C2}.Release.Deploy.0 = Release|Windows CE
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.Debug.ActiveCfg = Debug|Windows CE
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.Debug.Build.0 = Debug|Windows CE
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.Debug.Deploy.0 = Debug|Windows CE
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.NDoc.ActiveCfg = NDoc|Windows CE
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.NDoc.Build.0 = NDoc|Windows CE
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.NDoc.Deploy.0 = NDoc|Windows CE
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.Release.ActiveCfg = Release|Windows CE
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.Release.Build.0 = Release|Windows CE
+		{EEE28D3C-9C36-4968-8AD1-0DE97C42B6B6}.Release.Deploy.0 = Release|Windows CE
+		{FA15C437-D0AA-4C99-A1F2-5581CAB8F7B8}.Debug.ActiveCfg = Debug|Windows CE
+		{FA15C437-D0AA-4C99-A1F2-5581CAB8F7B8}.Debug.Build.0 = Debug|Windows CE
+		{FA15C437-D0AA-4C99-A1F2-5581CAB8F7B8}.Debug.Deploy.0 = Debug|Windows CE
+		{FA15C437-D0AA-4C99-A1F2-5581CAB8F7B8}.NDoc.ActiveCfg = Release|Windows CE
+		{FA15C437-D0AA-4C99-A1F2-5581CAB8F7B8}.NDoc.Build.0 = Release|Windows CE
+		{FA15C437-D0AA-4C99-A1F2-5581CAB8F7B8}.NDoc.Deploy.0 = Release|Windows CE
+		{FA15C437-D0AA-4C99-A1F2-5581CAB8F7B8}.Release.ActiveCfg = Release|Windows CE
+		{FA15C437-D0AA-4C99-A1F2-5581CAB8F7B8}.Release.Build.0 = Release|Windows CE
+		{FA15C437-D0AA-4C99-A1F2-5581CAB8F7B8}.Release.Deploy.0 = Release|Windows CE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
